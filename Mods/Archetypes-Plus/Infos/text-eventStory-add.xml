@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES</zType>
+		<English><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of astronomy, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
+
+What role best suits {CHARACTER-SHORT-0}? ]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEAR_PARENT_ASTRONOMY</zType>
+		<English><![CDATA[We have received an update from your <masculine_CHARACTER-0>son<feminine>daughter<end> in training. <masculine_CHARACTER-0>He<feminine>She<end> wishes to study with high masters of astronomy, whose teachings are essential to inquisitive nature of humankind. However, this access comes at a price.
+
+Shall we send the necessary funds to {CHARACTER-SHORT-0}?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TACTICS_TO_ASTRONOMY</zType>
+		<English><![CDATA[We have heard reports that {CHARACTER-0} struggles with <masculine_CHARACTER-0>his<feminine>her<end> tactics training. Perhaps we should explore educating <masculine_CHARACTER-0>him<feminine>her<end> in astronomy instead.
+
+What shall we do?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASTRONOMY_TO_COMMERCE</zType>
+		<English><![CDATA[News has reached us that your heir, {CHARACTER-SHORT-0}, ignores the lessons of <masculine_CHARACTER-0>his<feminine>her<end> astronomy masters. The court wishes to invest wisely in {CHARACTER-SHORT-0}, but perhaps astronomy is not <masculine_CHARACTER-0>his<feminine>her<end> calling.
+
+How shall we proceed?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY</zType>
+		<English><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> astronomy studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
+
+What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></English>
+	</Entry>
+</Root>

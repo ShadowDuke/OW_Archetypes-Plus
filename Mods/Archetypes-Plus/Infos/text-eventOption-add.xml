@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
+		<English>Sky Explorer, an inquisitive observer of the skies.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4</zType>
+		<English>We are wiser than anything on Earth.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> is a natural sage.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study Astronomy.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
+		<English>Kann zu link(TRAIT_SKYEXPLORER_ARCHETYPE) oder link(TRAIT_SCHOLAR_ARCHETYPE) führen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_NO</zType>
+		<English><![CDATA[There is no need for further study]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_YES</zType>
+		<English><![CDATA[You will become a great astronomer.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_NO</zType>
+		<English><![CDATA[Leave <masculine_CHARACTER-0>him<feminine>her<end>, but hire a better tutor.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_YES</zType>
+		<English><![CDATA[Switch disciplines to astronomy.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_PUNISH</zType>
+		<English><![CDATA[Discipline the heir by removing <masculine_CHARACTER-0>his<feminine>her<end> allowance.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_CHANGE</zType>
+		<English><![CDATA[Switch the heir's studies to commerce.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_TUTOR</zType>
+		<English><![CDATA[The tutor is the problem, not the heir.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_0</zType>
+		<English>How to spread knowledge to others.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zType>
+		<English>How to turn inward in self disovery.</English>
+	</Entry>
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_SKYEXPLORER_ARCHETYPE</SourceTrait>
+		<iWonderModifier>-20</iWonderModifier>
+		<iBuildTurnChange>-1</iBuildTurnChange>
+		<iTechsAvailableChange>1</iTechsAvailableChange>
+	</Entry>
+</Root>

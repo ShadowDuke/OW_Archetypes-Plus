@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>MEMORYCHARACTER_STUDY_ASTRONOMY_PUNISH</zType>
+		<zText>Punished while Studying Astronomy</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+</Root>

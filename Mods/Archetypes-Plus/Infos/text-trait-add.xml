@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_STUDY_ASTRONOMY</zType>
+		<English>Astronomy Student</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
+		<English>Sky Explorer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BROADMINDED</zType>
+		<English>Broad-minded</English>
+	</Entry>
+</Root>
