@@ -169,7 +169,7 @@
 		<Text>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</Text>
 		<aeBonuses>
 			<zValue>BONUS_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zValue>
-			<zValue>BONUS_MONEY_LOSS_SMALL</zValue>
+			<zValue>BONUS_MONEY_LOSS_TINY</zValue>
 		</aeBonuses>
 	</Entry>
 </Root>
