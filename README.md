@@ -11,13 +11,13 @@ Archetypes, studies and traits for **Old World**. (WIP)
 
 ## Content (WIP)
 
-- 1 new study type: **Astronomy student** (+ 1 Legitimacy, +1 Wisdom, -1 Courage, -1 Discipline) - Can lead to: Sky Explorer or Scholar
+- 1 new study type: **Astronomy student** (+ 5 Legitimacy, +1 Wisdom, -1 Courage, -1 Discipline) - Can lead to: Sky Explorer or Scholar
 1. on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
 - 1 new trait: **Broad-minded** (+1 Charisma) - as well as the cognomen: The Broad-Minded
-- 1 new archetype: **Sky Explorer** (+4 Wisdom, Leader: -20% Wonder Costs, -1 Years to Build Improvements, +1 Tech Card Hand Size)
+- 1 new archetype: **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -20% Wonder Costs, -1 Years to Build Improvements, +1 Tech Card Hand Size)
 1. Can only serve as Ambassador
 2. Some families can have this new archetype as well
-- 1 new great person: **Great Stargazer** (only strings done)
+- 1 new great person: **Great Stargazer**
 
 ## Notes
 - I mainly set up the string structure to make it easier for the upcoming changes.
