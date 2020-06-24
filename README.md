@@ -15,7 +15,7 @@ Archetypes, studies and traits for **Old World**. (WIP)
 1. on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
 - 2 new traits:
 1. **Broad-minded** (+1 Charisma & +1 Wisdom) - as well as the cognomen: The Broad-Minded
-2. **Funded education** (-1 Charisma & +1 Wisdom) - testing: (cost: 50 training & 80 money)
+2. **Funded education** (-1 Charisma & +1 Wisdom) - testing: (cost: 50 training & 80 gold)
 - 1 new archetype: **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -20% Wonder Costs, -1 Years to Build Improvements, +1 Tech Card Hand Size)
 1. Can only serve as Ambassador
 2. Some families can have this new archetype as well
