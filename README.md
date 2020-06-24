@@ -23,3 +23,6 @@ Archetypes, studies and traits for **Old World**. (WIP)
 - I mainly set up the string structure to make it easier for the upcoming changes.
 - So, these values are not final and barely touched, mainly testing the waters here.
 - There will be defintely  another new study type: **Psychology** along with new traits and a new archetype.
+
+
+If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
