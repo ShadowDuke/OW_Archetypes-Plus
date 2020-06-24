@@ -3,7 +3,7 @@
 <Root>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<iLegitimacy>1</iLegitimacy>
+		<iLegitimacy>5</iLegitimacy>
 		<aiRatings>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -97,5 +97,23 @@
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4_CHARACTER_1</zType>
 		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_INTELLIGENT</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_EDUCATED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_COMPASSIONATE</zValue>
+		</aeAddTraits>
 	</Entry>
 </Root>

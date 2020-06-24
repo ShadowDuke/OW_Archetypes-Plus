@@ -2,24 +2,36 @@
 <!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
 <Root>
 	<Entry>
-		<zType>COUNCIL_CHANCELLOR</zType>
-		<zName>Chancellor</zName>
-		<zIconName>COUNCIL_CHANCELLOR</zIconName>
-		<TechPrereq>TECH_SPOKED_WHEEL</TechPrereq>
+		<zType>COUNCIL_AMBASSADOR</zType>
+		<zName>Ambassador</zName>
+		<zIconName>COUNCIL_AMBASSADOR</zIconName>
+		<TechPrereq>TECH_ARISTOCRACY</TechPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
-		<AssignMission>MISSION_CHANCELLOR</AssignMission>
+		<AssignMission>MISSION_AMBASSADOR</AssignMission>
+		<aiPlayerOpinion>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiPlayerOpinion>
+		<aiBarbarianOpinion>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiBarbarianOpinion>
 		<abTraitPrereq>
 			<Pair>
-				<zIndex>TRAIT_ZEALOT_ARCHETYPE</zIndex>
+				<zIndex>TRAIT_COMMANDER_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_JUDGE_ARCHETYPE</zIndex>
+				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_BUILDER_ARCHETYPE</zIndex>
+				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 			<Pair>
@@ -27,28 +39,5 @@
 				<bValue>1</bValue>
 			</Pair>
 		</abTraitPrereq>
-		<aaiRatingYieldRate>
-			<Pair>
-				<zIndex>RATING_DISCIPLINE</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>50</iValue>
-				</SubPair>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_ORDERS</zSubIndex>
-					<iValue>5</iValue>
-				</SubPair>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_WISDOM</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_CIVICS</zSubIndex>
-					<iValue>20</iValue>
-				</SubPair>
-			</Pair>
-		</aaiRatingYieldRate>
 	</Entry>
 </Root>

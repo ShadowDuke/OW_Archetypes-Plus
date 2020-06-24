@@ -61,4 +61,16 @@
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zType>
 		<English>How to turn inward in self disovery.</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
+		<English>You feel smart when debating with people.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
+		<English>You learned something from the book.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
+		<English>You were heartbroken for this man's situation.</English>
+	</Entry>
 </Root>

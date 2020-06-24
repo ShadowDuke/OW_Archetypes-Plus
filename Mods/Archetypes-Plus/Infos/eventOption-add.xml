@@ -143,4 +143,25 @@
 			<zValue>BONUS_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_2</zValue>
 		</aeBonuses>
 	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
+		<Text>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zValue>
+		</aeBonuses>
+	</Entry>
 </Root>
