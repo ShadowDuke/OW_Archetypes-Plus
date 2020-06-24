@@ -5,4 +5,8 @@
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<English>Sky Explorer Leader</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
+		<English>Funded Education</English>
+	</Entry>
 </Root>

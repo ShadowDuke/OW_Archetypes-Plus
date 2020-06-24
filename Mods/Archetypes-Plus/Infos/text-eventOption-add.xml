@@ -73,4 +73,8 @@
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
 		<English>You were heartbroken for this man's situation.</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></English>
+	</Entry>
 </Root>

@@ -116,4 +116,11 @@
 			<zValue>TRAIT_COMPASSIONATE</zValue>
 		</aeAddTraits>
 	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_PROSPEROUS</zValue>
+			<zValue>TRAIT_FUNDED</zValue>
+		</aeAddTraits>
+	</Entry>
 </Root>

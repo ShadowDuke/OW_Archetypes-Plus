@@ -9,4 +9,8 @@
 		<zType>COGNOMEN_BROADMINDED</zType>
 		<zName>The Broad-Minded</zName>
 	</Entry>
+	<Entry>
+		<zType>COGNOMEN_FUNDED</zType>
+		<zName>The Financed</zName>
+	</Entry>
 </Root>

@@ -7,6 +7,21 @@
 		<SourceTrait>TRAIT_SKYEXPLORER_ARCHETYPE</SourceTrait>
 		<iWonderModifier>-20</iWonderModifier>
 		<iBuildTurnChange>-1</iBuildTurnChange>
+		<iFatigueLimitChange>1</iFatigueLimitChange>
 		<iTechsAvailableChange>1</iTechsAvailableChange>
+		<bNoSellPenalty>1</bNoSellPenalty>
+		<aeTradeYield>
+			<zValue>YIELD_ORDERS</zValue>
+		</aeTradeYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldUpkeep>
 	</Entry>
 </Root>
