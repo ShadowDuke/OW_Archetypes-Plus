@@ -17,9 +17,9 @@ Archetypes, studies and traits for **Old World**. (WIP)
 1. **Broad-minded** (+1 Charisma & +1 Wisdom) - as well as the cognomen: The Broad-Minded
 2. **Funded education** (-1 Charisma & +1 Wisdom) - as well as the cognomen: The Financed [testing: (cost: 15 gold upkeep)]
 - 2 new archetypes:
-1. **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -10% Wonder Costs & +1 Tech Card Hand Size)
+1. **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -10% Wonder Costs & +1 Tech Card Hand Size) - as well as the cognomen: The Stargazer
 - Sky Explorer can only serve as Ambassador (and general?)
-2. **Corruptionist** (+ 3 Discipline, +1 Courage & -2 Charisma, (+50% chance to gain trait corrupt) Leader: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
+2. **Corruptionist** (+ 3 Discipline, +1 Courage & -2 Charisma, (+50% chance to gain trait corrupt) Leader: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements - as well as the cognomen: The Corruptionist
 - Every family havs given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
 - During studies theres a slight chance you are going to be a Corruptionist
 - 1 new great person: **Great Stargazer**
