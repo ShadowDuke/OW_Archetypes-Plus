@@ -19,12 +19,12 @@ Archetypes, studies and traits for **Old World**. (WIP)
    - **Funded education** - *Cognomen: The Financed*
         - -1 Charisma & +1 Wisdom - testing: (cost: 15 gold upkeep)
 - 2 new archetypes:
-   - **Sky Explorer** - *Cognomen: The Stargaze*
-     - +3 Wisdom & +1 Charisma
+   - **Sky Explorer** - *Cognomen: The Stargaze* (Education fee: 100 gold)
+     - +3 Wisdom & +1 Charisma - Can be a governor 
         - *Leader*: -10% Wonder Costs & +1 Tech Card Hand Size
         - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
-   - **Corruptionist** - *Cognomen: The Corruptionist* 
-     - +3 Discipline, +1 Courage & -2 Charisma
+   - **Corruptionist** - *Cognomen: The Corruptionist*  (Education fee: 100 gold)
+     - +3 Discipline, +1 Courage & -2 Charisma - Can be a governor or general
         - *Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
         - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
      
