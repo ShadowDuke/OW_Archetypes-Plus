@@ -20,7 +20,7 @@ Archetypes, studies and traits for **Old World**. (WIP)
 1. **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -10% Wonder Costs & +1 Tech Card Hand Size)
 - Sky Explorer can only serve as Ambassador (and general?)
 2. **Corruptionist** (+ 3 Discipline, +1 Courage & -2 Charisma, (+50% chance to gain trait corrupt) Leader: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
-- Some families can have this new archetypes as well
+- Every family havs given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
 - 1 new great person: **Great Stargazer**
 - 1 completely **new event** added (giving 3 answer options)
 - Added extra answer options to some events
