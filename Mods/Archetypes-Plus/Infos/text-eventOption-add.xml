@@ -5,6 +5,18 @@
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
 		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study Astronomy.]]></English>
 	</Entry>
+		<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
+		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study Pythagoreanism.]]></English>
+	</Entry>
+		<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
+		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE) and link(TRAIT_HERO_ARCHETYPE)</English>
+	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
 		<English>Sky Explorer, an inquisitive observer of the skies.</English>
@@ -18,6 +30,10 @@
 		<English>We are wiser than anything on Earth.</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zType>
+		<English><![CDATA[Its your heir, pursue him in your favour!]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_2</zType>
 		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> is a natural sage.]]></English>
 	</Entry>
@@ -26,8 +42,12 @@
 		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
-		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
+		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will look up to the stars now.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_NO</zType>
@@ -64,6 +84,18 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zType>
 		<English>How to turn inward in self disovery.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zType>
+		<English>They are hard working people.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zType>
+		<English>They are known for their proper handling.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zType>
+		<English>They are the best when it comes to building things.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>

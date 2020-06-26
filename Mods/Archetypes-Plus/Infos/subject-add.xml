@@ -7,10 +7,16 @@
 		<TraitPrereq>TRAIT_STUDY_ASTRONOMY</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_STUDY_PYTHAGOREANISM</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_STUDY_PYTHAGOREANISM</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_STUDY_ANY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
+			<zValue>TRAIT_STUDY_PYTHAGOREANISM</zValue>
 		</aeTraitAny>
 	</Entry>
 	<Entry>

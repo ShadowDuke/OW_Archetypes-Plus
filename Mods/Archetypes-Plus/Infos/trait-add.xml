@@ -7,6 +7,11 @@
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
+		<zType>TRAIT_STUDY_PYTHAGOREANISM</zType>
+		<Name>TEXT_TRAIT_STUDY_PYTHAGOREANISM</Name>
+		<bNoJob>1</bNoJob>
+	</Entry>
+	<Entry>
 		<zType>TRAIT_EXPLORING</zType>
 		<aeTraitInvalid>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
@@ -25,6 +30,7 @@
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
+		<bGeneralPrereq>0</bGeneralPrereq>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</LeaderEffectPlayer>
 		<Cognomen>COGNOMEN_SKYEXPLORER</Cognomen>
@@ -64,6 +70,7 @@
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iWarModifier>20</iWarModifier>
 		<bArchetype>1</bArchetype>
+		<bGeneralPrereq>1</bGeneralPrereq>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</LeaderEffectPlayer>
 		<Cognomen>COGNOMEN_CORRUPTIONIST</Cognomen>

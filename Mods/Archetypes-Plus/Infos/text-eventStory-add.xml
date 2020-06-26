@@ -8,6 +8,12 @@
 What role best suits {CHARACTER-SHORT-0}? ]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES</zType>
+		<English><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of pythagoreanism, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
+
+What role best suits {CHARACTER-SHORT-0}? ]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_DEAR_PARENT_ASTRONOMY</zType>
 		<English><![CDATA[We have received an update from your <masculine_CHARACTER-0>son<feminine>daughter<end> in training. <masculine_CHARACTER-0>He<feminine>She<end> wishes to study with high masters of astronomy, whose teachings are essential to inquisitive nature of humankind. However, this access comes at a price.
 
@@ -28,6 +34,12 @@ How shall we proceed?]]></English>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY</zType>
 		<English><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> astronomy studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
+
+What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM</zType>
+		<English><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> pythagoreanism studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
 
 What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></English>
 	</Entry>

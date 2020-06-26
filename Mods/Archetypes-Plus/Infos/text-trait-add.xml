@@ -6,6 +6,10 @@
 		<English>Astronomy Student</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_STUDY_PYTHAGOREANISM</zType>
+		<English>Pythagoreanism Student</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<English>Sky Explorer</English>
 	</Entry>

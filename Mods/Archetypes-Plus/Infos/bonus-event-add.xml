@@ -20,7 +20,38 @@
 		</aiRatings>
 		<aeAddTraits>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
+		</aeAddTraits>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_TINY</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
+		<iLegitimacy>2</iLegitimacy>
+		<aiRatings>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRatings>
+		<aeAddTraits>
+			<zValue>TRAIT_STUDY_PYTHAGOREANISM</zValue>
 			</aeAddTraits>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_SMALL</zValue>
+		</aeBonuses>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_DEAR_PARENT_ASTRONOMY_NO</zType>
@@ -87,6 +118,24 @@
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_AFFABLE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_ELOQUENT</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_ENGINEER</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
 		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 	</Entry>
@@ -97,6 +146,20 @@
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4_CHARACTER_1</zType>
 		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
+		<iDiscontentLevels>-3</iDiscontentLevels>
+		<iRebelUnits>2</iRebelUnits>
+		<iLegitimacy>5</iLegitimacy>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_GAIN_SMALL</zValue>
+		</aeBonuses>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>

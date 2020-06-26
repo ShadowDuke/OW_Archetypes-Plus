@@ -8,9 +8,21 @@
 		</aeRemoveTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_STUDY_PYTHAGOREANISM</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_STUDY_PYTHAGOREANISM</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_STUDY_ASTRONOMY</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_STUDY_PYTHAGOREANISM</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_STUDY_PYTHAGOREANISM</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>

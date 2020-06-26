@@ -10,6 +10,14 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
+		<zType>EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
+		<Text>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</Text>
+		<HelpText>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</HelpText>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_STUDY_PYTHAGOREANISM</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
 		<zType>EVENTOPTION_STUDY_ASTRONOMY_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
@@ -24,7 +32,62 @@
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>400</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
+				<iValue>800</iValue>
+			</Pair>
 		</aiEventOptionProb>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_STUDY_PYTHAGOREANISM_ARCHETYPES</zType>
+		<aiEventOptionProb>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
+				<iValue>700</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHOLAR</zIndex>
+				<iValue>1000</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
+				<iValue>600</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_JUDGE</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_DIPLOMAT</zIndex>
+				<iValue>1000</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ORATOR</zIndex>
+				<iValue>1000</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_BUILDER</zIndex>
+				<iValue>1000</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
+				<iValue>700</iValue>
+			</Pair>
+		</aiEventOptionProb>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zType>
+		<Text>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zType>
+		<Text>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zValue>
+		</aeBonuses>
 	</Entry>
 	<Entry>
 		<zType>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
@@ -112,6 +175,27 @@
 		<Text>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</Text>
 		<aeBonuses>
 			<zValue>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zType>
+		<Text>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>
