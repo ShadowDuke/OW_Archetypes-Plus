@@ -67,14 +67,10 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
-		<English>You feel smart when debating with people.</English>
+		<English>You had a look at the book.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
-		<English>You learned something from the book.</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
 		<English>You were heartbroken for this man's situation.</English>
 	</Entry>
 	<Entry>

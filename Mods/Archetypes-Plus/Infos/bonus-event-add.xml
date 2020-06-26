@@ -107,12 +107,6 @@
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
 		<aeAddTraits>
-			<zValue>TRAIT_EDUCATED</zValue>
-		</aeAddTraits>
-	</Entry>
-	<Entry>
-		<zType>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
-		<aeAddTraits>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
 		</aeAddTraits>
 	</Entry>

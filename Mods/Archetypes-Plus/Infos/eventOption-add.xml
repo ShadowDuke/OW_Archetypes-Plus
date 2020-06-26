@@ -213,13 +213,6 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
-		<zType>EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zType>
-		<Text>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</Text>
-		<aeBonuses>
-			<zValue>BONUS_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_2</zValue>
-		</aeBonuses>
-	</Entry>
-	<Entry>
 		<zType>EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zType>
 		<Text>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</Text>
 		<aeBonuses>
