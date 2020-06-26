@@ -8,7 +8,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 2. Set up a new game and go to Advanced Setup to find the mod at the bottom and enable it. 
 3. Start a new game
 
-## Content (WIP)
+## Content
 
 - 2 new study types:
    - **Astronomy student**  (Education fee: 100 gold)
@@ -35,7 +35,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
 - 1 new attribute:
    - **Fame**
-     - +2 Food & +2 Stone, +2 Wood, +2 Iron, +1 Order, +1 Culture & -4 Money
+     - +2 Food, +2 Stone, +2 Wood, +2 Iron, +1 Order, +1 Culture & -4 Money
         - *As Leader*: +4 Food & +4 Stone, +4 Wood, +4 Iron, +2 Orders, +2 Culture & -8 Money
         - *As Governor*: +3% Growth & +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +3% Defense
