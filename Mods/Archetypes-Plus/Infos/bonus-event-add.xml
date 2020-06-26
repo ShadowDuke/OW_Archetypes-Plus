@@ -17,6 +17,10 @@
 				<zIndex>RATING_DISCIPLINE</zIndex>
 				<iValue>-1</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
+			</Pair>
 		</aiRatings>
 		<aeAddTraits>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
@@ -44,6 +48,10 @@
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
 				<iValue>-1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
 			</Pair>
 		</aiRatings>
 		<aeAddTraits>

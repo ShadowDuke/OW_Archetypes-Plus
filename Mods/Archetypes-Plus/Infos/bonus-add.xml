@@ -2,6 +2,24 @@
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
 <Root>
 	<Entry>
+		<zType>BONUS_GAIN_FAME</zType>
+		<aiRatings>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRatings>
+	</Entry>
+	<Entry>
+		<zType>BONUS_LOSE_FAME</zType>
+		<aiRatings>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRatings>
+	</Entry>
+	<Entry>
 		<zType>BONUS_REMOVE_STUDY_ASTRONOMY</zType>
 		<aeRemoveTraits>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>COLOR_RATING_FAME</zType>
+		<zName>Fame</zName>
+		<ColorClass>COLORCLASS_RATINGS</ColorClass>
+		<zHexValue>#e2dfbc</zHexValue>
+	</Entry>
+</Root>
