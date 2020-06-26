@@ -17,11 +17,13 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Pythagoreanism student** (Education fee: 160 gold)
      - +2 Legitimacy, +1 Fame, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder or Hero
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
-- 2 new traits:
-   - **Broad-minded** - *Cognomen: The Broad-Minded*
+- 3 new traits:
+   - **Broad-minded**
         - +1 Charisma & +1 Wisdom
-   - **Funded education** - *Cognomen: The Financed*
+   - **Funded education**
         - -1 Charisma & +1 Wisdom - testing: (cost: 10 gold upkeep)
+   - **Famous Person**
+        - +1 Fame
 - 2 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
      - +3 Wisdom & +1 Charisma - Can be a governor
@@ -43,8 +45,9 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
    - During studies theres a slight chance you are going to be a Corruptionist or Sky Explorer (except tactics studies)
       - The chance is always below 100% for every added chance for an archetype to become
+   - Every named (real) character was looked through and a lof of them were given the "Famous Person" trait
    - Ministers have a chance of the new archetypes
-   - 2 new great persons: **Great Stargazer** & **Great Celebrity**
+   - 2 new great persons: **Great Stargazer** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
    - Added extra answer options to some events
 
@@ -55,7 +58,6 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 - [X] New Archetypes
 - [X] New Studies
 - [X] New Attribute
-- [ ] New Traits
-
+- [X] New Traits
 
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
