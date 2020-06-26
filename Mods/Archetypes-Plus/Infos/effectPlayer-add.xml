@@ -9,16 +9,6 @@
 		<iTechsAvailableChange>1</iTechsAvailableChange>
 	</Entry>
 	<Entry>
-		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
-		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
-		<aiYieldUpkeep>
-			<Pair>
-				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>-15</iValue>
-			</Pair>
-		</aiYieldUpkeep>
-	</Entry>
-	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
 		<SourceTrait>TRAIT_CORRUPTIONIST_ARCHETYPE</SourceTrait>
@@ -34,7 +24,7 @@
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>-15</iValue>
+				<iValue>-100</iValue>
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_YIELD_FOOD_HELP</zType>
+		<English>If the  {YIELD_FOOD}  from a city is high enough , training units who consume  {YIELD_FOOD}  are trained quicker.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_IRON_HELP</zType>
+		<English>Many military Units need  icon(YIELD_IRON)  to be able to train.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_WOOD_HELP</zType>
+		<English>It takes some time to get to the Forestry. It may be nessecary to send builders to forests and scrubs to harvest them.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_STONE_HELP</zType>
+		<English>Most Urban building types require Stoneicon(YIELD_STONE) to construct. Expect high demand for Stoneicon(YIELD_STONE) as the game matures and you unlock new technologies.</English>
+	</Entry>
+</Root>

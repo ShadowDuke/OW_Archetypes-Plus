@@ -2,7 +2,7 @@
 <!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
 <Root>
 	<Entry>
-		<zType>COURTIER_GREAT_STARGAZER</zType>
+		<zType>COURTIER_GREAT_SKYEXPLORER</zType>
 		<zName>Great Stargazer</zName>
 		<zIconName>COURTIER_GREAT_SCIENTIST</zIconName>
 		<aiRatingBase>
@@ -84,9 +84,125 @@
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
 				<iValue>20</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_HERO_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
 		</aiArchetypeDie>
 		<aeCognomen>
 			<zValue>COGNOMEN_SKYEXPLORER</zValue>
+		</aeCognomen>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_FAME</zType>
+		<zName>Great Celebrity</zName>
+		<zIconName>COURTIER_GREAT_MINISTER</zIconName>
+		<aiRatingBase>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiRatingBase>
+		<aiRatingRand>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiRatingRand>
+		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_PROSPEROUS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CARELESS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EXTRAVAGANT</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_TRAVELING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ROMANTIC</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SPOILED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PROUD</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_BEAUTIFUL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_INFAMOUS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_FAMOUS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PET_MONKEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_DEALMAKER</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiAdjectiveDie>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_TACTICIAN_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SCHOLAR_ARCHETYPE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_HERO_ARCHETYPE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiArchetypeDie>
+		<aeCognomen>
+			<zValue>COGNOMEN_FAME</zValue>
 		</aeCognomen>
 	</Entry>
 	<Entry>
@@ -94,7 +210,7 @@
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
-				<iValue>8</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
 		</Entry>
@@ -103,7 +219,7 @@
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
-				<iValue>5</iValue>
+				<iValue>8</iValue>
 			</Pair>
 		</aiArchetypeDie>
 	</Entry>
@@ -126,15 +242,6 @@
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
 				<iValue>5</iValue>
-			</Pair>
-		</aiArchetypeDie>
-	</Entry>
-	<Entry>
-		<zType>COURTIER_GREAT_SKYEXPLORER</zType>
-		<aiArchetypeDie>
-			<Pair>
-				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
-				<iValue>20</iValue>
 			</Pair>
 		</aiArchetypeDie>
 	</Entry>

@@ -17,4 +17,8 @@
 		<zType>COGNOMEN_FUNDED</zType>
 		<zName>The Financed</zName>
 	</Entry>
+	<Entry>
+		<zType>COGNOMEN_FAME</zType>
+		<zName>The Celebrity</zName>
+	</Entry>
 </Root>
