@@ -1,4 +1,4 @@
-# Archetypes-Plus (test version; structure ready, testing release)
+# Archetypes-Plus (testing version- considered payable)
 Archetypes, studies and traits for **Old World**. (WIP)
 
 ## Installation and use
@@ -14,11 +14,11 @@ Archetypes, studies and traits for **Old World**. (WIP)
 - 1 new study type: **Astronomy student** (+ 2 Legitimacy, +1 Wisdom, -1 Courage, -1 Discipline) - Can lead to: Sky Explorer or Scholar
 1. on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
 - 2 new traits:
-1. **Broad-minded** (+1 Charisma & +1 Wisdom) - as well as the cognomen: The Broad-Minded
-2. **Funded education** (-1 Charisma & +1 Wisdom) - as well as the cognomen: The Financed [testing: (cost: 15 gold upkeep)]
+1. **Broad-minded** - *Cognomen: The Broad-Minded* - (+1 Charisma & +1 Wisdom)
+2. **Funded education** - *Cognomen: The Financed* - (-1 Charisma & +1 Wisdom) - [testing: (cost: 15 gold upkeep)]
 - 2 new archetypes:
-1. **Sky Explorer** (+3 Wisdom & +1 Charisma, Leader: -10% Wonder Costs & +1 Tech Card Hand Size) - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty* - (as well as the cognomen: The Stargazer)
-2. **Corruptionist** (+ 3 Discipline, +1 Courage & -2 Charisma, Leader: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements) - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15& chance: Trait Debauched & +5% chance: Trait Greedy*  - (as well as the cognomen: The Corruptionist)
+1. **Sky Explorer** - *Cognomen: The Stargaze* - (+3 Wisdom & +1 Charisma; *Leader*: -10% Wonder Costs & +1 Tech Card Hand Size) - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
+2. **Corruptionist** - *Cognomen: The Corruptionist* - (+ 3 Discipline, +1 Courage & -2 Charisma; *Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements) - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
 - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
 - During studies theres a slight chance you are going to be a Corruptionist
 - Ministers have a chance of the new archetypes
