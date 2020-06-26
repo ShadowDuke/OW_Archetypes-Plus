@@ -17,4 +17,8 @@
 		<zType>BONUS_SET_SKYEXPLORER_ARCHETYPE</zType>
 		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 	</Entry>
+	<Entry>
+		<zType>BONUS_SET_CORRUPTIONIST_ARCHETYPE</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
+	</Entry>
 </Root>

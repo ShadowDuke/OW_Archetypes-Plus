@@ -3,39 +3,31 @@
 <Root>
 	<Entry>
 		<zType>COUNCIL_AMBASSADOR</zType>
-		<zName>Ambassador</zName>
-		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<TechPrereq>TECH_ARISTOCRACY</TechPrereq>
-		<iXP>5</iXP>
-		<iOpinion>40</iOpinion>
-		<AssignMission>MISSION_AMBASSADOR</AssignMission>
-		<aiPlayerOpinion>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiPlayerOpinion>
-		<aiBarbarianOpinion>
-			<Pair>
-				<zIndex>RATING_COURAGE</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiBarbarianOpinion>
 		<abTraitPrereq>
 			<Pair>
-				<zIndex>TRAIT_COMMANDER_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_CHANCELLOR</zType>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_SPYMASTER</zType>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTraitPrereq>

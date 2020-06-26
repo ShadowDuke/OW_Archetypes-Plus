@@ -19,8 +19,23 @@
 		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_PLAYER_CORRUPTIONIST</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_SKYEXPLORER</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CORRUPTIONIST</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_GREAT_SKYEXPLORER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<CourtierPrereq>COURTIER_GREAT_SKYEXPLORER</CourtierPrereq>
 	</Entry>
 </Root>

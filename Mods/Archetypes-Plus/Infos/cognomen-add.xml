@@ -6,6 +6,10 @@
 		<zName>The Stargazer</zName>
 	</Entry>
 	<Entry>
+		<zType>COGNOMEN_CORRUPTIONIST</zType>
+		<zName>The Corruptionist</zName>
+	</Entry>
+	<Entry>
 		<zType>COGNOMEN_BROADMINDED</zType>
 		<zName>The Broad-Minded</zName>
 	</Entry>

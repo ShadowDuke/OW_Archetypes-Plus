@@ -18,4 +18,24 @@
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_CORRUPTIONIST_ARCHETYPE</SourceTrait>
+		<iBuildTurnChange>-1</iBuildTurnChange>
+		<bNoSellPenalty>1</bNoSellPenalty>
+		<aeTradeYield>
+			<zValue>YIELD_ORDERS</zValue>
+		</aeTradeYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-15</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
 </Root>

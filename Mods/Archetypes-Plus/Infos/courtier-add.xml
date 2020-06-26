@@ -78,15 +78,64 @@
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_SCHOLAR_ARCHETYPE</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
-				<iValue>50</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiArchetypeDie>
 		<aeCognomen>
 			<zValue>COGNOMEN_SKYEXPLORER</zValue>
 		</aeCognomen>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_SOLDIER</zType>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>8</iValue>
+			</Pair>
+		</aiArchetypeDie>
+		</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_MINISTER</zType>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiArchetypeDie>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_MERCHANT</zType>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiArchetypeDie>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_SCIENTIST</zType>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiArchetypeDie>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_GREAT_SKYEXPLORER</zType>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiArchetypeDie>
 	</Entry>
 </Root>

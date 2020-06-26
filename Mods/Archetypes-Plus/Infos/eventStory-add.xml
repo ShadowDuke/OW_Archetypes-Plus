@@ -329,7 +329,7 @@
 		</aeOptions>
 		<Class>EVENTCLASS_STUDY</Class>
 		<iWeight>1</iWeight>
-		<iProb>50</iProb>
+		<iProb>25</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
 	<Entry>
