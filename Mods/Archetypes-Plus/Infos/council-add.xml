@@ -28,19 +28,15 @@
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
+				<bValue>3</bValue>
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
+				<bValue>3</bValue>
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
+				<bValue>2</bValue>
 			</Pair>
 		</abTraitPrereq>
 	</Entry>
@@ -63,10 +59,6 @@
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_BUILDER_ARCHETYPE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTraitPrereq>
