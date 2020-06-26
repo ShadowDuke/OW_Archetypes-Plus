@@ -3,7 +3,7 @@
 <Root>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<iLegitimacy>5</iLegitimacy>
+		<iLegitimacy>2</iLegitimacy>
 		<aiRatings>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
