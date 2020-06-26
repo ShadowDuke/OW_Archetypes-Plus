@@ -99,7 +99,7 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_FAME</zType>
-		<zName>Great Celebrity</zName>
+		<zName>Great Famous Person</zName>
 		<zIconName>COURTIER_GREAT_MINISTER</zIconName>
 		<aiRatingBase>
 			<Pair>

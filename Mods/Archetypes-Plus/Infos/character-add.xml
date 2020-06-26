@@ -2,33 +2,6 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType/>
-		<Gender/>
-		<FirstName/>
-		<Nation/>
-		<Father/>
-		<Mother/>
-		<Spouse/>
-		<Portrait/>
-		<CharacterSelectPortrait/>
-		<CharacterSelectBackgroundColor/>
-		<iAge/>
-		<iRating/>
-		<bInfertile/>
-		<bSuitorTemp/>
-		<aeTraits/>
-		<aeRelationships/>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_SUITOR_TEMP</zType>
-		<bSuitorTemp>1</bSuitorTemp>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_SUITOR_TEMP_BAD</zType>
-		<iRating>-2</iRating>
-		<bSuitorTemp>1</bSuitorTemp>
-	</Entry>
-	<Entry>
 		<zType>CHARACTER_ASHURBANIPAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ASHURBANIPAL</FirstName>
@@ -39,6 +12,7 @@
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
 			<zValue>TRAIT_EDUCATED</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -52,6 +26,7 @@
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
 			<zValue>TRAIT_PROSPEROUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -65,6 +40,7 @@
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_CUNNING</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -79,17 +55,8 @@
 		<aeTraits>
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_INSPIRING</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_NEFERURE</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_NEFERURE</FirstName>
-		<Nation>NATION_EGYPT</Nation>
-		<Mother>CHARACTER_HATSHEPSUT</Mother>
-		<Portrait>CHARACTER_PORTRAIT_NEFERURE</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_NEFERURE</CharacterSelectPortrait>
-		<iAge>8</iAge>
 	</Entry>
 	<Entry>
 		<zType>CHARACTER_PHILIP</zType>
@@ -103,6 +70,7 @@
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -116,6 +84,7 @@
 		<aeTraits>
 			<zValue>TRAIT_DEBAUCHED</zValue>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -132,6 +101,7 @@
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_BOLD</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -145,19 +115,7 @@
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_HARDY</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_ILIA</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_ILIA</FirstName>
-		<Nation>NATION_ROME</Nation>
-		<Portrait>CHARACTER_PORTRAIT_ILIA</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_ILIA</CharacterSelectPortrait>
-		<iAge>44</iAge>
-		<aeTraits>
-			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
-			<zValue>TRAIT_ROMANTIC</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -172,145 +130,8 @@
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
 			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_REMUS</zType>
-		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_REMUS</FirstName>
-		<Nation>NATION_ROME</Nation>
-		<Mother>CHARACTER_ILIA</Mother>
-		<Portrait>CHARACTER_PORTRAIT_REMUS</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_REMUS</CharacterSelectPortrait>
-		<iAge>22</iAge>
-		<aeTraits>
-			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
-			<zValue>TRAIT_BOLD</zValue>
-		</aeTraits>
-		<aeRelationships>
-			<Pair>
-				<zIndex>CHARACTER_ROMULUS</zIndex>
-				<zValue>RELATIONSHIP_VENGEFUL_AGAINST</zValue>
-			</Pair>
-		</aeRelationships>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_MATCH_BAD</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>22</iAge>
-		<iRating>-3</iRating>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_MATCH_NEUTRAL</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>22</iAge>
-		<iRating>0</iRating>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_MATCH_GOOD</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>22</iAge>
-		<iRating>3</iRating>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_YOUNG_HOSTAGE</zType>
-		<Gender>GENDER_MALE</Gender>
-		<iAge>16</iAge>
-		<aeTraits>
-			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
-			<zValue>TRAIT_INSPIRING</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_WITCH_QUEEN</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>30</iAge>
-		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_ELOQUENT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_TEACHING_THE_ENEMY</zType>
-		<Gender>GENDER_MALE</Gender>
-		<iAge>30</iAge>
-		<aeTraits>
-			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
-			<zValue>TRAIT_INTELLIGENT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_KINGS_RANSOM_MOTHER</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_STATEIRA</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_THRACIAN_FEMALE_01</Portrait>
-		<iAge>30</iAge>
-		<aeTraits>
-			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
-			<zValue>TRAIT_FOOLISH</zValue>
-			<zValue>TRAIT_STRICT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_KINGS_RANSOM_DAUGHTER_OLDER</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_BARSINE</FirstName>
-		<Mother>CHARACTER_KINGS_RANSOM_MOTHER</Mother>
-		<Portrait>CHARACTER_PORTRAIT_SCYTHIAN_FEMALE_01</Portrait>
-		<iAge>14</iAge>
-		<aeTraits>
-			<zValue>TRAIT_HARDY</zValue>
-			<zValue>TRAIT_TRACKER</zValue>
-			<zValue>TRAIT_HONEST</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_KINGS_RANSOM_DAUGHTER_YOUNGER</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_DRYPETIS</FirstName>
-		<Mother>CHARACTER_KINGS_RANSOM_MOTHER</Mother>
-		<Portrait>CHARACTER_PORTRAIT_SCYTHIAN_FEMALE_02</Portrait>
-		<iAge>8</iAge>
-		<aeTraits>
-			<zValue>TRAIT_FIERCE</zValue>
-			<zValue>TRAIT_EXPLORING</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_BARBARIAN_PRINCE</zType>
-		<Gender>GENDER_MALE</Gender>
-		<iAge>12</iAge>
-		<aeTraits>
-			<zValue>TRAIT_ROBUST</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_BARDIYA</zType>
-		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_BARDIYA</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_BARDIYA</Portrait>
-		<iAge>35</iAge>
-		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_INTELLIGENT</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_ZAMRA</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_ZAMRA</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_DIDO</Portrait>
-		<iAge>20</iAge>
-		<aeTraits>
-			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
-			<zValue>TRAIT_ELOQUENT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_MYSTERIOUS_INFANT</zType>
-		<Gender>GENDER_MALE</Gender>
-		<iAge>1</iAge>
 	</Entry>
 	<Entry>
 		<zType>CHARACTER_ATOSSA</zType>
@@ -322,25 +143,7 @@
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_BOLD</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_FOREST_FIRE_ORPHAN</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>19</iAge>
-		<aeTraits>
-			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
-			<zValue>TRAIT_INTELLIGENT</zValue>
-			<zValue>TRAIT_FRUGAL</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_VERY_CHARMING</zType>
-		<Gender>GENDER_FEMALE</Gender>
-		<iAge>18</iAge>
-		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -354,6 +157,7 @@
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -367,6 +171,7 @@
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
 			<zValue>TRAIT_CUNNING</zValue>
 			<zValue>TRAIT_INTOLERANT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -381,6 +186,7 @@
 			<zValue>TRAIT_PIOUS</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -395,6 +201,7 @@
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_INSPIRING</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -409,6 +216,7 @@
 			<zValue>TRAIT_HUMBLE</zValue>
 			<zValue>TRAIT_FORESTER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -423,6 +231,7 @@
 			<zValue>TRAIT_COMPASSIONATE</zValue>
 			<zValue>TRAIT_FIERCE</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -437,6 +246,7 @@
 			<zValue>TRAIT_HERBALIST</zValue>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
 			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -452,6 +262,7 @@
 			<zValue>TRAIT_INSPIRING</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
 			<zValue>TRAIT_STRICT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -466,6 +277,7 @@
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_SUPERSTITIOUS</zValue>
 			<zValue>TRAIT_PROUD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -480,6 +292,7 @@
 			<zValue>TRAIT_BLESSED</zValue>
 			<zValue>TRAIT_RANGER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -494,6 +307,7 @@
 			<zValue>TRAIT_HUMBLE</zValue>
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -508,6 +322,7 @@
 			<zValue>TRAIT_DIVINE</zValue>
 			<zValue>TRAIT_CUNNING</zValue>
 			<zValue>TRAIT_SMELTER</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -522,6 +337,7 @@
 			<zValue>TRAIT_ROBUST</zValue>
 			<zValue>TRAIT_ANGLER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -536,20 +352,7 @@
 			<zValue>TRAIT_BITTER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_STRICT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_TUTOR_CARTHAGE_MAGO</zType>
-		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_TUTOR_MAGO</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_NAME_TUTOR_MAGO</Portrait>
-		<iAge>50</iAge>
-		<iRating>2</iRating>
-		<aeTraits>
-			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
-			<zValue>TRAIT_PLANTER</zValue>
-			<zValue>TRAIT_HIGHLANDER</zValue>
-			<zValue>TRAIT_HUMBLE</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -564,6 +367,7 @@
 			<zValue>TRAIT_SUPERSTITIOUS</zValue>
 			<zValue>TRAIT_HERBALIST</zValue>
 			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -578,6 +382,7 @@
 			<zValue>TRAIT_AFFABLE</zValue>
 			<zValue>TRAIT_DEALMAKER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -592,6 +397,7 @@
 			<zValue>TRAIT_ELOQUENT</zValue>
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_ROMANTIC</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -606,6 +412,7 @@
 			<zValue>TRAIT_PIOUS</zValue>
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -620,6 +427,7 @@
 			<zValue>TRAIT_ENGINEER</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_KEEN</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -634,20 +442,7 @@
 			<zValue>TRAIT_COWARDLY</zValue>
 			<zValue>TRAIT_HEARTBROKEN</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_TUTOR_PERSIA_HARPAGUS</zType>
-		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_TUTOR_HARPAGUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_NAME_TUTOR_HARPAGUS</Portrait>
-		<iAge>60</iAge>
-		<iRating>2</iRating>
-		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_CARELESS</zValue>
-			<zValue>TRAIT_LOYAL</zValue>
-			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -662,6 +457,7 @@
 			<zValue>TRAIT_BOLD</zValue>
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -676,20 +472,7 @@
 			<zValue>TRAIT_CORRUPT</zValue>
 			<zValue>TRAIT_EXTRAVAGANT</zValue>
 			<zValue>TRAIT_AFFABLE</zValue>
-		</aeTraits>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_PIEFACE</zType>
-		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_PIEFACE</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_PIEFACE</Portrait>
-		<iAge>50</iAge>
-		<iRating>2</iRating>
-		<aeTraits>
-			<zValue>TRAIT_AFFABLE</zValue>
-			<zValue>TRAIT_DRUNK</zValue>
-			<zValue>TRAIT_UNCOUTH</zValue>
-			<zValue>TRAIT_FOOLISH</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -703,6 +486,7 @@
 			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_COWARDLY</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -716,6 +500,7 @@
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
 			<zValue>TRAIT_HUMBLE</zValue>
 			<zValue>TRAIT_GRACIOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -729,6 +514,7 @@
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
   <Entry>
@@ -742,6 +528,7 @@
       <zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
       <zValue>TRAIT_INTELLIGENT</zValue>
       <zValue>TRAIT_STRICT</zValue>
+	  <zValue>TRAIT_FAMOUS_PERSON</zValue>
     </aeTraits>
   </Entry>
   <Entry>
@@ -755,6 +542,7 @@
       <zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
       <zValue>TRAIT_BOLD</zValue>
       <zValue>TRAIT_EDUCATED</zValue>
+	  <zValue>TRAIT_FAMOUS_PERSON</zValue>
     </aeTraits>
   </Entry>
 </Root>
