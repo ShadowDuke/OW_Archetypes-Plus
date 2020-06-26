@@ -23,7 +23,7 @@ Archetypes, studies and traits for **Old World**. (WIP)
 - During studies theres a slight chance you are going to be a Corruptionist
 - Ministers have a chance of the new archetypes
 - 1 new great person: **Great Stargazer**
-- 1 completely **new event** added (giving 3 answer options)
+- 1 completely **new event** added (giving 2 answer options)
 - Added extra answer options to some events
 
 ## Notes
