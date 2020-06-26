@@ -37,7 +37,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Fame**
      - +2 Food, +2 Stone, +2 Wood, +2 Iron, +1 Order, +1 Culture & -4 Money
         - *As Leader*: +4 Food & +4 Stone, +4 Wood, +4 Iron, +2 Orders, +2 Culture & -8 Money
-        - *As Governor*: +3% Growth & +6% Civics, +6% Culture, +6% Science, +3% Money
+        - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +3% Defense
 
 - ### Info
