@@ -48,6 +48,7 @@ Archetypes, studies and traits for **Old World**. (WIP)
 
 - [X] New Archetypes
 - [X] New Studies
+- [ ] New Attribute (Fame - testing)
 - [ ] New Traits
 
 
