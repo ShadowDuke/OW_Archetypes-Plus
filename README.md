@@ -55,7 +55,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 ~~- I mainly set up the string structure to make it easier for the upcoming changes.~~
 - So, these values are not final ~~and barely touched~~, mainly testing the waters here.
 
-- [ ] New Archetypes (Artist)
+- [ ] New Archetypes (Artist, Merchant)
 - [X] New Studies
 - [X] New Attribute
 - [X] New Traits
