@@ -23,7 +23,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Funded education** - *Cognomen: The Financed*
         - -1 Charisma & +1 Wisdom - testing: (cost: 15 gold upkeep)
 - 2 new archetypes:
-   - **Sky Explorer** - *Cognomen: The Sky Explorer*
+   - **Sky Explorer** - *Cognomen: The Stargazer*
      - +3 Wisdom & +1 Charisma - Can be a governor
         - *Leader*: -10% Wonder Costs & +1 Tech Card Hand Size
         - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
@@ -32,7 +32,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
         - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
 - 1 new attribute:
-   - **Fame** - *Cognomen: The Famous*
+   - **Fame**
      - +1 Food & +1 Stone, +1 Wood, +1 Iron, -1 Training & -2 Money
         - *Leader*: +2 Food & +2 Stone, +2 Wood, +2 Iron, -2 Training & -20 Money
 - ### Info
@@ -51,7 +51,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 
 - [X] New Archetypes
 - [X] New Studies
-- [ ] New Attribute (Fame - testing)
+- [X] New Attribute
 - [ ] New Traits
 
 
