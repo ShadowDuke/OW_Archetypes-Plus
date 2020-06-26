@@ -16,7 +16,7 @@ Archetypes, studies and traits for **Old World**. (WIP)
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
    - **Pythagoreanism student** (Education fee: 160 gold)
      - +2 Legitimacy, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder or Hero
-        - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics in city) and Engineer (+50% attack across river from mil. units).
+        - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics in city) and Engineer (General +50% attack across river from mil. units).
 - 2 new traits:
    - **Broad-minded** - *Cognomen: The Broad-Minded*
         - +1 Charisma & +1 Wisdom
