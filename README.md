@@ -30,7 +30,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Leader*: -10% Wonder Costs & +1 Tech Card Hand Size
         - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
    - **Corruptionist** - *Cognomen: The Corruptionist* 
-     - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Masterspy
+     - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
         - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
 - 1 new attribute:
