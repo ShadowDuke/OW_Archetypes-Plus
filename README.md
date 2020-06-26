@@ -14,13 +14,19 @@ Archetypes, studies and traits for **Old World**. (WIP)
    - **Astronomy student** (+ 2 Legitimacy, +1 Wisdom, -1 Courage, -1 Discipline) - Can lead to: Sky Explorer or Scholar
      - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
 - 2 new traits:
-   - **Broad-minded** - *Cognomen: The Broad-Minded* - (+1 Charisma & +1 Wisdom)
-   - **Funded education** - *Cognomen: The Financed* - (-1 Charisma & +1 Wisdom) - [testing: (cost: 15 gold upkeep)]
+   - **Broad-minded** - *Cognomen: The Broad-Minded*
+        - +1 Charisma & +1 Wisdom
+   - **Funded education** - *Cognomen: The Financed*
+        - -1 Charisma & +1 Wisdom - testing: (cost: 15 gold upkeep)
 - 2 new archetypes:
-   - **Sky Explorer** - *Cognomen: The Stargaze* - (+3 Wisdom & +1 Charisma; *Leader*: -10% Wonder Costs & +1 Tech Card Hand Size)
-     - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
-   - **Corruptionist** - *Cognomen: The Corruptionist* - (+ 3 Discipline, +1 Courage & -2 Charisma; *Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements)
-     - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
+   - **Sky Explorer** - *Cognomen: The Stargaze*
+     - +3 Wisdom & +1 Charisma
+        - *Leader*: -10% Wonder Costs & +1 Tech Card Hand Size
+        - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
+   - **Corruptionist** - *Cognomen: The Corruptionist* 
+     - +3 Discipline, +1 Courage & -2 Charisma
+        - *Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
+        - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
      
 - ### Info
 
