@@ -3,11 +3,11 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></Translation>
+		<English><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></Translation>
+		<English><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
