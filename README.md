@@ -17,13 +17,6 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Pythagoreanism student** (Education fee: 160 gold)
      - +2 Legitimacy, +1 Fame, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist or Merchant
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
-- 3 new traits:
-   - **Broad-minded**
-        - +1 Charisma & +1 Wisdom
-   - **Funded education**
-        - -1 Charisma & +1 Wisdom - testing: (cost: 10 gold upkeep)
-   - **Famous Person**
-        - +1 Fame
 - 4 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
      - +3 Wisdom & +1 Fame - Can be a Governor
@@ -47,7 +40,14 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15% All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City
         - *As Governor*: (nothing yet)
-
+- 3 new traits:
+   - **Broad-minded**
+        - +1 Charisma & +1 Wisdom
+   - **Funded education**
+        - -1 Charisma & +1 Wisdom - testing: (cost: 10 gold upkeep)
+   - **Famous Person**
+        - +1 Fame
+        
 - 1 new attribute:
    - **Fame**
      - +2 Food, +2 Stone, +2 Wood, +2 Iron, +1 Order, +1 Culture & -4 Money
