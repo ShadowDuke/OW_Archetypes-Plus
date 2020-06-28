@@ -27,7 +27,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
-           - +25 Money/Year, -5 Civis/Year, -10% Money in every City & *Tyranny: +1 Discontent (*if Law is active)
+           - +25 Money/Year, -5 Civics/Year, -10% Money in every City & *Tyranny: +1 Discontent (*if Law is active)
         - *As Governor*: (nothing yet)
         - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy*
    - **Artist** - *Cognomen: The Artist* 
