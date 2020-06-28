@@ -5,6 +5,12 @@
 		<zType>TRAIT_STUDY_ASTRONOMY</zType>
 		<Name>TEXT_TRAIT_STUDY_ASTRONOMY</Name>
 		<bNoJob>1</bNoJob>
+		<aiTraitProb>
+				<Pair>
+				<zIndex>TRAIT_WITTY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiTraitProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_STUDY_PYTHAGOREANISM</zType>
@@ -106,6 +112,20 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiTraitProb>
+		<aiMortalityDieProb>
+			<Pair>
+				<zIndex>MORTALITY_LONG</zIndex>
+				<iValue>0</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>MORTALITY_STANDARD</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>MORTALITY_REALISTIC</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiMortalityDieProb>
 		<aeTraitInvalid>
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
@@ -135,6 +155,28 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitProb>
+			<Pair>
+				<zIndex>TRAIT_ROMANTIC</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PET_FISH</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EXOTIC</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_HERBALIST</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EDUCATED</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiTraitProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
@@ -161,6 +203,28 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitProb>
+			<Pair>
+				<zIndex>TRAIT_ILL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_DEALMAKER</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_GREEDY</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EXOTIC</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PET_MONKEY</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiTraitProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>
@@ -199,6 +263,10 @@
 	<Entry>
 		<zType>TRAIT_BEAUTIFUL</zType>
 		<aiRating>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>2</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
 				<iValue>1</iValue>

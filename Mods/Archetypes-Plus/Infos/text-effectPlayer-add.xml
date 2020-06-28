@@ -11,11 +11,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Corruptionist Leader</English>
+		<English>Artist Leader</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<English>Corruptionist Leader</English>
+		<English>Merchant Leader</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
@@ -24,5 +24,21 @@
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
 		<English>Artist Education</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
+		<Translation>Himmelsforscher Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
+		<Translation>Bestechliches Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
+		<Translation>Künstler Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
+		<Translation>Händler Oberhaupt</Translation>
 	</Entry>
 </Root>

@@ -10,7 +10,7 @@
 For Governors {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} and {YIELD_MONEY}.
 For Generals, Fame increases the Unit's Defense Strength.
 		</zHelp>
-		<iDefenseModifier>1</iDefenseModifier>
+		<iDefenseModifier>3</iDefenseModifier>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>

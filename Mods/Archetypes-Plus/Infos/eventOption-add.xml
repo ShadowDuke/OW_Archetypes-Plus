@@ -219,8 +219,32 @@
 		<zType>EVENTOPTION_STUDY_TACTICS_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_COMMANDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_TACTICIAN</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ZEALOT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHEMER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>700</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>500</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
@@ -228,8 +252,28 @@
 		<zType>EVENTOPTION_STUDY_PHILOSOPHY_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_TACTICIAN</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ZEALOT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_JUDGE</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_BUILDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHOLAR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
-				<iValue>1000</iValue>
+				<iValue>900</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
@@ -244,6 +288,26 @@
 	<Entry>
 		<zType>EVENTOPTION_STUDY_RHETORIC_ARCHETYPES</zType>
 		<aiEventOptionProb>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ORATOR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_JUDGE</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHOLAR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_DIPLOMAT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
 				<iValue>900</iValue>
@@ -266,6 +330,26 @@
 		<zType>EVENTOPTION_STUDY_COMMERCE_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_COMMANDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHEMER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ORATOR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_BUILDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_DIPLOMAT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
 				<iValue>600</iValue>
 			</Pair>
@@ -282,6 +366,46 @@
 	<Entry>
 		<zType>EVENTOPTION_LEADER_ARCHETYPE</zType>
 		<aiEventOptionProb>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_COMMANDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_TACTICIAN</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ZEALOT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHEMER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ORATOR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_JUDGE</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_BUILDER</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_SCHOLAR</zIndex>
+				<iValue>900</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_DIPLOMAT</zIndex>
+				<iValue>900</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
 				<iValue>900</iValue>
