@@ -21,4 +21,12 @@
 		<zType>COGNOMEN_FAME</zType>
 		<zName>The Famous</zName>
 	</Entry>
+	<Entry>
+		<zType>COGNOMEN_ARTIST</zType>
+		<zName>The Artist</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_MERCHANT</zType>
+		<zName>The Merchant</zName>
+	</Entry>
 </Root>

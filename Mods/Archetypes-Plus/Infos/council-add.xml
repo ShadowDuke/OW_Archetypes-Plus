@@ -28,15 +28,19 @@
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
-				<bValue>3</bValue>
+				<bValue>1</bValue>
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
-				<bValue>3</bValue>
+				<bValue>1</bValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
-				<bValue>2</bValue>
+				<zIndex>TRAIT_ARTIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
 			</Pair>
 		</abTraitPrereq>
 	</Entry>

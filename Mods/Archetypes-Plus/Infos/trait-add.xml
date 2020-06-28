@@ -40,10 +40,6 @@
 				<iValue>3</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-			<Pair>
 				<zIndex>RATING_FAME</zIndex>
 				<iValue>1</iValue>
 			</Pair>
@@ -91,10 +87,6 @@
 				<zIndex>RATING_COURAGE</zIndex>
 				<iValue>1</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>1</iValue>
-			</Pair>
 		</aiRating>
 		<aiTraitProb>
 			<Pair>
@@ -118,6 +110,57 @@
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ARTIST_ARCHETYPE</zType>
+		<Name>TEXT_TRAIT_ARTIST_ARCHETYPE</Name>
+		<zIconName>TRAIT_ARTIST</zIconName>
+		<iNoFamilyDie>1</iNoFamilyDie>
+		<iWarModifier>0</iWarModifier>
+		<bArchetype>1</bArchetype>
+		<bGovernorPrereq>1</bGovernorPrereq>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</LeaderEffectPlayer>
+		<Cognomen>COGNOMEN_ARTIST</Cognomen>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
+		<Name>TEXT_TRAIT_MERCHANT_ARCHETYPE</Name>
+		<zIconName>TRAIT_MERCHANT</zIconName>
+		<iNoFamilyDie>1</iNoFamilyDie>
+		<iWarModifier>0</iWarModifier>
+		<bArchetype>1</bArchetype>
+		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGovernorPrereq>1</bGovernorPrereq>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</LeaderEffectPlayer>
+		<Cognomen>COGNOMEN_MERCHANT</Cognomen>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>-2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiRating>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>

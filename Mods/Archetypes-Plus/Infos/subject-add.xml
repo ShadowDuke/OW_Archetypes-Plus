@@ -55,6 +55,16 @@
 		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_ARTIST</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_ARTIST_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MERCHANT</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MERCHANT_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CORRUPTIONIST</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>

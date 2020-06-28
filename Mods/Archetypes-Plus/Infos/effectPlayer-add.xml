@@ -5,18 +5,73 @@
 		<zType>EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
 		<SourceTrait>TRAIT_SKYEXPLORER_ARCHETYPE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</EffectCity>
 		<iWonderModifier>-10</iWonderModifier>
 		<iTechsAvailableChange>1</iTechsAvailableChange>
+		<bRedrawTechs>1</bRedrawTechs>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
 		<SourceTrait>TRAIT_CORRUPTIONIST_ARCHETYPE</SourceTrait>
-		<iBuildTurnChange>-1</iBuildTurnChange>
-		<bNoSellPenalty>1</bNoSellPenalty>
+		<EffectCity>EFFECTCITY_TRAIT_CORRUPTIONIST_ARCHETYPE_ALL</EffectCity>
+		<iSwitchLawModifier>-25</iSwitchLawModifier>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>250</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldRate>
 		<aeTradeYield>
 			<zValue>YIELD_ORDERS</zValue>
 		</aeTradeYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_ARTIST_ARCHETYPE</SourceTrait>
+		<EffectPlayer>EFFECTPLAYER_TECH_DRAMA</EffectPlayer>
+		<EffectCity>EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</EffectCity>
+		<bStartMusic>1</bStartMusic>
+		<bRaiseImprovement>1</bRaiseImprovement>
+		<bMultipleWorkers>1</bMultipleWorkers>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_MERCHANT_ARCHETYPE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</EffectCity>
+		<iBuildTurnChange>-1</iBuildTurnChange>
+		<iLeaderOpinionChange>15</iLeaderOpinionChange>
+		<bNoSellPenalty>1</bNoSellPenalty>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_IRON</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
@@ -24,7 +79,7 @@
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>-100</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>

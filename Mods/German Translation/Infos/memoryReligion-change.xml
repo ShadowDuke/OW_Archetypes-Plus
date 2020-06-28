@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zText comment="Player-facing string describing the memory."/>
+		<MemoryLevel/>
+		<iValue comment="Effect of this memory on family opinion."/>
+		<iTurns comment="Number of turns this memory lasts."/>
+		<bName comment="Show the name for event options."/>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_LAW</zType>
+		<zText>Geweigert Gesetz zu ändern</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_FAMILY_WAR_YES</zType>
+		<zText>Für die Treue unserer Familie gekämpft</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_MOURNED_IN_PRAYER</zType>
+		<zText>Um das Kind getrauert</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_TRAINED_CHILD</zType>
+		<zText>Dein Kind ausgebildet</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_WONDER_HAGIA_SOPHIA</zType>
+		<zText>Unserem Glauben eine Heimat gegeben</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_LONG</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_ZOROASTRIANISM</zType>
+		<zText>Zoroastrismus übernommen</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_ZOROASTRIANISM</zType>
+		<zText>Zoroastrismus verbreitet</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_OUTLAWED_ZOROASTRIANISM</zType>
+		<zText>Zoroastrismus verboten</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_JAILED_MISSIONARY</zType>
+		<zText>Unseren Missionar im Gefägnis gelassen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_JUDAISM</zType>
+		<zText>Judentum übernommen</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_JUDAISM</zType>
+		<zText>Geweigert Judentum zu übernehmen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_CHRISTIANITY</zType>
+		<zText>Christentum verbreitet</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BROKE_UP_GATHERING</zType>
+		<zText>Unser Versammlungen aufgelöst</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_GATHERING</zType>
+		<zText>Erlaubt uns zu Versammeln</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_CHRISTIANITY</zType>
+		<zText>Christentum übernommen</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_MANICHAEISM</zType>
+		<zText>Manichäismus gegründet</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_SACRIFICES</zType>
+		<zText>Opferungen abgelehnt</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_LONG</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ORTHDOXY_AGAINST</zType>
+		<zText>Rechtgläubigkeit gegen uns entschieden</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_HYMNS_TO_THE_PEOPLE</zType>
+		<zText>Liedersammlung zu unserem Volk gebracht</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>MEMORYRELIGION_RUINS_RESTORED_TEMPLE</zType>
+		<zText>Antike Tempelruinen restauriert</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_GIVEN_INCENSE</zType>
+		<zText>Rituellen Weihrauch gegeben</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>MEMORYRELIGION_FUNDED_VAULTED_TEMPLES</zType>
+		<zText>Gewölbte Tempel finanziert</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_NO_FUNDING_TEMPLES</zType>
+		<zText>Wollte Gewölbte Tempel nicht finanzieren</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PROTECTED_PRACTITIONERS</zType>
+		<zText>Anhänger beschützt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PROTECTED_PILGRIMS</zType>
+		<zText>Unsere Pilger beschützt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_PERSECUTION</zType>
+		<zText>Unsere Verfolgung erlaubt</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_PURCHASE_OF_LAND</zType>
+		<zText>Landkauf für Grabstätte erlaubt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DENIED_PURCHASE</zType>
+		<zText>Gezwungen Land für Grabsttte zu leihen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_FREEING_SLAVES</zType>
+		<zText>Wollte nicht helfen Ägyptische Sklaven zu befreien</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_HELPED_FREE_SLAVES</zType>
+		<zText>Geholfen Ägyptische Sklaven zu befreien</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DEMANDED_WAR</zType>
+		<zText>Ägypten wegen den verklavten Menschen Krieg angedroht</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_HIGH_FOREVER</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BLOCKED_LAWS</zType>
+		<zText>Vorteilhafte Gesetze blockiert</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SUPPORTED_LAWS</zType>
+		<zText>Strafgesetze unterstüzt</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SWITCHED_STATE_RELIGION</zType>
+		<zText>Unsere Staatsreligion aufgegeben</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_WOULD_NOT_CONVERT</zType>
+		<zText>Wollte nicht konvertieren</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_FAVORED_OTHER_RELIGION</zType>
+		<zText>Anderen Glauben bevorzugt</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_IGNORED_AUGUSTINE</zType>
+		<zText>Das Oberhaupt Augustine ignoriert</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DECLARED_HOLY_WAR</zType>
+		<zText>Heiligen Krieg erklärt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_LONG</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_KEPT_THE_PEACE</zType>
+		<zText>Den Frieden bewahrt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_NEGOTIATED_RELEASE</zType>
+		<zText>Freilassung eines Priesters verhandelt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_PRISONER</zType>
+		<zText>Wollte inhaftierten Priester nicht helfen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_RESCUED_PRISONER</zType>
+		<zText>Inhaftierten Priester befreit</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SOLDIERS_FOR_ZOROASTER</zType>
+		<zText>Unsere Kämpfer kämpfen für Ahura Mazda</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SOLDIERS_FOR_RULER</zType>
+		<zText>Unsere Kämpfer lehnen Ahura Mazda ab</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BUILT_TREASURY</zType>
+		<zText>Avesta Schatzamt gebaut</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_TREASURY</zType>
+		<zText>RGeweigert neues Schatzamt zu unterstützen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PLACED_SECURITY</zType>
+		<zText>Sah uns als Hintermänner</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BUILT_SHRINE_TO_MARTYRS</zType>
+		<zText>Einen Schrein für Märtyrer gebaut</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_IMPRISONED_MURDEROUS_GENERAL</zType>
+		<zText>Blutrünstigen Feldherr inhaftiert</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DISHONORED_MARTYRS</zType>
+		<zText>Unsere Märtyrer entehrt</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BANNED_GATHERINGS</zType>
+		<zText>Unsere Versammlungen verboten</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SHARED_FAITH</zType>
+		<zText>Glauben mit Herrscher geteilt</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_NO</zType>
+		<zText>Geweigert unseren Glauben zu verbreiten</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_HIGH_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PUBLIC_SUPPORT</zType>
+		<zText>Den Glauben in Diplomatie unterstützt.</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_FALSE_RELIGION</zType>
+		<zText>Trügerische Religion übernommen</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYCHARACTER_REFUSED_LAW</zType>
+		<zText>Geweigert Gesetz zu ändern</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry beginGroup="Family">
+		<zType>MEMORYRELIGION_SHOWED_DEVOTION</zType>
+		<zText>Zeigte Zuneigung zu dem Glauben</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>MEMORYRELIGION_PARTICIPATED_IN_OPPOSING_RITUAL</zType>
+		<zText>Herrscher nahm an Ritualen anderer Religionen teil</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_LONG</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_MADE_OTHER_RELIGION_STATE</zType>
+		<zText>Machte andere Religion zur Staatsreligion</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+</Root>

@@ -18,6 +18,14 @@
 		<English>Corruptionist</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
+		<English>Artist</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
+		<English>Merchant</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
 		<English>Broad-minded</English>
 	</Entry>
@@ -28,5 +36,41 @@
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
 		<English>Famous Person</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STUDY_ASTRONOMY</zType>
+		<Translation>Schüler der Astronomie</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STUDY_PYTHAGOREANISM</zType>
+		<Translation>Schüler des Pythagoreismus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
+		<Translation>Himmelsforscher</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
+		<Translation>Bestechlicher</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
+		<Translation>Künstler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
+		<Translation>Händler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BROADMINDED</zType>
+		<Translation>Aufgeschlossen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FUNDED</zType>
+		<Translation>Finanziert</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
+		<Translation>Berühmte Person</Translation>
 	</Entry>
 </Root>

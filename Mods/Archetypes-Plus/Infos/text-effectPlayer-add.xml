@@ -10,7 +10,19 @@
 		<English>Corruptionist Leader</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
+		<English>Corruptionist Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
+		<English>Corruptionist Leader</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
 		<English>Funded Education</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
+		<English>Artist Education</English>
 	</Entry>
 </Root>

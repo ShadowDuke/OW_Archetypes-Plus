@@ -21,4 +21,24 @@
 		<zType>TEXT_EVENTSTORY_STUDY_BEARDY_MAN_TITLE</zType>
 		<English>Old beardy man </English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES_TITLE</zType>
+		<Translation>Lernt Astronomie</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES_TITLE</zType>
+		<Translation>Lernt Pythagoreismus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_TITLE</zType>
+		<Translation>Ausbildung abgeschlossen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_TITLE</zType>
+		<Translation>Ausbildung abgeschlossen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_BEARDY_MAN_TITLE</zType>
+		<Translation>Alter bärtiger Mann</Translation>
+	</Entry>
 </Root>

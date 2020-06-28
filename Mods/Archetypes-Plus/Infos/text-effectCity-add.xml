@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
+		<English>Artist Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
+		<English>Merchant Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</zType>
+		<English>Skyexplorer Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPTIONIST_ARCHETYPE_ALL</zType>
+		<English>Artist Leader</English>
+	</Entry>
+</Root>

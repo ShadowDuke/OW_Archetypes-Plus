@@ -2,22 +2,6 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_TACTICS_HELP</zType>
-		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_RHETORIC_HELP</zType>
-		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_COMMERCE_HELP</zType>
-		<English>Can lead to link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY_HELP</zType>
-		<English>Can lead to link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
 		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></Translation>
 	</Entry>
@@ -27,11 +11,95 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<Translation>Himmel Beobachter, ein neugieriger an inquisitive Beobachter des Himmels.</Translation>
+		<English>Sky Explorer, an inquisitive observer of the skies.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
-		<Translation>Ein durch und durch korrupter Politiker, kennt keine Skrupel.</Translation>
+		<English>An all through corrupted politician, has no scruples.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4</zType>
+		<English>We are wiser than anything on Earth.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zType>
+		<English><![CDATA[Its your heir, pursue him in your favour!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> is a natural sage.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will look up to the stars now.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_NO</zType>
+		<English><![CDATA[There is no need for further study]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_YES</zType>
+		<English><![CDATA[You will become a great astronomer.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_NO</zType>
+		<English><![CDATA[Leave <masculine_CHARACTER-0>him<feminine>her<end>, but hire a better tutor.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_YES</zType>
+		<English><![CDATA[Switch disciplines to astronomy.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_PUNISH</zType>
+		<English><![CDATA[Discipline the heir by removing <masculine_CHARACTER-0>his<feminine>her<end> allowance.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_CHANGE</zType>
+		<English><![CDATA[Switch the heir's studies to commerce.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_TUTOR</zType>
+		<English><![CDATA[The tutor is the problem, not the heir.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_0</zType>
+		<English>How to spread knowledge to others.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zType>
+		<English>How to turn inward in self disovery.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zType>
+		<English>They are hard working people.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zType>
+		<English>They are known for their proper handling.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zType>
+		<English>They are the best when it comes to building things.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
+		<English>You had a look at the book.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
+		<English>You were heartbroken for this man's situation.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
@@ -39,22 +107,38 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
-		<Translation>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder eventuell link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE) und link(TRAIT_HERO_ARCHETYPE) führen</Translation>
+		<Translation>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE) und link(TRAIT_HERO_ARCHETYPE) führen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TACTICS_HELP</zType>
-		<Translation>Kann zu link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), oder eventuell link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
+		<Translation>Kann zu link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), oder eventuell zu link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_RHETORIC_HELP</zType>
-		<Translation>Kann zu link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), oder eventuell link(TRAIT_SKYEXPLORER_ARCHETYPE) und link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
+		<Translation>Kann zu link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE) oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE) und link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_COMMERCE_HELP</zType>
-		<Translation>Kann zu link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), oder eventuell link(TRAIT_SKYEXPLORER_ARCHETYPE) und link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
+		<Translation>Kann zu link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE) und link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY_HELP</zType>
-		<Translation>Kann zu link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), oder eventuell link(TRAIT_CORRUPTIONIST_ARCHETYPE) führen</Translation>
+		<Translation>Kann zu link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), oder eventuell zu link(TRAIT_CORRUPTIONIST_ARCHETYPE) und link(TRAIT_ARTIST_ARCHETYPE) führen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
+		<Translation>Himmel Beobachter, ein neugieriger Beobachter des Himmels.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
+		<Translation>Ein durch und durch korrupter Politiker, kennt keine Skrupel.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</zType>
+		<Translation>Einer der sich mit diversen Arten der Kunst auskennt.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
+		<Translation>Einer der weiß wie man vernünftig handelt.</Translation>
 	</Entry>
 </Root>

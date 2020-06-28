@@ -2,20 +2,52 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study Astronomy.]]></English>
+		<zType>TEXT_EVENTOPTION_STUDY_TACTICS_HELP</zType>
+		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
 	</Entry>
-		<Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_RHETORIC_HELP</zType>
+		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_COMMERCE_HELP</zType>
+		<English>Can lead to link(TRAIT_MERCHANT_ARCHETYPE) link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY_HELP</zType>
+		<English>Can lead to link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE) and  link(TRAIT_ARTIST_ARCHETYPE)</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
 		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE)</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study Pythagoreanism.]]></English>
-	</Entry>
-		<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
-		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE) and link(TRAIT_HERO_ARCHETYPE)</English>
+		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE) and link(TRAIT_MERCHANT_ARCHETYPE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
+		<English>Sky Explorers,  an inquisitive oserver of the skies.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
+		<English>An all throughout corrupt politician, has no scruple.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</zType>
+		<English>Someone who has a vareity of knowledge of all certain things considered art.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
+		<English>Einer der weiß wie man vernünftig handelt.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>

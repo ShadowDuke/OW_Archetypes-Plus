@@ -18,6 +18,34 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
+		<zType>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
+		<Text>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</Text>
+		<aeBonuses>
+			<zValue>BONUS_SET_SKYEXPLORER_ARCHETYPE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
+		<Text>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</Text>
+		<aeBonuses>
+			<zValue>BONUS_SET_CORRUPTIONIST_ARCHETYPE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ARCHETYPE_ARTIST</zType>
+		<Text>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</Text>
+		<aeBonuses>
+			<zValue>BONUS_SET_ARTIST_ARCHETYPE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ARCHETYPE_MERCHANT</zType>
+		<Text>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</Text>
+		<aeBonuses>
+			<zValue>BONUS_SET_MERCHANT_ARCHETYPE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
 		<zType>EVENTOPTION_STUDY_ASTRONOMY_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
@@ -35,6 +63,10 @@
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
 				<iValue>800</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ARTIST</zIndex>
+				<iValue>900</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
@@ -73,6 +105,14 @@
 				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>
 				<iValue>700</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ARTIST</zIndex>
+				<iValue>700</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>700</iValue>
+			</Pair>
 		</aiEventOptionProb>
 	</Entry>
 	<Entry>
@@ -87,20 +127,6 @@
 		<Text>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</Text>
 		<aeBonuses>
 			<zValue>BONUS_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zValue>
-		</aeBonuses>
-	</Entry>
-	<Entry>
-		<zType>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<Text>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</Text>
-		<aeBonuses>
-			<zValue>BONUS_SET_SKYEXPLORER_ARCHETYPE</zValue>
-		</aeBonuses>
-	</Entry>
-	<Entry>
-		<zType>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
-		<Text>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</Text>
-		<aeBonuses>
-			<zValue>BONUS_SET_CORRUPTIONIST_ARCHETYPE</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>
@@ -153,15 +179,6 @@
 		<aeBonuses>
 			<zValue>BONUS_EVENTOPTION_ASTRONOMY_TO_COMMERCE_TUTOR</zValue>
 		</aeBonuses>
-	</Entry>
-	<Entry>
-		<zType>EVENTOPTION_STUDY_ASTRONOMY_ARCHETYPES</zType>
-		<aiEventOptionProb>
-			<Pair>
-				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
-				<iValue>1000</iValue>
-			</Pair>
-		</aiEventOptionProb>
 	</Entry>
 	<Entry>
 		<zType>EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_0</zType>
@@ -218,6 +235,10 @@
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>400</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ARTIST</zIndex>
+				<iValue>700</iValue>
+			</Pair>
 		</aiEventOptionProb>
 	</Entry>
 	<Entry>
@@ -231,6 +252,14 @@
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>600</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ARTIST</zIndex>
+				<iValue>800</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>700</iValue>
+			</Pair>
 		</aiEventOptionProb>
 	</Entry>
 	<Entry>
@@ -238,11 +267,15 @@
 		<aiEventOptionProb>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
-				<iValue>800</iValue>
+				<iValue>600</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>800</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>1000</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
@@ -251,11 +284,19 @@
 		<aiEventOptionProb>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SKYEXPLORER</zIndex>
-				<iValue>1000</iValue>
+				<iValue>900</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
 				<iValue>600</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_ARTIST</zIndex>
+				<iValue>800</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>800</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
