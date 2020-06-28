@@ -5,12 +5,6 @@
 		<zType>TRAIT_STUDY_ASTRONOMY</zType>
 		<Name>TEXT_TRAIT_STUDY_ASTRONOMY</Name>
 		<bNoJob>1</bNoJob>
-		<aiTraitProb>
-				<Pair>
-				<zIndex>TRAIT_WITTY</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiTraitProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_STUDY_PYTHAGOREANISM</zType>
