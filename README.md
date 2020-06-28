@@ -66,6 +66,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - Added extra answer options to some events
 
 ## Notes
+You might want to start one higher difficulty level as usually.
 ~~- I mainly set up the string structure to make it easier for the upcoming changes.~~
 ~~- So, these values are not final and barely touched, mainly testing the waters here.~~
 
