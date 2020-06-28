@@ -68,6 +68,18 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiTraitProb>
+		<aiDecadeProb>
+			<iValue>10</iValue>
+			<iValue>10</iValue>
+			<iValue>20</iValue>
+			<iValue>30</iValue>
+			<iValue>40</iValue>
+			<iValue>50</iValue>
+			<iValue>50</iValue>
+			<iValue>40</iValue>
+			<iValue>30</iValue>
+			<iValue>30</iValue>
+		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
@@ -126,6 +138,18 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiMortalityDieProb>
+		<aiDecadeProb>
+			<iValue>40</iValue>
+			<iValue>30</iValue>
+			<iValue>30</iValue>
+			<iValue>40</iValue>
+			<iValue>40</iValue>
+			<iValue>30</iValue>
+			<iValue>30</iValue>
+			<iValue>20</iValue>
+			<iValue>10</iValue>
+			<iValue>10</iValue>
+		</aiDecadeProb>
 		<aeTraitInvalid>
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
@@ -177,6 +201,18 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiTraitProb>
+		<aiDecadeProb>
+			<iValue>40</iValue>
+			<iValue>50</iValue>
+			<iValue>50</iValue>
+			<iValue>60</iValue>
+			<iValue>60</iValue>
+			<iValue>50</iValue>
+			<iValue>40</iValue>
+			<iValue>40</iValue>
+			<iValue>30</iValue>
+			<iValue>20</iValue>
+		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
@@ -225,6 +261,18 @@
 				<iValue>30</iValue>
 			</Pair>
 		</aiTraitProb>
+		<aiDecadeProb>
+			<iValue>30</iValue>
+			<iValue>50</iValue>
+			<iValue>60</iValue>
+			<iValue>50</iValue>
+			<iValue>50</iValue>
+			<iValue>40</iValue>
+			<iValue>30</iValue>
+			<iValue>20</iValue>
+			<iValue>10</iValue>
+			<iValue>0</iValue>
+		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>
