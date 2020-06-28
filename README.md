@@ -71,5 +71,6 @@ You might want to start one higher difficulty level as usually.
 - [X] New Studies
 - [X] New Attribute
 - [X] New Traits
+- [ ] Add more links between all new things
 
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
