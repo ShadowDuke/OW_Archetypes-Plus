@@ -27,7 +27,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
            - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> *If law is active*: Tyranny: +1 Discontent
-        - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy* <> [Chance to die: Long 0%, Standard 5% & Realistic 10%]
+        - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
      - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
         - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
