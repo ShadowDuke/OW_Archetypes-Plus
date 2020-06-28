@@ -45,7 +45,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - **Merchant** - *Cognomen: The Merchant* 
      - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15% All Foreign Leader Opinions
-           - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10 Money in every City
+           - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City
         - *As Governor*: (nothing yet)
 
 - 1 new attribute:
