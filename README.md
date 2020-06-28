@@ -11,10 +11,10 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 ## Content
 
 - 2 new study types:
-   - **Astronomy student**  (Education fee: 100 gold)
+   - **Astronomy student**  (Education fee: 50 gold)
      - +2 Legitimacy, +1 Fame, +1 Wisdom, -1 Courage & -1 Discipline - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
-   - **Pythagoreanism student** (Education fee: 160 gold)
+   - **Pythagoreanism student** (Education fee: 100 gold)
      - +2 Legitimacy, +1 Fame, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist or Merchant
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
 - 4 new archetypes:
