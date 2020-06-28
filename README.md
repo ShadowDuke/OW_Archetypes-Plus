@@ -26,20 +26,34 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - +1 Fame
 - 2 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
-     - +3 Wisdom & +1 Charisma - Can be a Governor or an Ambassador
-        - *As Leader*: -10% Wonder Costs & +1 Tech Card Hand Size
-        - *+50% chance: Trait Superstitious, +50% chance: Trait Uncouth, +35% chance: Trait Affable & +10% chance: Trait Witty*
+     - +3 Wisdom & +1 Fame - Can be a Governor
+        - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
+           - +5 Science/Year & +10% Science in every City
+        - *As Governor*: nothing yet
+        - *+50% Chance: Trait Superstitious, +50% Chance: Trait Uncouth, +35% Chance: Trait Affable & +10% Chance: Trait Witty*
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
-        - *As Leader*: Can buy/sell for the same price, Can buy/sell orders & -1 year for improvements
-        - *+50% chance: Trait Dealmaker, +50% chance: Trait Corrupt, +15% chance: Trait Debauched & +5% chance: Trait Greedy*
+        - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
+           - +25 Money/Year, -5 Civis/Year & -10% Money in every City
+        - *As Governor*: nothing yet   
+        - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy*
+   - **Artist** - *Cognomen: The Artist* 
+     - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
+        - *As Leader*: Start music, Can Build Improvements & Multiple Workers can build Improvements 
+           - +1 Culture per Culture Level in every City/Year & +5% Culture in every City
+        - *As Governor*: <nothing yet>        
+   - **Merchant** - *Cognomen: The Merchant* 
+     - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
+        - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15% All Foreign Leader Opinions
+           - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10 Money in every City
+        - *As Governor*: <nothing yet>        
+
 - 1 new attribute:
    - **Fame**
      - +2 Food, +2 Stone, +2 Wood, +2 Iron, +1 Order, +1 Culture & -4 Money
         - *As Leader*: +4 Food & +4 Stone, +4 Wood, +4 Iron, +2 Orders, +2 Culture & -8 Money
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +3% Defense
-
 - ### Info
 
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
