@@ -1,4 +1,4 @@
-# Archetypes-Plus (testing version- considered payable)
+# Archetypes-Plus (tested and balanced - considered payable)
 Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 
 ## Installation and use
@@ -24,29 +24,29 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - -1 Charisma & +1 Wisdom - testing: (cost: 10 gold upkeep)
    - **Famous Person**
         - +1 Fame
-- 2 new archetypes:
+- 4 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
      - +3 Wisdom & +1 Fame - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
            - +5 Science/Year & +10% Science in every City
-        - *As Governor*: nothing yet
+        - *As Governor*: (nothing yet)
         - *+50% Chance: Trait Superstitious, +50% Chance: Trait Uncouth, +35% Chance: Trait Affable & +10% Chance: Trait Witty*
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
-           - +25 Money/Year, -5 Civis/Year & -10% Money in every City
-        - *As Governor*: nothing yet   
+           - +25 Money/Year, -5 Civis/Year, -10% Money in every City & *Tyranny: +1 Discontent (*if Law is active)
+        - *As Governor*: (nothing yet)
         - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy*
    - **Artist** - *Cognomen: The Artist* 
      - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
-        - *As Leader*: Start music, Can Build Improvements & Multiple Workers can build Improvements 
+        - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
            - +1 Culture per Culture Level in every City/Year & +5% Culture in every City
-        - *As Governor*: <nothing yet>        
+        - *As Governor*: (nothing yet)
    - **Merchant** - *Cognomen: The Merchant* 
      - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15% All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10 Money in every City
-        - *As Governor*: <nothing yet>        
+        - *As Governor*: (nothing yet)
 
 - 1 new attribute:
    - **Fame**
@@ -67,9 +67,9 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 
 ## Notes
 ~~- I mainly set up the string structure to make it easier for the upcoming changes.~~
-- So, these values are not final ~~and barely touched~~, mainly testing the waters here.
+~~- So, these values are not final and barely touched, mainly testing the waters here.~~
 
-- [ ] New Archetypes (Artist, Merchant) [Done and testing..]
+- [X] New Archetypes
 - [X] New Studies
 - [X] New Attribute
 - [X] New Traits
