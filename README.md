@@ -62,6 +62,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
    - Ministers have a chance of the new archetypes
    - 2 new great persons: **Great Stargazer** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
+   - Added a bunch of new vents for trait probabilities
    - Added extra answer options to some events
 
 ## Notes
