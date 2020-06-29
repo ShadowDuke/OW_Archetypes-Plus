@@ -22,22 +22,22 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
      - +3 Wisdom & +1 Fame - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
            - +5 Science/Year & +5% Science in every City/Year <> *If law is active*: Iconography: +2 Orders
-        - *+50% Chance: Trait Superstitious, +50% Chance: Trait Uncouth, +35% Chance: Trait Affable & +10% Chance: Trait Witty*
+        - *+40% Chance: Trait Educated, +30% Chance: Trait Superstitious, +30% Chance: Trait Uncouth, +30% Chance: Trait Affable & +10% Chance: Trait Witty*
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
            - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> *If law is active*: Tyranny: +1 Discontent
-        - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
+        - *+30% Chance: Trait Dealmaker, +30% Chance: Trait Corrupt, +15% Chance: Trait Debauched & +5% Chance: Trait Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
      - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
         - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
            - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Improvement Theater: +5 Culture
-        - *+50% Chance: Trait Educated, +30% Chance: Trait Romantic, +30% Chance: Trait Herbalist,  +20% Chance: Trait Exotic & +20% Chance: Trait Pet Fish Owner*
+        - *+30% Chance: Trait Educated, +25% Chance: Trait Romantic, +25% Chance: Trait Herbalist, +20 Chance: Trait Pet Fish Owner & +15% Chance: Trait Exotic*
    - **Merchant** - *Cognomen: The Merchant* 
      - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
-        - *+50% Chance: Trait Dealmaker, +50% Chance: Trait Exotic, +30% Chance: Trait Greedy & +30% Chance: Pet Monkey Owner* <> [+10% Chance to get ill]
+        - *+40% Chance: Trait Dealmaker, +30% Chance: Trait Exotic, +25% Chance: Pet Monkey Owner & +20% Chance: Trait Greedy* <> [+10% Chance to get ill]
 
 - 3 new traits:
    - **Broad-minded**
