@@ -49,10 +49,6 @@
 				<zIndex>RATING_COURAGE</zIndex>
 				<iValue>-1</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>1</iValue>
-			</Pair>
 		</aiRatings>
 		<aeAddTraits>
 			<zValue>TRAIT_STUDY_PYTHAGOREANISM</zValue>

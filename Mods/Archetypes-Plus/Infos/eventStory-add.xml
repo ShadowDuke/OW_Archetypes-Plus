@@ -704,6 +704,7 @@
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_2_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<LawPrereq>LAW_TYRANNY</LawPrereq>
 		<iPriority>2</iPriority>
 		<iWeight>3</iWeight>
 		<iProb>30</iProb>
