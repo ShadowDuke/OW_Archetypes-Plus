@@ -142,6 +142,78 @@
 		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
+		<English>Thats nice to hear.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_2_OPTION_0</zType>
+		<English>I worked very hard.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_3_OPTION_0</zType>
+		<English>It was an enlightening experience.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_4_OPTION_0</zType>
+		<English>Shoo! Leave me alone you troublemakers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_5_OPTION_0</zType>
+		<English>I really do.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_1_OPTION_0</zType>
+		<English>Yes, i did.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_2_OPTION_0</zType>
+		<English>Comme on! Is not everyone corrupt?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_3_OPTION_0</zType>
+		<English>Sorry, i dont want to talk about it.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_4_OPTION_0</zType>
+		<English>Is this a bad thing?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_1_OPTION_0</zType>
+		<English>Im really romantic.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_2_OPTION_0</zType>
+		<English>Its a fish.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_3_OPTION_0</zType>
+		<English>The women love it.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_4_OPTION_0</zType>
+		<English>I have experience in vegetables.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_5_OPTION_0</zType>
+		<English>I am learning a lot.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_1_OPTION_0</zType>
+		<English>I can make good deals.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_2_OPTION_0</zType>
+		<English>I take what i get,.. and more.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_3_OPTION_0</zType>
+		<English>The women find it interesting.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zType>
+		<English>He is cute, is he not?.</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
 		<Translation>Kann zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), oder eventuell link(TRAIT_HERO_ARCHETYPE) führen</Translation>
 	</Entry>

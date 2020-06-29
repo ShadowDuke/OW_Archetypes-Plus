@@ -50,4 +50,80 @@ What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continui
 		
 What shall we do?]]></English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
+		<English>People like beeing around you.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zType>
+		<English>You came up with an extraordinary idea.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zType>
+		<English>You saw something strange passing the sky.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
+		<English>People are disturbing your work.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
+		<English>People are disturbing your work.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zType>
+		<English>You spent a lot of time studying new things.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zType>
+		<English>You bribed your way to make a good deal.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zType>
+		<English>You bribed a lot of people.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zType>
+		<English>You bribed someone for an "unusual" request.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zType>
+		<English>You cant get enough...</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zType>
+		<English>You are very romantic, expressing it in things at your art.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zType>
+		<English>You have a new pet friend.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zType>
+		<English>Your origin is from foreign lands.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zType>
+		<English>Over the time you learned what things you can harvest in the forest.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zType>
+		<English>The library is your second home.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zType>
+		<English>You are just talented in your business.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zType>
+		<English>You always want more and more..</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zType>
+		<English>After so many travels you started to act more like a foreigner.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zType>
+		<English>On one of your travels you got yourself a pet-monkey.</English>
+	</Entry>
 </Root>

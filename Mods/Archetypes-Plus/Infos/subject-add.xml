@@ -50,6 +50,16 @@
 		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_PLAYER_ARTIST</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitPrereq>TRAIT_ARTIST_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MERCHANT</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitPrereq>TRAIT_MERCHANT_ARCHETYPE</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_SKYEXPLORER</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
@@ -78,5 +88,33 @@
 		<zType>SUBJECT_FAMOUS_PERSON</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_FAMOUS_PERSON</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_SKYEXPLORER</zType>
+		<zName>Sky Explorer Leader</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
+		<bLeader>1</bLeader>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_CORRUPTIONIST</zType>
+		<zName>Corruptionist Leader</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>
+		<bLeader>1</bLeader>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_ARTIST</zType>
+		<zName>Artist Leader</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_ARTIST_ARCHETYPE</TraitPrereq>
+		<bLeader>1</bLeader>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_MERCHANT</zType>
+		<zName>Merchant Leader</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MERCHANT_ARCHETYPE</TraitPrereq>
+		<bLeader>1</bLeader>
 	</Entry>
 </Root>

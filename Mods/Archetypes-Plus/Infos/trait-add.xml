@@ -44,36 +44,6 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
-		<aiTraitProb>
-			<Pair>
-				<zIndex>TRAIT_AFFABLE</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_WITTY</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_SUPERSTITIOUS</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_UNCOUTH</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-		</aiTraitProb>
-		<aiDecadeProb>
-			<iValue>10</iValue>
-			<iValue>10</iValue>
-			<iValue>20</iValue>
-			<iValue>30</iValue>
-			<iValue>40</iValue>
-			<iValue>50</iValue>
-			<iValue>50</iValue>
-			<iValue>40</iValue>
-			<iValue>30</iValue>
-			<iValue>30</iValue>
-		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
@@ -100,24 +70,6 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
-		<aiTraitProb>
-			<Pair>
-				<zIndex>TRAIT_CORRUPT</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_DEBAUCHED</zIndex>
-				<iValue>15</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_GREEDY</zIndex>
-				<iValue>5</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_DEALMAKER</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-		</aiTraitProb>
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
@@ -132,18 +84,6 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiMortalityDieProb>
-		<aiDecadeProb>
-			<iValue>40</iValue>
-			<iValue>30</iValue>
-			<iValue>30</iValue>
-			<iValue>40</iValue>
-			<iValue>40</iValue>
-			<iValue>30</iValue>
-			<iValue>30</iValue>
-			<iValue>20</iValue>
-			<iValue>10</iValue>
-			<iValue>10</iValue>
-		</aiDecadeProb>
 		<aeTraitInvalid>
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
@@ -173,40 +113,6 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
-		<aiTraitProb>
-			<Pair>
-				<zIndex>TRAIT_ROMANTIC</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_PET_FISH</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_EXOTIC</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_HERBALIST</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_EDUCATED</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-		</aiTraitProb>
-		<aiDecadeProb>
-			<iValue>40</iValue>
-			<iValue>50</iValue>
-			<iValue>50</iValue>
-			<iValue>60</iValue>
-			<iValue>60</iValue>
-			<iValue>50</iValue>
-			<iValue>40</iValue>
-			<iValue>40</iValue>
-			<iValue>30</iValue>
-			<iValue>20</iValue>
-		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
@@ -238,35 +144,7 @@
 				<zIndex>TRAIT_ILL</zIndex>
 				<iValue>10</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>TRAIT_DEALMAKER</zIndex>
-				<iValue>50</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_GREEDY</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_EXOTIC</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_PET_MONKEY</zIndex>
-				<iValue>30</iValue>
-			</Pair>
 		</aiTraitProb>
-		<aiDecadeProb>
-			<iValue>30</iValue>
-			<iValue>50</iValue>
-			<iValue>60</iValue>
-			<iValue>50</iValue>
-			<iValue>50</iValue>
-			<iValue>40</iValue>
-			<iValue>30</iValue>
-			<iValue>20</iValue>
-			<iValue>10</iValue>
-			<iValue>0</iValue>
-		</aiDecadeProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>
