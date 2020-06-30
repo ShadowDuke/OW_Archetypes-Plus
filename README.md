@@ -15,9 +15,9 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
      - +2 Legitimacy, +1 Fame, +1 Wisdom, -1 Courage & -1 Discipline - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
    - **Pythagoreanism student** (Education fee: 100 gold)
-     - +2 Legitimacy, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist or Merchant
+     - +2 Legitimacy, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
-- 4 new archetypes:
+- 5 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
      - +3 Wisdom & +1 Fame - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
@@ -38,6 +38,11 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
         - *+40% Chance: Trait Dealmaker, +30% Chance: Trait Exotic, +25% Chance: Pet Monkey Owner & +20% Chance: Trait Greedy* <> [+10% Chance to get ill]
+   - **CHampion** - *Cognomen: The Champion* 
+     - +3 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
+        - *As Leader*: +5 Xp/Year for idle units, +10 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
+           - +15 Training/Year & +20% Training in every City/Year
+        - *+30% Chance: Trait Educated, +25% Chance: Trait Romantic, +25% Chance: Trait Herbalist, +20 Chance: Trait Pet Fish Owner & +15% Chance: Trait Exotic*
 
 - 3 new traits:
    - **Broad-minded**
@@ -56,7 +61,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 - ### Info
 
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
-   - During studies theres a slight chance you are going to be a one of new archetypes (except tactics studies)
+   - During studies theres a slight chance you are going to be a one of new archetypes
       - The chance is always below 100% for every added chance for an archetype to become
    - Every named (real) character was looked through and a lof of them were given the "Famous Person" trait
    - Ministers have a chance of the new archetypes
