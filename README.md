@@ -60,13 +60,13 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 - ### Info
 
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
-   - During studies theres a slight chance you are going to be a one of new archetypes
+   - During studies theres a slight chance you are going to be a one of the new archetypes
       - The chance is always below 100% for every added chance for an archetype to become
    - Every named (real) character was looked through and a lof of them were given the "Famous Person" trait
    - Ministers have a chance of the new archetypes
    - 2 new great persons: **Great Stargazer** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
-   - Added a bunch of new vents for trait probabilities
+   - Added a bunch of new events for trait probabilities
    - Added extra answer options to some events
 
 ## Notes
