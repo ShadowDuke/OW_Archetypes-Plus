@@ -74,6 +74,32 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_CHAMPION_ARCHETYPE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</EffectCity>
+		<iXPIdleTurn>5</iXPIdleTurn>
+		<iXPModifier>10</iXPModifier>
+		<aiUnitKillYield>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiUnitKillYield>
+		<aiWarYield>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>-200</iValue>
+			</Pair>
+		</aiWarYield>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>150</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
 		<aiYieldUpkeep>

@@ -26,6 +26,10 @@
 		<English>Merchant</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
+		<English>Champion</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
 		<English>Broad-minded</English>
 	</Entry>
@@ -60,6 +64,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
 		<Translation>Händler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
+		<Translation>Champion</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>

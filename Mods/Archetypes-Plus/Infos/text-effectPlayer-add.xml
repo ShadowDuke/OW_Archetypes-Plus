@@ -18,12 +18,12 @@
 		<English>Merchant Leader</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
-		<English>Funded Education</English>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
+		<English>Champion Leader</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Artist Education</English>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
+		<English>Funded Education</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
@@ -40,5 +40,9 @@
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
 		<Translation>Händler Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
+		<Translation>Champion Oberhaupt</Translation>
 	</Entry>
 </Root>

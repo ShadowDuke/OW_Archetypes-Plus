@@ -2,43 +2,6 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</Name>
-		<SourceTrait>TRAIT_ARTIST_ARCHETYPE</SourceTrait>
-		<aiYieldRateCulture>
-			<Pair>
-				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldRateCulture>
-		<aiYieldModifier>
-			<Pair>
-				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>15</iValue>
-			</Pair>
-		</aiYieldModifier>
-	</Entry>
-	<Entry>
-		<zType>EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</Name>
-		<SourceTrait>TRAIT_MERCHANT_ARCHETYPE</SourceTrait>
-		<aiYieldModifier>
-			<Pair>
-				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldModifier>
-		<aaiEffectCityYieldRate>
-			<Pair>
-				<zIndex>EFFECTCITY_LAW_MONETARY_REFORM</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>100</iValue>
-				</SubPair>
-			</Pair>
-		</aaiEffectCityYieldRate>
-	</Entry>
-	<Entry>
 		<zType>EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</zType>
 		<Name>TEXT_EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</Name>
 		<SourceTrait>TRAIT_SKYEXPLORER_ARCHETYPE</SourceTrait>
@@ -78,5 +41,54 @@
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</Name>
+		<SourceTrait>TRAIT_ARTIST_ARCHETYPE</SourceTrait>
+		<aiYieldRateCulture>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRateCulture>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</Name>
+		<SourceTrait>TRAIT_MERCHANT_ARCHETYPE</SourceTrait>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldModifier>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_LAW_MONETARY_REFORM</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</Name>
+		<SourceTrait>TRAIT_CHAMPION_ARCHETYPE</SourceTrait>
+		<bHurryTraining>1</bHurryTraining>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldModifier>
 	</Entry>
 </Root>

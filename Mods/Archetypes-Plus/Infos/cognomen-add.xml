@@ -29,4 +29,8 @@
 		<zType>COGNOMEN_MERCHANT</zType>
 		<zName>The Merchant</zName>
 	</Entry>
+	<Entry>
+		<zType>COGNOMEN_CHAMPION</zType>
+		<zName>The Champion</zName>
+	</Entry>
 </Root>

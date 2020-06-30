@@ -42,6 +42,10 @@
 				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
 		</abTraitPrereq>
 	</Entry>
 	<Entry>
@@ -120,6 +124,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTraitPrereq>

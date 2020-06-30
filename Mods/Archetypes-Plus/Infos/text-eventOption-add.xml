@@ -39,15 +39,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
-		<English>Einer der weiß wie man vernünftig handelt.</English>
+		<English>Someone who knows how to make good trade deals.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<English>Sky Explorer, an inquisitive observer of the skies.</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
-		<English>An all through corrupted politician, has no scruples.</English>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</zType>
+		<English>One who can have done several things to be awarded the title of a Champion.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
@@ -211,7 +207,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zType>
-		<English>He is cute, is he not?.</English>
+		<English>He is cute, is he not?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
@@ -252,5 +248,9 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
 		<Translation>Einer der weiß wie man vernünftig handelt.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</zType>
+		<Translation>Einer, der einige Sachen gemacht haben könnte, um den Titel Champion innezuhaben.</Translation>
 	</Entry>
 </Root>

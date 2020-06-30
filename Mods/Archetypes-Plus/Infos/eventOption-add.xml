@@ -46,6 +46,13 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
+		<zType>EVENTOPTION_ARCHETYPE_CHAMPION</zType>
+		<Text>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</Text>
+		<aeBonuses>
+			<zValue>BONUS_SET_CHAMPION_ARCHETYPE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
 		<zType>EVENTOPTION_STUDY_ASTRONOMY_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
@@ -112,6 +119,10 @@
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
 				<iValue>700</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_CHAMPION</zIndex>
+				<iValue>500</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
@@ -228,23 +239,23 @@
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_TACTICIAN</zIndex>
-				<iValue>900</iValue>
+				<iValue>800</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_ZEALOT</zIndex>
-				<iValue>900</iValue>
+				<iValue>800</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_SCHEMER</zIndex>
-				<iValue>900</iValue>
+				<iValue>800</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zIndex>
-				<iValue>700</iValue>
+				<iValue>600</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
-				<iValue>500</iValue>
+				<zIndex>EVENTOPTION_ARCHETYPE_CHAMPION</zIndex>
+				<iValue>900</iValue>
 			</Pair>
 		</aiEventOptionProb>
 	</Entry>
@@ -361,6 +372,10 @@
 				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
 				<iValue>1000</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_CHAMPION</zIndex>
+				<iValue>700</iValue>
+			</Pair>
 		</aiEventOptionProb>
 	</Entry>
 	<Entry>
@@ -420,6 +435,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_MERCHANT</zIndex>
+				<iValue>800</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>EVENTOPTION_ARCHETYPE_CHAMPION</zIndex>
 				<iValue>800</iValue>
 			</Pair>
 		</aiEventOptionProb>

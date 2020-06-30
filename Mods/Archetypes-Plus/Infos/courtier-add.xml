@@ -20,18 +20,10 @@
 				<zIndex>RATING_WISDOM</zIndex>
 				<iValue>3</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>3</iValue>
-			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>3</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
 				<iValue>3</iValue>
 			</Pair>
 		</aiRatingRand>
@@ -118,7 +110,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>3</iValue>
+				<iValue>1</iValue>
 			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
@@ -128,7 +120,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>3</iValue>
+				<iValue>1</iValue>
 			</Pair>
 		</aiRatingRand>
 		<aiAdjectiveDie>
@@ -217,6 +209,10 @@
 			<Pair>
 				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
 				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
+				<iValue>15</iValue>
 			</Pair>
 		</aiArchetypeDie>
 		<aeCognomen>
@@ -332,6 +328,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>

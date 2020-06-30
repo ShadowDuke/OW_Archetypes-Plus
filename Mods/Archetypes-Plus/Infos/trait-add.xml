@@ -50,7 +50,7 @@
 		<Name>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
 		<zIconName>TRAIT_CORRUPTIONIST</zIconName>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iWarModifier>20</iWarModifier>
+		<iWarModifier>15</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<bGovernorPrereq>1</bGovernorPrereq>
@@ -145,6 +145,40 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiTraitProb>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
+		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
+		<zIconName>TRAIT_CHAMPION</zIconName>
+		<iNoFamilyDie>1</iNoFamilyDie>
+		<iWarModifier>20</iWarModifier>
+		<bArchetype>1</bArchetype>
+		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGovernorPrereq>1</bGovernorPrereq>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</LeaderEffectPlayer>
+		<Cognomen>COGNOMEN_CHAMPION</Cognomen>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>

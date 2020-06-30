@@ -59,4 +59,8 @@
 		<zType>BONUS_SET_MERCHANT_ARCHETYPE</zType>
 		<SetArchetype>TRAIT_MERCHANT_ARCHETYPE</SetArchetype>
 	</Entry>
+	<Entry>
+		<zType>BONUS_SET_CHAMPION_ARCHETYPE</zType>
+		<SetArchetype>TRAIT_CHAMPION_ARCHETYPE</SetArchetype>
+	</Entry>
 </Root>
