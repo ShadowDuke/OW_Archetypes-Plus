@@ -38,12 +38,11 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
         - *+40% Chance: Trait Dealmaker, +30% Chance: Trait Exotic, +25% Chance: Pet Monkey Owner & +20% Chance: Trait Greedy* <> [+10% Chance to get ill]
-   - **CHampion** - *Cognomen: The Champion* 
+   - **Champion** - *Cognomen: The Champion* 
      - +3 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
         - *As Leader*: +5 Xp/Year for idle units, +10 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
            - +15 Training/Year & +20% Training in every City/Year
-        - *+30% Chance: Trait Educated, +25% Chance: Trait Romantic, +25% Chance: Trait Herbalist, +20 Chance: Trait Pet Fish Owner & +15% Chance: Trait Exotic*
-
+        
 - 3 new traits:
    - **Broad-minded**
         - +1 Charisma & +1 Wisdom
