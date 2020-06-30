@@ -186,108 +186,126 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_AFFABLE</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_2_OPTION_0</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_WITTY</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_3_OPTION_0</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_SUPERSTITIOUS</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_4_OPTION_0</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_UNCOUTH</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_5_OPTION_0</zType>
+		<SetArchetype>TRAIT_SKYEXPLORER_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_EDUCATED</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_1_OPTION_0</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_DEALMAKER</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_2_OPTION_0</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_CORRUPT</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_3_OPTION_0</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_DEBAUCHED</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_4_OPTION_0</zType>
+		<SetArchetype>TRAIT_CORRUPTIONIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_GREEDY</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARTIST_GOT_A_TRAIT_1_OPTION_0</zType>
+		<SetArchetype>TRAIT_ARTIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_ROMANTIC</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARTIST_GOT_A_TRAIT_2_OPTION_0</zType>
+		<SetArchetype>TRAIT_ARTIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_PET_FISH</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARTIST_GOT_A_TRAIT_3_OPTION_0</zType>
+		<SetArchetype>TRAIT_ARTIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_EXOTIC</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARTIST_GOT_A_TRAIT_4_OPTION_0</zType>
+		<SetArchetype>TRAIT_ARTIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_HERBALIST</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARTIST_GOT_A_TRAIT_5_OPTION_0</zType>
+		<SetArchetype>TRAIT_ARTIST_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_EDUCATED</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MERCHANT_GOT_A_TRAIT_1_OPTION_0</zType>
+		<SetArchetype>TRAIT_MERCHANT_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_DEALMAKER</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MERCHANT_GOT_A_TRAIT_2_OPTION_0</zType>
+		<SetArchetype>TRAIT_MERCHANT_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_GREEDY</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MERCHANT_GOT_A_TRAIT_3_OPTION_0</zType>
+		<SetArchetype>TRAIT_MERCHANT_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_EXOTIC</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zType>
+		<SetArchetype>TRAIT_MERCHANT_ARCHETYPE</SetArchetype>
 		<aeAddTraits>
 			<zValue>TRAIT_PET_MONKEY</zValue>
 		</aeAddTraits>
