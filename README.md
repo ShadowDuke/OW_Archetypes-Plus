@@ -1,4 +1,4 @@
-# Archetypes-Plus (tested and balanced - considered payable)
+# Archetypes-Plus
 Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
 
 ## Installation and use
