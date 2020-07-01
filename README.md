@@ -59,7 +59,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +9% Defense
         
- - 19 new (prominent/historical) characters: (traits selected to try to reflect their nature) **NO EVENTS YET**
+ - 19 new (prominent/historical) characters: (archetypes & traits selected to try to reflect their nature) **NO EVENTS YET**
    - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, Archimedes (tutor), Aristomachos
    - *Rome*: Dorotheos, Flavius Tribonianus, Marcus Antonius, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, Mnester
    - *Babylon*: Iddin-Marduk
