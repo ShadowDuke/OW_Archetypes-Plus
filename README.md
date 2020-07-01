@@ -68,7 +68,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
 - ### Info
 
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
-   - During studies theres a slight chance you are going to be a one of the new archetypes
+   - During studies theres a slight chance you are going to be one of the new archetypes
       - The chance is always below 100% for every added chance for an archetype to become
    - Every named (real) character was looked through and a lof of them were given the "Famous Person" trait
    - Ministers have a chance of the new archetypes
