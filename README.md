@@ -75,7 +75,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
    - 2 new great persons: **Great Stargazer** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
    - Added a bunch of new events for trait probabilities
-   - Added extra answer options to some events
+   - Added extra answer options to some vanilla events
 
 ## Notes
 You might want to start one higher difficulty level as usually.
