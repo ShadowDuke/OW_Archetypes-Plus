@@ -26,7 +26,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
         - *Individual probability chance of trait*: Educated, Superstitious, Uncouth, Affable & Witty
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
-        - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
+        - *As Leader*: Can Buy/Sell Orders, -25% Switch Law Cost & Can Hurry City Production with Orders
            - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> *If law is active*: Tyranny: +1 Discontent
         - *Individual probability chance of trait: Dealmaker, Corrupt, Debauched & Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
