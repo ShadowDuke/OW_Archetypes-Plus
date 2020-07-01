@@ -78,7 +78,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
    - Added extra answer options to some vanilla events
 
 ## Notes
-You might want to start one higher difficulty level as usually.
+You might want to start one higher difficulty level as usual.
 ~~- I mainly set up the string structure to make it easier for the upcoming changes.~~
 ~~- So, these values are not final and barely touched, mainly testing the waters here.~~
 
