@@ -35,7 +35,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
            - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Improvement Theater: +5 Culture
         - *Individual probability chance of trait*: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic
    - **Merchant** - *Cognomen: The Merchant* 
-     - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
+     - +3 Discipline, +2 Courage & -2 Wisdom - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
         - *Individual probability chance of trait*: Dealmaker, Exotic, Pet Monkey Owner & Greedy <> [+10% Chance to get ill]
