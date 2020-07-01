@@ -1,5 +1,5 @@
 # Archetypes-Plus
-Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
+Archetypes, studies, traits, one new attribute and 19 historical characters for **Old World**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this patch**
 ## Installation and use
@@ -59,7 +59,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +9% Defense
         
- - 19 new (prominent/real) characters: (traits selected to try to reflect their nature) **NO EVENTS YET**
+ - 19 new (prominent/historical) characters: (traits selected to try to reflect their nature) **NO EVENTS YET**
    - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, Archimedes (tutor), Aristomachos
    - *Rome*: Dorotheos, Flavius Tribonianus, Marcus Antonius, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, Mnester
    - *Babylon*: Iddin-Marduk
