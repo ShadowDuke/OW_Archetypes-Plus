@@ -3,22 +3,22 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</zType>
-		<English>Sky Explorer Leader</English>
+		<Translation>Himmelsforscher Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPTIONIST_ARCHETYPE_ALL</zType>
-		<English>Corruptionist Leader</English>
+		<Translation>Bestechliches Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
-		<English>Artist Leader</English>
+		<Translation>Künstler Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
-		<English>Merchant Leader</English>
+		<Translation>Händler Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</zType>
-		<English>Champion Leader</English>
+		<Translation>Champion Oberhaupt</Translation>
 	</Entry>
 </Root>

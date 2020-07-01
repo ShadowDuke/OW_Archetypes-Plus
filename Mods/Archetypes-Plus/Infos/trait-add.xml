@@ -13,13 +13,26 @@
 	</Entry>
 	<Entry>
 		<zType>TRAIT_EXPLORING</zType>
+		<Name>TEXT_TRAIT_EXPLORING</Name>
+		<bNoMarry>1</bNoMarry>
+		<bNoBirth>1</bNoBirth>
+		<bNoJob>1</bNoJob>
 		<aeTraitInvalid>
+			<zValue>TRAIT_STUDY_PHILOSOPHY</zValue>
+			<zValue>TRAIT_STUDY_COMMERCE</zValue>
+			<zValue>TRAIT_STUDY_RHETORIC</zValue>
+			<zValue>TRAIT_STUDY_TACTICS</zValue>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
 		</aeTraitInvalid>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TRAVELING</zType>
+		<Name>TEXT_TRAIT_TRAVELING</Name>
 		<aeTraitInvalid>
+			<zValue>TRAIT_STUDY_PHILOSOPHY</zValue>
+			<zValue>TRAIT_STUDY_COMMERCE</zValue>
+			<zValue>TRAIT_STUDY_RHETORIC</zValue>
+			<zValue>TRAIT_STUDY_TACTICS</zValue>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
 		</aeTraitInvalid>
 	</Entry>
@@ -208,6 +221,10 @@
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BEAUTIFUL</zType>
+		<Name>TEXT_TRAIT_BEAUTIFUL</Name>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<bAdjective>1</bAdjective>
+		<Cognomen>COGNOMEN_BEAUTIFUL</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>

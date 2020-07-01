@@ -3,26 +3,22 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<English>Sky Explorer Leader</English>
+		<Translation>Himmelsforscher Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<English>Corruptionist Leader</English>
+		<Translation>Bestechliches Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Artist Leader</English>
+		<Translation>Künstler Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<English>Merchant Leader</English>
+		<Translation>Händler Oberhaupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<English>Champion Leader</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
-		<English>Funded Education</English>
+		<Translation>Champion Oberhaupt</Translation>
 	</Entry>
 </Root>

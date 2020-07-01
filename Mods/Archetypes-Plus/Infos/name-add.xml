@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>NAME_POLYBIOS</zType>
+		<zName>Polybios</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ANTIPHON</zType>
+		<zName>Antiphon</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_DOROTHEOS</zType>
+		<zName>Dorotheos</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_DEMOSTHENSES</zType>
+		<zName>Demosthenes</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_TRIBONIANUS</zType>
+		<zName>Flavius Tribonianus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ANTONIUS</zType>
+		<zName>Marcus Antonius</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ARCHIMEDES</zType>
+		<zName>Archimedes</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_BRUTUS</zType>
+		<zName>Marcus Iunius Brutus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_CAMILLUS</zType>
+		<zName>Marcus Furius Camillus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_CATILINA</zType>
+		<zName>Lucius Sergius Catilina</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_CATULLUS</zType>
+		<zName>Gaius Valerius Catullus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_BATIATUS</zType>
+		<zName>Gnaeus Cornelius Lentulus Batiatus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_IDDIN_MARDUK</zType>
+		<zName>Iddin-Marduk</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_EUMACHIA</zType>
+		<zName>Eumachia</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_CICERO</zType>
+		<zName>Marcus Tullius Cicero</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ANKH_AF_NA_KHONSU</zType>
+		<zName>Ankh-af-na-khonsu</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ARISTOMACHOS</zType>
+		<zName>Aristomachos</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_MNESTER</zType>
+		<zName>Mnester</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_TUTOR_GREECE_ARCHIMEDES</zType>
+		<zName>Archimedes</zName>
+	</Entry>
+</Root>

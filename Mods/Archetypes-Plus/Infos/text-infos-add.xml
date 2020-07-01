@@ -16,20 +16,4 @@
 		<zType>TEXT_YIELD_STONE_HELP</zType>
 		<English>Most Urban building types require Stoneicon(YIELD_STONE) to construct. Expect high demand for Stoneicon(YIELD_STONE) as the game matures and you unlock new technologies.</English>
 	</Entry>
-	<Entry>
-		<zType>TEXT_YIELD_FOOD_HELP</zType>
-		<Translation>Wenn die  {YIELD_FOOD}  einer Stadt hoch ist können Einheiten die Nahrung zum ausbilden benötigen schneller ausgebildet werden.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_YIELD_IRON_HELP</zType>
-		<Translation>Viele militärische Einheiten Typen benötigen  icon(YIELD_IRON)  um kausgebildet zu werdenn.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_YIELD_WOOD_HELP</zType>
-		<Translation>Zur Sägewerk Verbesserung zu forschen braucht seine Zeit. Es kann möglich sein, dass man Baumiester zu Wäldern und Dickichten schicken muss um  icon(YIELD_WOOD)  von Bäumen und Unterholz zu fällen.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_YIELD_STONE_HELP</zType>
-		<Translation>Die meisten Städtischen Gebäude Typen benötigen   icon(YIELD_STONE)  um konstruiert zu werden.</Translation>
-	</Entry>
 </Root>

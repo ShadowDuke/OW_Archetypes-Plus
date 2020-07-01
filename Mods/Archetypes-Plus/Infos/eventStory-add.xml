@@ -608,7 +608,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -634,7 +634,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>10</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -660,7 +660,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -686,7 +686,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -712,7 +712,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>40</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -738,7 +738,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -765,7 +765,7 @@
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<LawPrereq>LAW_TYRANNY</LawPrereq>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -791,7 +791,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -817,7 +817,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>5</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -843,7 +843,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>25</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -869,7 +869,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>20</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -895,7 +895,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -921,7 +921,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>25</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -947,7 +947,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -973,7 +973,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>40</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -999,7 +999,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>20</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -1025,7 +1025,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -1051,7 +1051,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iPriority>2</iPriority>
-		<iWeight>3</iWeight>
+		<iWeight>1</iWeight>
 		<iProb>25</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>

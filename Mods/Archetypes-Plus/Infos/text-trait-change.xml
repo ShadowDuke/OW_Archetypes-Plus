@@ -3,42 +3,42 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_ASTRONOMY</zType>
-		<English>Astronomy Student</English>
+		<Translation>Schüler der Astronomie</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PYTHAGOREANISM</zType>
-		<English>Pythagoreanism Student</English>
+		<Translation>Schüler des Pythagoreismus</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<English>Sky Explorer</English>
+		<Translation>Himmelsforscher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<English>Corruptionist</English>
+		<Translation>Bestechlicher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Artist</English>
+		<Translation>Künstler</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<English>Merchant</English>
+		<Translation>Händler</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<English>Champion</English>
+		<Translation>Champion</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
-		<English>Broad-minded</English>
+		<Translation>Aufgeschlossen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FUNDED</zType>
-		<English>Funded</English>
+		<Translation>Finanziert</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<English>Famous Person</English>
+		<Translation>Berühmte Person</Translation>
 	</Entry>
 </Root>
