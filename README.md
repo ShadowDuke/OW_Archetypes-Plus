@@ -23,7 +23,7 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
      - +3 Wisdom & +1 Fame - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
            - +5 Science/Year & +5% Science in every City/Year <> *If law is active*: Iconography: +2 Orders
-        - *Individual probability chance of trait: Educated, Superstitious, Uncouth, Affable & Witty*
+        - *Individual probability chance of trait*: Educated, Superstitious, Uncouth, Affable & Witty
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, +25% Switch Law Cost & Can Hurry City Production with Orders
@@ -33,12 +33,12 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
      - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
         - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
            - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Improvement Theater: +5 Culture
-        - *Individual probability chance of trait: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic*
+        - *Individual probability chance of trait*: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic
    - **Merchant** - *Cognomen: The Merchant* 
      - +3 Discipline, +2 Courage & -2 Charisma - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
-        - *Individual probability chance of trait: Dealmaker, Exotic, Pet Monkey Owner & Greedy* <> [+10% Chance to get ill]
+        - *Individual probability chance of trait*: Dealmaker, Exotic, Pet Monkey Owner & Greedy <> [+10% Chance to get ill]
    - **Champion** - *Cognomen: The Champion* 
      - +3 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
         - *As Leader*: +5 Xp/Year for idle units, +10 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
@@ -88,6 +88,6 @@ You might want to start one higher difficulty level as usually.
 - [X] New Traits
 - [ ] Add more links between all new things
 - [ ] Add more characters
-- [ ] Add mevents so new characters can spawn
+- [ ] Add events so new characters can spawn
 
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
