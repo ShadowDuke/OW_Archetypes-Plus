@@ -57,6 +57,13 @@ Archetypes, studies, traits and one new attribute for **Old World**. (WIP)
         - *As Leader*: +4 Food & +4 Stone, +4 Wood, +4 Iron, +2 Orders, +2 Culture & -8 Money
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +9% Defense
+        
+ - 19 new (prominent/real) characters: (traits selected to try to reflect their nature) **NO EVENTS YET**
+   - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, Archimedes (tutor), Aristomachos
+   - *Rome*: Dorotheos, Flavius Tribonianus, Marcus Antonius, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, Mnester
+   - *Babylon*: Iddin-Marduk
+   - *Egypt*: Ankh-af-na-khonsu
+ 
 - ### Info
 
    - Every family have given a chance to gain the new archetypes (e.g. families focused on research become likely easier Sky Explorers than families focused on war)
@@ -79,5 +86,7 @@ You might want to start one higher difficulty level as usually.
 - [X] New Attribute
 - [X] New Traits
 - [ ] Add more links between all new things
+- [ ] Add more characters
+- [ ] Add mevents so new characters can spawn
 
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
