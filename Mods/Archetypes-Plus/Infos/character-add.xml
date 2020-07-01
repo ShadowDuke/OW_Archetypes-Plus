@@ -544,11 +544,11 @@
 	  <zValue>TRAIT_FAMOUS_PERSON</zValue>
     </aeTraits>
   </Entry>
-  <Entry>
+<Entry>
 		<zType>CHARACTER_ALCIBIADES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ALCIBIADES</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ALCIBIADES</Portrait>
 		<iAge>36</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -562,9 +562,9 @@
 		<zType>CHARACTER_POLYBIOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_POLYBIOS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_POLYBIOS</Portrait>
 		<iAge>29</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
@@ -577,9 +577,9 @@
 		<zType>CHARACTER_ANTIPHON</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANTIPHON</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ANTIPHON</Portrait>
 		<iAge>32</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
 			<zValue>TRAIT_HONEST</zValue>
@@ -594,7 +594,7 @@
 		<FirstName>NAME_DOROTHEOS</FirstName>
 		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
 		<iAge>52</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
@@ -606,9 +606,9 @@
 		<zType>CHARACTER_DEMOSTHENSES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DEMOSTHENSES</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_DEMOSTHENSES</Portrait>
 		<iAge>34</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
@@ -620,9 +620,9 @@
 		<zType>CHARACTER_TRIBONIANUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TRIBONIANUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_15</Portrait>
 		<iAge>40</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_HUMBLE</zValue>
@@ -634,9 +634,9 @@
 		<zType>CHARACTER_ANTONIUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANTONIUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_12</Portrait>
 		<iAge>29</iAge>
-		<iRating>3</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_SWIFT</zValue>
@@ -649,9 +649,9 @@
 		<zType>CHARACTER_BRUTUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_BRUTUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_11</Portrait>
 		<iAge>26</iAge>
-		<iRating>3</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
@@ -665,7 +665,7 @@
 		<zType>CHARACTER_CAMILLUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CAMILLUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_09</Portrait>
 		<iAge>25</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -680,7 +680,7 @@
 		<zType>CHARACTER_CATILINA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CATILINA</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_07</Portrait>
 		<iAge>37</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -695,9 +695,9 @@
 		<zType>CHARACTER_CATULLUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CATULLUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_14</Portrait>
 		<iAge>40</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ARTIST_ARCHETYPE</zValue>
 			<zValue>TRAIT_VIGILANT</zValue>
@@ -710,9 +710,9 @@
 		<zType>CHARACTER_BATIATUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_BATIATUS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_04</Portrait>
 		<iAge>41</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_MERCHANT_ARCHETYPE</zValue>
 			<zValue>TRAIT_INFAMOUS</zValue>
@@ -725,7 +725,7 @@
 		<zType>CHARACTER_IDDIN_MARDUK</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_IDDIN_MARDUK</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_12</Portrait>
 		<iAge>52</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
@@ -739,9 +739,9 @@
 		<zType>CHARACTER_EUMACHIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_EUMACHIA</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_ILIA</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_EUMACHIA</Portrait>
 		<iAge>32</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_MERCHANT_ARCHETYPE</zValue>
 			<zValue>TRAIT_BLESSED</zValue>
@@ -754,9 +754,9 @@
 		<zType>CHARACTER_CICERO</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CICERO</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_CICERO</Portrait>
 		<iAge>44</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_COWARDLY</zValue>
@@ -770,9 +770,9 @@
 		<zType>CHARACTER_ANKH_AF_NA_KHONSU</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANKH_AF_NA_KHONSU</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_EGYPT_LEADER_MALE_04</Portrait>
 		<iAge>24</iAge>
-		<iRating>2</iRating>
+		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ARTIST_ARCHETYPE</zValue>
 			<zValue>TRAIT_KEEN</zValue>
@@ -784,7 +784,7 @@
 		<zType>CHARACTER_ARISTOMACHOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ARISTOMACHOS</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ARISTOMACHOS</Portrait>
 		<iAge>30</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -798,7 +798,8 @@
 		<zType>CHARACTER_MNESTER</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MNESTER</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_HIARBAS</Portrait>
+		<Nation>NATION_ROME</Nation>
+		<Portrait>CHARACTER_PORTRAIT_MNESTER</Portrait>
 		<iAge>33</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -812,9 +813,10 @@
 		<zType>CHARACTER_TUTOR_GREECE_ARCHIMEDES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TUTOR_GREECE_ARCHIMEDES</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_TUTOR_ARISTOTLE</Portrait>
+		<Nation>NATION_GREECE</Nation>
+		<Portrait>CHARACTER_PORTRAIT_TUTOR_ARCHIMEDES</Portrait>
 		<iAge>47</iAge>
-		<iRating>3</iRating>
+		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_SKYEXPLORER_ARCHETYPE</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>

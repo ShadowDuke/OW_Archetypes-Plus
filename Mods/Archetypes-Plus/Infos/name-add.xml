@@ -2,8 +2,8 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType/>
-		<zName/>
+		<zType>NAME_ALCIBIADES</zType>
+		<zName>Alcibiades</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_POLYBIOS</zType>
