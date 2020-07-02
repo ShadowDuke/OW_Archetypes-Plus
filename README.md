@@ -1,5 +1,5 @@
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 19 historical characters for **Old World**. (WIP)
+Archetypes, studies, traits, one new attribute and 19 historical characters for **Version: 0.1.40018**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this patch**
 ## Installation and use
