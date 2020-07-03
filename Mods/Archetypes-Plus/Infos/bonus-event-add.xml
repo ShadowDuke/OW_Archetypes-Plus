@@ -197,7 +197,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1_CHARACTER</zType>
-		<MakeCourtier>COURTIER_GREAT_MINISTER</MakeCourtier>
+		<MakeCourtier>COURTIER_GREAT_SCIENTIST</MakeCourtier>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
