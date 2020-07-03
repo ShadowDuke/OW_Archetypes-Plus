@@ -19,15 +19,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
-		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE)</English>
+		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE) and link(TRAIT_ARTIST_ARCHETYPE)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
-		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE) and link(TRAIT_MERCHANT_ARCHETYPE)</English>
+		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<English>Sky Explorers,  an inquisitive oserver of the skies.</English>
+		<English>Sky Explorer, an inquisitive oserver of the skies.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
@@ -47,11 +47,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></English>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study astronomy.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></English>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study pythagoreanism.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4</zType>
@@ -138,6 +138,14 @@
 		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zType>
+		<English><![CDATA[Let him return to his home and support him.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zType>
+		<English><![CDATA[Recruit Archimedes to court.]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
 		<English>Thats nice to hear.</English>
 	</Entry>
@@ -208,5 +216,41 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zType>
 		<English>He is cute, is he not?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
+		<Translation>Kann zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), oder eventuell link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_ARTIST_ARCHETYPE) führen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
+		<Translation>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_CHAMPION_ARCHETYPE) führen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
+		<Translation>Himmel Beobachter, ein neugieriger Beobachter des Himmels.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
+		<Translation>Ein durch und durch korrupter Politiker, kennt keine Skrupel.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</zType>
+		<Translation>Einer der sich mit diversen Arten der Kunst auskennt.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
+		<Translation>Einer der weiß wie man vernünftig handelt.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</zType>
+		<Translation>Einer, der einige Sachen gemacht haben könnte, um den Titel Champion innezuhaben.</Translation>
 	</Entry>
 </Root>

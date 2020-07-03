@@ -635,7 +635,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANTONIUS</FirstName>
 		<Portrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_12</Portrait>
-		<iAge>29</iAge>
+		<iAge>33</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>

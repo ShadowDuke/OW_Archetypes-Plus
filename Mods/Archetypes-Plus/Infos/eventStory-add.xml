@@ -587,6 +587,26 @@
 		<iRepeatTurns>-1</iRepeatTurns>	
 	</Entry>
 	<Entry>
+		<zType>EVENTSTORY_THE_GREAT_ARCHIMEDES</zType>
+		<Name>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES</Text>
+		<zEventURL><![CDATA[https://en.wikipedia.org/wiki/Archimedes]]></zEventURL>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+			<zValue>SUBJECT_TUTOR_GREECE_ARCHIMEDES</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zValue>
+			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
+		<iImageSubject>2</iImageSubject>
+		<iWeight>2</iWeight>
+		<iProb>50</iProb>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
 		<zType>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</Text>
@@ -615,6 +635,7 @@
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -651,6 +672,7 @@
 		<iWeight>1</iWeight>
 		<iProb>5</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -687,6 +709,7 @@
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -723,6 +746,7 @@
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
@@ -759,6 +783,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
@@ -795,6 +820,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
@@ -831,6 +857,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
@@ -866,6 +893,7 @@
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
@@ -901,6 +929,7 @@
 		<iWeight>1</iWeight>
 		<iProb>4</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
@@ -936,6 +965,7 @@
 		<iWeight>1</iWeight>
 		<iProb>13</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -972,6 +1002,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -1008,6 +1039,7 @@
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -1044,6 +1076,7 @@
 		<iWeight>1</iWeight>
 		<iProb>13</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
@@ -1080,6 +1113,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
@@ -1116,6 +1150,7 @@
 		<iWeight>1</iWeight>
 		<iProb>20</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
@@ -1151,6 +1186,7 @@
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
@@ -1186,6 +1222,7 @@
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
@@ -1221,6 +1258,7 @@
 		<iWeight>1</iWeight>
 		<iProb>18</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 		<aeEventStoryNoRepeat>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>

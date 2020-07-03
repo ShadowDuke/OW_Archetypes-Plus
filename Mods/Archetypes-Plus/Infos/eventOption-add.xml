@@ -489,6 +489,22 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
+		<zType>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0_CITY</zValue>
+			<zValue>NONE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>NONE</zValue>
+			<zValue>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
 		<zType>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
 		<Text>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</Text>
 		<aeBonuses>

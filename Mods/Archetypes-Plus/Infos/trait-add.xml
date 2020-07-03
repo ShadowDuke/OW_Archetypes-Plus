@@ -217,6 +217,10 @@
 				<zIndex>RATING_WISDOM</zIndex>
 				<iValue>1</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
 		</aiRating>
 	</Entry>
 	<Entry>

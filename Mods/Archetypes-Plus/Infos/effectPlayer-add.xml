@@ -102,11 +102,5 @@
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
-		<aiYieldUpkeep>
-			<Pair>
-				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>-10</iValue>
-			</Pair>
-		</aiYieldUpkeep>
 	</Entry>
 </Root>

@@ -22,11 +22,11 @@
 		<English>Old beardy man </English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
-		<English>You gained a trait</English>
+		<zType>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES_TITLE</zType>
+		<English><![CDATA[Archimedes]]></English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_1_TITLE</zType>
-		<Translation>Du hast ein Merkmal erlangt</Translation>
+		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
+		<English>You gained a trait</English>
 	</Entry>
 </Root>

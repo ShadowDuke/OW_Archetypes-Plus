@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
 	<Entry>
+        <zType>TEXT_LANGUAGE_GERMAN_TRANSLATION</zType>
+        <English>German</English>
+    </Entry>
+	<Entry>
 		<zType>TEXT_YIELD_FOOD_HELP</zType>
 		<English>If the  {YIELD_FOOD}  from a city is high enough , training units who consume  {YIELD_FOOD}  are trained quicker.</English>
 	</Entry>

@@ -51,6 +51,12 @@ The man told <masculine_CHARACTER-0>him<feminine>her<end> how he has lost his wi
 What shall we do?]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES</zType>
+		<English><![CDATA[You notice Archimedes, the great mathematician, physicist, engineer, inventor, and astronomer in {CITY-0}, making a lot of progress in his fields, shaping {CITY-0} to a flourishing City. He is famous for his inventions and discoveries. 
+
+Should we support his home {CITY-0}, or should we reward such efforts and assign him to court?]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
 		<English>People like beeing around you.</English>
 	</Entry>

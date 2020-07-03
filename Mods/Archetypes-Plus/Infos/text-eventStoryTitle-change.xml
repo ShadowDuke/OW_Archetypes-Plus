@@ -2,10 +2,6 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_1_TITLE</zType>
-		<Translation>Du hast ein Merkmal erlangt</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES_TITLE</zType>
 		<Translation>Lernte Astronomie</Translation>
 	</Entry>
