@@ -19,6 +19,20 @@
 					<iValue>20</iValue>
 				</SubPair>
 			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_LAW_CALLIGRAPHY</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_ELDER</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
 		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
@@ -40,6 +54,34 @@
 					<iValue>10</iValue>
 				</SubPair>
 			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_TREASURY_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_TREASURY_2</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>60</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_TREASURY_3</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>120</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_TREASURY_4</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>240</iValue>
+				</SubPair>
+			</Pair>
 		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
@@ -58,6 +100,36 @@
 				<iValue>15</iValue>
 			</Pair>
 		</aiYieldModifier>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_2</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_3</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_FESTIVAL</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
@@ -77,6 +149,27 @@
 					<iValue>100</iValue>
 				</SubPair>
 			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>70</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_SHOPKEEPER_3</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>150</iValue>
+				</SubPair>
+			</Pair>
 		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
@@ -90,5 +183,21 @@
 				<iValue>20</iValue>
 			</Pair>
 		</aiYieldModifier>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_IMPROVEMENT_BARRACKS</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_TRAINING</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_OLYMPICS</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_TRAINING</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
 	</Entry>
 </Root>

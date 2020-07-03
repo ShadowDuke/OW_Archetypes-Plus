@@ -79,7 +79,7 @@
 		<SourceTrait>TRAIT_CHAMPION_ARCHETYPE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</EffectCity>
 		<iXPIdleTurn>5</iXPIdleTurn>
-		<iXPModifier>10</iXPModifier>
+		<iXPModifier>5</iXPModifier>
 		<aiUnitKillYield>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>

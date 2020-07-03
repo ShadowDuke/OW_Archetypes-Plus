@@ -798,7 +798,6 @@
 		<zType>CHARACTER_MNESTER</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MNESTER</FirstName>
-		<Nation>NATION_ROME</Nation>
 		<Portrait>CHARACTER_PORTRAIT_MNESTER</Portrait>
 		<iAge>33</iAge>
 		<iRating>1</iRating>
@@ -813,7 +812,6 @@
 		<zType>CHARACTER_TUTOR_GREECE_ARCHIMEDES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TUTOR_GREECE_ARCHIMEDES</FirstName>
-		<Nation>NATION_GREECE</Nation>
 		<Portrait>CHARACTER_PORTRAIT_TUTOR_ARCHIMEDES</Portrait>
 		<iAge>47</iAge>
 		<iRating>2</iRating>
