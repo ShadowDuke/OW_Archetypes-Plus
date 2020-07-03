@@ -20,29 +20,29 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
 - 5 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
-     - +3 Wisdom & +1 Fame - Can be a Governor
+     - +3 Wisdom - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
-           - +5 Science/Year & +5% Science in every City/Year <> *If law is active*: Iconography: +2 Orders
+           - +5 Science/Year & +5% Science in every City/Year <> Elder Specialists: +1 Science & *if law is active*: Iconography: +2 Orders & Calligraphy: +1 Science
         - *Individual probability chance of trait*: Educated, Superstitious, Uncouth, Affable & Witty
    - **Corruptionist** - *Cognomen: The Corruptionist* 
      - +3 Discipline, +1 Courage & -2 Charisma - Can be a Governor, a General or Spymaster
         - *As Leader*: Can Buy/Sell Orders, -25% Switch Law Cost & Can Hurry City Production with Orders
-           - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> *If law is active*: Tyranny: +1 Discontent
+           - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> Project Treasurey_1: +3 Money, _2: +6 Money, _3 +12 Money, _4: +24 Money *if law is active*: Tyranny: +1 Discontent
         - *Individual probability chance of trait: Dealmaker, Corrupt, Debauched & Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
-     - +2 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
+     - +1 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
         - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
-           - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Improvement Theater: +5 Culture
+           - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Poet: Apprentice +1 Culture, Master +2 Culture, Elder: +3 Culture & Project Festival_1-4: +0.5 Culture each
         - *Individual probability chance of trait*: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic
    - **Merchant** - *Cognomen: The Merchant* 
      - +3 Discipline, +2 Courage & -2 Wisdom - Can be a Governor or a General
         - *As Leader*: Can buy/sell for the same price, -1 year for improvements & +15 All Foreign Leader Opinions
-           - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> *If law is active*: Monetary Reform: +10 Money
+           - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> Shopkeeper: Apprentice +3 Money, Master +7 Money, Elder: +15 Money & *if law is active*: Monetary Reform: +10 Money
         - *Individual probability chance of trait*: Dealmaker, Exotic, Pet Monkey Owner & Greedy <> [+10% Chance to get ill]
    - **Champion** - *Cognomen: The Champion* 
-     - +3 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
-        - *As Leader*: +5 Xp/Year for idle units, +10 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
-           - +15 Training/Year & +20% Training in every City/Year
+     - +2 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
+        - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
+           - +15 Training/Year & +20% Training in every City/Year <> Project Olympics: +0.5 Training & Improvement Barracks: +3 Training
         
 - 3 new traits:
    - **Broad-minded**
