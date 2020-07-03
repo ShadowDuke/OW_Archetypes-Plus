@@ -1,7 +1,7 @@
 # Archetypes-Plus
 Archetypes, studies, traits, one new attribute and 19 historical characters for **Version: 0.1.40018**. (WIP)
 
-**Delete any previous files/directories from earlier versions of this patch**
+**Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
 
 1. [Download](https://github.com/ShadowDuke/OW_Archetypes-Plus/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\ or \Users\\###\Documents\My Games\OldWorld\Test\ (if you use the test branch).
