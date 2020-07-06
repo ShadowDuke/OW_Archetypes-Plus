@@ -34,6 +34,10 @@
 		<Translation>Ein wahrer Held</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNIBAL_TITLE</zType>
+		<Translation>Zukunft des Reiches</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
 		<Translation>Du hast ein Merkmal erlangt</Translation>
 	</Entry>

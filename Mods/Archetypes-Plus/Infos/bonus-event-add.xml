@@ -211,6 +211,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1_CHARACTER</zType>
+		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
 		<MakeCourtier>COURTIER_GREAT_SKYEXPLORER</MakeCourtier>
 		<aiGlobalYieldsBase>
 			<Pair>
@@ -227,6 +228,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1_CHARACTER</zType>
+		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
 		<MakeCourtier>COURTIER_GREAT_ARTIST</MakeCourtier>
 		<aeBonuses>
 			<zValue>BONUS_MONEY_LOSS_TINY</zValue>
@@ -235,6 +237,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0_CITY</zType>
+		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
 		<aeAddProjects>
 			<zValue>PROJECT_FESTIVAL_1</zValue>
 		</aeAddProjects>
@@ -258,9 +261,31 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_MARK_ANTONY_OPTION_1_CHARACTER</zType>
+		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
 		<MakeCourtier>COURTIER_GREAT_FAME</MakeCourtier>
 		<aeBonuses>
 			<zValue>BONUS_MONEY_LOSS_AVERAGE</zValue>
+			<zValue>BONUS_GAIN_CHARISMA</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HANNIBAL_OPTION_0_CITY</zType>
+		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
+		<SetImprovement>IMPROVEMENT_BARRACKS</SetImprovement>
+		<aeAddProjects>
+			<zValue>PROJECT_OLYMPICS_2</zValue>
+		</aeAddProjects>
+		<aeBonuses>
+			<zValue>BONUS_TRAINING_GAIN_LARGE</zValue>
+			<zValue>BONUS_IRON_GAIN_TINY</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HANNIBAL_OPTION_1_CHARACTER</zType>
+		<MakeCourtier>COURTIER_GREAT_SOLDIER</MakeCourtier>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_AVERAGE</zValue>
+			<zValue>BONUS_GAIN_DISCIPLINE</zValue>
 			<zValue>BONUS_GAIN_CHARISMA</zValue>
 		</aeBonuses>
 	</Entry>

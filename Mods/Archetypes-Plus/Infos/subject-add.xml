@@ -255,4 +255,14 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_TUTOR_GREECE_ARCHIMEDES</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_HANNIBAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HANNIBAL</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HAMILCAR</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HAMILCAR</Character>
+	</Entry>
 </Root>

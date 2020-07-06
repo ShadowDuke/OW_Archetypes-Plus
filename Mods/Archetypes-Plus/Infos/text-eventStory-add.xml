@@ -75,6 +75,12 @@ Do you want to support {CHARACTER-1} or run an exhibition in {CITY-0}?]]></Engli
 You considered your options and..]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNIBAL</zType>
+		<English><![CDATA[The famous Hannibal invites you to {CITY-0} to talk about the future of our nation. Pretty soon you realized he wants to take part in efforts to become the greatest nation.
+
+What are you going to do?]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
 		<English>People like beeing around you.</English>
 	</Entry>

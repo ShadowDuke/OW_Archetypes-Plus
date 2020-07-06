@@ -38,6 +38,10 @@
 		<English>A true Hero</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNIBAL_TITLE</zType>
+		<English>Future of our nation</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
 		<English>You gained a trait</English>
 	</Entry>

@@ -825,4 +825,38 @@
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
+	<Entry>
+		<zType>CHARACTER_HANNIBAL</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_HANNIBAL</FirstName>
+		<Father>CHARACTER_HAMILCAR</Father>
+		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_09</Portrait>
+		<iAge>25</iAge>
+		<iRating>1</iRating>
+		<aeTraits>
+			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
+			<zValue>TRAIT_DRILLMASTER</zValue>
+			<zValue>TRAIT_STRICT</zValue>
+			<zValue>TRAIT_WARLIKE</zValue>
+			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_HAMILCAR</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_HAMILCAR</FirstName>
+		<Father>CHARACTER_HAMILCAR</Father>
+		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_02</Portrait>
+		<iAge>44</iAge>
+		<iRating>1</iRating>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_ELOQUENT</zValue>
+			<zValue>TRAIT_PROSPEROUS</zValue>
+			<zValue>TRAIT_ROBUST</zValue>
+			<zValue>TRAIT_TRACKER</zValue>
+			<zValue>TRAIT_EDUCATED</zValue>
+		</aeTraits>
+	</Entry>
 </Root>

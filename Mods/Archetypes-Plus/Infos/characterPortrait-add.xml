@@ -98,11 +98,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_05_YOUTH</zValue>
+        <zValue>GENERIC_MALE_08_YOUTH</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>GREECE_LEADER_MALE_08_ADULT</zValue>
+        <zValue>GREECE_LEADER_MALE_10_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
@@ -168,11 +168,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>ROME_LEADER_MALE_15_ADULT</zValue>
+        <zValue>ROME_LEADER_MALE_11_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ROME_LEADER_MALE_08_SENIOR</zValue>
+        <zValue>ROME_LEADER_MALE_11_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -190,11 +190,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>GREECE_LEADER_MALE_04_ADULT</zValue>
+        <zValue>GREECE_LEADER_MALE_09_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>GREECE_LEADER_MALE_11_SENIOR</zValue>
+        <zValue>GREECE_LEADER_MALE_09_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
