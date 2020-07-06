@@ -505,6 +505,56 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
+		<zType>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0_CHARACTER</zValue>
+			<zValue>NONE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>NONE</zValue>
+			<zValue>BONUS_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1_CHARACTER</zValue>
+		</aeBonuses>
+		<LeaderSubject>SUBJECT_LEADER_ARTIST</LeaderSubject>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0_CITY</zValue>
+			<zValue>NONE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>NONE</zValue>
+			<zValue>BONUS_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1_CHARACTER</zValue>
+		</aeBonuses>
+		<LeaderSubject>SUBJECT_LEADER_ARTIST</LeaderSubject>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_MARK_ANTONY_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_MARK_ANTONY_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_MARK_ANTONY_OPTION_0_CHARACTER</zValue>
+			<zValue>NONE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_MARK_ANTONY_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_MARK_ANTONY_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>NONE</zValue>
+			<zValue>BONUS_EVENTOPTION_MARK_ANTONY_OPTION_1_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
 		<zType>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
 		<Text>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</Text>
 		<aeBonuses>

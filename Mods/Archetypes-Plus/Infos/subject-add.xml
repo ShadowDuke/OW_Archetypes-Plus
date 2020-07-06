@@ -111,6 +111,16 @@
 		<CourtierPrereq>COURTIER_GREAT_SKYEXPLORER</CourtierPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_GREAT_ARTIST</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<CourtierPrereq>COURTIER_GREAT_ARTIST</CourtierPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_GREAT_FAME</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<CourtierPrereq>COURTIER_GREAT_FAME</CourtierPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_FAMOUS_PERSON</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_FAMOUS_PERSON</TraitPrereq>

@@ -189,15 +189,80 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0_CITY</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiCityYields>
+		<aiGlobalYieldsBase>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-100</iValue>
+			</Pair>
+		</aiGlobalYieldsBase>
 		<aeBonuses>
-			<zValue>BONUS_CULTURE_GAIN_LARGE</zValue>
-			<zValue>BONUS_CIVICS_GAIN_SMALL</zValue>
-			<zValue>BONUS_SCIENCE_GAIN_SMALL</zValue>
+			<zValue>BONUS_CULTURE_GAIN_AVERAGE</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1_CHARACTER</zType>
-		<MakeCourtier>COURTIER_GREAT_SCIENTIST</MakeCourtier>
+		<MakeCourtier>COURTIER_GREAT_SKYEXPLORER</MakeCourtier>
+		<aiGlobalYieldsBase>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiGlobalYieldsBase>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0_CHARACTER</zType>
+		<aeBonuses>
+			<zValue>BONUS_XP_CHARACTER_AVERAGE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1_CHARACTER</zType>
+		<MakeCourtier>COURTIER_GREAT_ARTIST</MakeCourtier>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_TINY</zValue>
+			<zValue>BONUS_GAIN_CHARISMA</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0_CITY</zType>
+		<aeAddProjects>
+			<zValue>PROJECT_FESTIVAL_1</zValue>
+		</aeAddProjects>
+		<aeBonuses>
+			<zValue>BONUS_CULTURE_GAIN_LARGE</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1_CHARACTER</zType>
+		<MakeCourtier>COURTIER_GREAT_ARTIST</MakeCourtier>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_SMALL</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MARK_ANTONY_OPTION_0_CHARACTER</zType>
+		<aeBonuses>
+			<zValue>BONUS_XP_CHARACTER_AVERAGE</zValue>
+			<zValue>BONUS_GAIN_WISDOM</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MARK_ANTONY_OPTION_1_CHARACTER</zType>
+		<MakeCourtier>COURTIER_GREAT_FAME</MakeCourtier>
+		<aeBonuses>
+			<zValue>BONUS_MONEY_LOSS_AVERAGE</zValue>
+			<zValue>BONUS_GAIN_CHARISMA</zValue>
+		</aeBonuses>
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>

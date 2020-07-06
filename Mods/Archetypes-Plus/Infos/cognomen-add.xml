@@ -10,6 +10,10 @@
 		<zName>The Corruptionist</zName>
 	</Entry>
 	<Entry>
+		<zType>COGNOMEN_ARTIST</zType>
+		<zName>The Artist</zName>
+	</Entry>
+	<Entry>
 		<zType>COGNOMEN_BROADMINDED</zType>
 		<zName>The Broad-Minded</zName>
 	</Entry>

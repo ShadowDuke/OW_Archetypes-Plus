@@ -23,7 +23,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES_TITLE</zType>
-		<English><![CDATA[Archimedes]]></English>
+		<English>Archimedes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME_TITLE</zType>
+		<English>The Pantomime</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</zType>
+		<English>The Sculptor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</zType>
+		<English>A true Hero</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>

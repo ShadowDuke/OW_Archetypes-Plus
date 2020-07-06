@@ -57,6 +57,24 @@ What shall we do?]]></English>
 Should we support his home {CITY-0}, or should we reward such efforts and assign him to court?]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME</zType>
+		<English><![CDATA[After visiting a theater play you are introcuded to a popular patomime called Mnester.
+
+Shall we ask him if he wants to join the court?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR</zType>
+		<English><![CDATA[You are visiting {CITY-0} and a local friend introcudes you to {CHARACTER-1}. You love the art you see and consider to give him the opportunity to show his work.
+
+Do you want to support {CHARACTER-1} or run an exhibition in {CITY-0}?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARK_ANTONY</zType>
+		<English><![CDATA[One day in court you take notice of a famous person. {CHARACTER-1} seems to take more interest in politics and you consider your next step.
+
+You considered your options and..]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
 		<English>People like beeing around you.</English>
 	</Entry>

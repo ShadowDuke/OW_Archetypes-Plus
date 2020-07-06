@@ -591,6 +591,7 @@
 		<Name>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES</Text>
 		<zEventURL><![CDATA[https://en.wikipedia.org/wiki/Archimedes]]></zEventURL>
+		<zAudioTrigger>AUDIO_UI_EVENT_OMINOUS_ENCOUNTER</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
@@ -599,11 +600,84 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zValue>
 			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zValue>
+			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
-		<iImageSubject>2</iImageSubject>
+		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
+		<TriggerData>IMPROVEMENT_LIBRARY_2</TriggerData>
+		<iImageSubject>1</iImageSubject>
 		<iWeight>2</iWeight>
 		<iProb>50</iProb>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_MNESTER_THE_PANTOMIME</zType>
+		<Name>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME</Text>
+		<zEventURL><![CDATA[https://en.wikipedia.org/wiki/Mnester]]></zEventURL>
+		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_LEADER_US</zValue>
+			<zValue>SUBJECT_MNESTER</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0</zValue>
+			<zValue>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1</zValue>
+			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
+		<TriggerData>IMPROVEMENT_THEATER_1</TriggerData>
+		<iImageSubject>1</iImageSubject>
+		<iImageExtra>0</iImageExtra>
+		<iWeight>2</iWeight>
+		<iProb>50</iProb>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR</zType>
+		<Name>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR</Text>
+		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+			<zValue>SUBJECT_ARISTOMACHOS</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0</zValue>
+			<zValue>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1</zValue>
+			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
+		<TriggerData>IMPROVEMENT_THEATER_1</TriggerData>
+		<iImageSubject>1</iImageSubject>
+		<iWeight>2</iWeight>
+		<iProb>50</iProb>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_MARK_ANTONY</zType>
+		<Name>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_MARK_ANTONY</Text>
+		<zAudioTrigger>AUDIO_UI_EVENT_OMINOUS_ENCOUNTER</zAudioTrigger>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_LEADER_US</zValue>
+			<zValue>SUBJECT_ANTONIUS</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_MARK_ANTONY_OPTION_0</zValue>
+			<zValue>EVENTOPTION_MARK_ANTONY_OPTION_1</zValue>
+			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
+		<TriggerData>IMPROVEMENT_COURTHOUSE_1</TriggerData>
+		<iImageSubject>1</iImageSubject>
+		<iImageExtra>0</iImageExtra>
+		<TechPrereq>TECH_RHETORIC</TechPrereq>
+		<LawPrereq>LAW_CENTRALIZATION</LawPrereq>
+		<iWeight>1</iWeight>
+		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
 	<Entry>

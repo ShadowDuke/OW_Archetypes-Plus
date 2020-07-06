@@ -63,4 +63,31 @@
 		<zType>BONUS_SET_CHAMPION_ARCHETYPE</zType>
 		<SetArchetype>TRAIT_CHAMPION_ARCHETYPE</SetArchetype>
 	</Entry>
+	<Entry>
+		<zType>BONUS_ADD_GREAT_SKYEXPLORER</zType>
+		<AddCourtierGender>
+			<Pair>
+				<zIndex>COURTIER_GREAT_SKYEXPLORER</zIndex>
+				<zValue>NONE</zValue>
+			</Pair>
+		</AddCourtierGender>
+	</Entry>
+	<Entry>
+		<zType>BONUS_ADD_GREAT_ARTIST</zType>
+		<AddCourtierGender>
+			<Pair>
+				<zIndex>COURTIER_GREAT_ARTIST</zIndex>
+				<zValue>NONE</zValue>
+			</Pair>
+		</AddCourtierGender>
+	</Entry>
+	<Entry>
+		<zType>BONUS_ADD_GREAT_FAME</zType>
+		<AddCourtierGender>
+			<Pair>
+				<zIndex>COURTIER_GREAT_FAME</zIndex>
+				<zValue>NONE</zValue>
+			</Pair>
+		</AddCourtierGender>
+	</Entry>
 </Root>

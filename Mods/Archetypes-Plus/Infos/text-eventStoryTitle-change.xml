@@ -22,6 +22,18 @@
 		<Translation>Alter bärtiger Mann</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME_TITLE</zType>
+		<Translation>Die Pantomime</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</zType>
+		<Translation>Der Bildhauer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</zType>
+		<Translation>Ein wahrer Held</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
 		<Translation>Du hast ein Merkmal erlangt</Translation>
 	</Entry>

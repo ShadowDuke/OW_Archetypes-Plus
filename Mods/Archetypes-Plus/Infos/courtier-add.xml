@@ -100,13 +100,109 @@
 		</aeCognomen>
 	</Entry>
 	<Entry>
+		<zType>COURTIER_GREAT_ARTIST</zType>
+		<zName>Great Artist</zName>
+		<zIconName>COURTIER_GREAT_ARTIST</zIconName>
+		<aiRatingBase>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiRatingBase>
+		<aiRatingRand>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiRatingRand>
+		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_ELOQUENT</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_AFFABLE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_INTELLIGENT</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PROSPEROUS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CARELESS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EXTRAVAGANT</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ANGLER</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ENGINEER</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_EDUCATED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ROMANTIC</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_FAMOUS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_PROUD</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiAdjectiveDie>
+		<aiArchetypeDie>
+			<Pair>
+				<zIndex>TRAIT_ARTIST_ARCHETYPE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_BUILDER_ARCHETYPE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiArchetypeDie>
+		<aeCognomen>
+			<zValue>COGNOMEN_ARTIST</zValue>
+		</aeCognomen>
+	</Entry>
+	<Entry>
 		<zType>COURTIER_GREAT_FAME</zType>
 		<zName>Great Famous Person</zName>
 		<zIconName>COURTIER_GREAT_MINISTER</zIconName>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
-				<iValue>3</iValue>
+				<iValue>2</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -116,7 +212,7 @@
 		<aiRatingRand>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
-				<iValue>3</iValue>
+				<iValue>2</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
