@@ -59,9 +59,9 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +9% Defense
         
- - 19 new (prominent/historical) characters: (archetypes & traits selected to try to reflect their nature) **ONLY 1 EVENT YET**
-   - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, Archimedes (tutor), Aristomachos
-   - *Rome*: Dorotheos, Flavius Tribonianus, Marcus Antonius, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, Mnester
+ - 19 new (prominent/historical) characters: (archetypes & traits selected to try to reflect their nature) **ONLY 4 EVENTS YET**
+   - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, **Archimedes**, **Aristomachos**
+   - *Rome*: Dorotheos, Flavius Tribonianus, **Marcus Antonius**, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, **Mnester**
    - *Babylon*: Iddin-Marduk
    - *Egypt*: Ankh-af-na-khonsu i
  
@@ -74,7 +74,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
    - Ministers have a chance of the new archetypes
    - 2 new great persons: **Great Stargazer** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
-   - 1 completely new event historical characters added
+   - 4 completely new events for historical characters added (everyone have different triggers, so just play and find out or look at the event browser ^^)
    - Added a bunch of new events for trait probabilities
    - Added extra answer options to some vanilla events
 
