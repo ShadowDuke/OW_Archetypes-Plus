@@ -831,7 +831,7 @@
 		<FirstName>NAME_HANNIBAL</FirstName>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_09</Portrait>
-		<iAge>25</iAge>
+		<iAge>22</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -846,9 +846,8 @@
 		<zType>CHARACTER_HAMILCAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HAMILCAR</FirstName>
-		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_02</Portrait>
-		<iAge>44</iAge>
+		<iAge>40</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
