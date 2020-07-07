@@ -81,4 +81,12 @@
 		<zType>NAME_TUTOR_GREECE_ARCHIMEDES</zType>
 		<zName>Archimedes</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_HANNIBAL</zType>
+		<zName>Aristomachos</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_HAMILCAR</zType>
+		<zName>Mnester</zName>
+	</Entry>
 </Root>
