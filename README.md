@@ -73,7 +73,7 @@ Archetypes, studies, traits, one new attribute and 19 historical characters for 
       - The chance is always below 100% for every added chance for an archetype to become
    - Every named (real) character was looked through and a lot of them were given the "Famous Person" trait
    - Ministers have a chance of the new archetypes
-   - 2 new great persons: **Great Stargazer** & **Great Famous Person**
+   - 3 new great persons: **Great Stargazer**, **Great Artist** & **Great Famous Person**
    - 1 completely **new event** for astronomy studies added (giving 2 answer options)
    - 5 completely new events for historical characters added (everyone have different triggers, so just play and find out or look at the event browser ^^)
    - Added a bunch of new events for trait probabilities
