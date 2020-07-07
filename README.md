@@ -1,10 +1,10 @@
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 19 historical characters for **Version: 0.1.40018**. (WIP)
+Archetypes, studies, traits, one new attribute and 21 historical characters for **Version: 0.1.40018**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
 
-1. [Download](https://github.com/ShadowDuke/OW_Archetypes-Plus/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\ or \Users\\###\Documents\My Games\OldWorld\Test\ (if you use the test branch).
+1. [Download](https://github.com/ShadowDuke/OW_Archetypes-Plus/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\
    - Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
 2. Go to "Mods" in the main menu and enable "Archetypes-Plus", click "Save" then "Play with Mods" or set up a new game and go to Advanced Setup to find the mod at the bottom and enable it. 
 3. Start a new game
