@@ -406,6 +406,8 @@
 			<zValue>NAME_ZOUSHAN</zValue>
 			<zValue>NAME_HANNIBAL</zValue>
 			<zValue>NAME_HAMILCAR</zValue>
+			<zValue>NAME_HASDRUBAL</zValue>
+			<zValue>NAME_MAGO</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_AMATBAAL</zValue>
@@ -571,6 +573,10 @@
 			<zValue>NAME_TUTANKHAMUN</zValue>
 			<zValue>NAME_WERHETEP</zValue>
 			<zValue>NAME_ANKH_AF_NA_KHONSU</zValue>
+			<zValue>NAME_SNEFERU</zValue>
+			<zValue>NAME_CHEOPS</zValue>
+			<zValue>NAME_RAHOTEP</zValue>
+			<zValue>NAME_NEFERMAAT</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_ANKHESENAMUN</zValue>
@@ -598,6 +604,8 @@
 			<zValue>NAME_TIYE</zValue>
 			<zValue>NAME_TWOSRET</zValue>
 			<zValue>NAME_UDJEBTEN</zValue>
+			<zValue>NAME_HETEPHERES</zValue>
+			<zValue>NAME_NOFRET</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
 			<zValue>CITYNAME_WASET</zValue>

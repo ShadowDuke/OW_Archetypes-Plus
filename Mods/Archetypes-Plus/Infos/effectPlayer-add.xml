@@ -103,4 +103,30 @@
 		<zType>EFFECTPLAYER_TRAIT_FUNDED</zType>
 		<Name>TEXT_EFFECTPLAYER_TRAIT_FUNDED</Name>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</Name>
+		<SourceTrait>TRAIT_PYRAMIDS_BUILDER</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</EffectCity>
+		<iLeaderOpinionChange>25</iLeaderOpinionChange>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</Name>
+		<SourceTrait>TRAIT_PYRAMIDS_BUILDER</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</EffectCity>
+		<iLeaderOpinionChange>25</iLeaderOpinionChange>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 </Root>
