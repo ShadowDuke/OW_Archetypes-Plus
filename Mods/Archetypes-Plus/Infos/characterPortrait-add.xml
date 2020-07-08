@@ -366,11 +366,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_03_ADULT</zValue>
+        <zValue>EGYPT_LEADER_MALE_13_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_03_SENIOR</zValue>
+        <zValue>EGYPT_LEADER_MALE_13_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -388,11 +388,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_11_ADULT</zValue>
+        <zValue>EGYPT_LEADER_MALE_09_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_11_SENIOR</zValue>
+        <zValue>EGYPT_LEADER_MALE_09_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -432,11 +432,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_14_ADULT</zValue>
+        <zValue>EGYPT_LEADER_MALE_11_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_14_SENIOR</zValue>
+        <zValue>EGYPT_LEADER_MALE_11_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
