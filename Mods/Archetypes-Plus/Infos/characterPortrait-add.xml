@@ -420,7 +420,7 @@
   </Entry>
   <Entry>
     <zType>CHARACTER_PORTRAIT_NEFERMAAT</zType>
-    <Gender>GENDER_FEMALE</Gender>
+    <Gender>GENDER_MALE</Gender>
     <azAgeGroupSpriteNames>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
