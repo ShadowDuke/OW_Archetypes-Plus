@@ -265,4 +265,14 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_HAMILCAR</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_MAGO</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_MAGO</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HASDRUBAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HASDRUBAL</Character>
+	</Entry>
 </Root>

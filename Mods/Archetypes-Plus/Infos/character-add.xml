@@ -831,7 +831,7 @@
 		<FirstName>NAME_HANNIBAL</FirstName>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_09</Portrait>
-		<iAge>22</iAge>
+		<iAge>13</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -846,8 +846,9 @@
 		<zType>CHARACTER_HAMILCAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HAMILCAR</FirstName>
-		<Portrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_02</Portrait>
-		<iAge>40</iAge>
+		<Portrait>CHARACTER_PORTRAIT_HAMILCAR</Portrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HAMILCAR</CharacterSelectPortrait>
+		<iAge>36</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -856,6 +857,35 @@
 			<zValue>TRAIT_ROBUST</zValue>
 			<zValue>TRAIT_TRACKER</zValue>
 			<zValue>TRAIT_EDUCATED</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_MAGO</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_MAGO</FirstName>
+		<Father>CHARACTER_HAMILCAR</Father>
+		<Portrait>CHARACTER_PORTRAIT_MAGO</Portrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_MAGO</CharacterSelectPortrait>
+		<iAge>10</iAge>
+		<iRating>1</iRating>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_HONEST</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_HASDRUBAL</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_HASDRUBAL</FirstName>
+		<Father>CHARACTER_HAMILCAR</Father>
+		<Portrait>CHARACTER_PORTRAIT_HASDRUBAL</Portrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HASDRUBAL</CharacterSelectPortrait>
+		<iAge>18</iAge>
+		<iRating>1</iRating>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
+			<zValue>TRAIT_EAGLE_EYE</zValue>
 		</aeTraits>
 	</Entry>
 </Root>
