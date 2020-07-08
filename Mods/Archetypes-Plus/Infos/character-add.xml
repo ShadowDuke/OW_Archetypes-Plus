@@ -869,7 +869,6 @@
 		<iAge>10</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
-			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_HONEST</zValue>
 		</aeTraits>
 	</Entry>
