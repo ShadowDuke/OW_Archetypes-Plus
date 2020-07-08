@@ -1,5 +1,5 @@
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 21 historical characters for **Version: 0.1.40018**. (WIP)
+Archetypes, studies, traits, one new attribute and 23 historical characters for **Version: 0.1.40018**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
@@ -64,7 +64,7 @@ Archetypes, studies, traits, one new attribute and 21 historical characters for 
    - *Rome*: Dorotheos, Flavius Tribonianus, **Marcus Antonius**, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, **Mnester**
    - *Babylon*: Iddin-Marduk
    - *Egypt*: Ankh-af-na-khonsu i
-   - *Carthage*: **Hannibal**, Hamilcar
+   - *Carthage*: **Hannibal**, Hamilcar, Mago, Hasrubal
  
 - ### Info
 
