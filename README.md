@@ -1,5 +1,5 @@
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 23 historical characters for **Version: 0.1.40018**. (WIP)
+Archetypes, studies, traits, one new attribute and 26 historical characters for **Version: 0.1.40018**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
@@ -59,11 +59,11 @@ Archetypes, studies, traits, one new attribute and 23 historical characters for 
         - *As Governor*: +3% Growth, +6% Civics, +6% Culture, +6% Science, +3% Money
         - *As General*: +9% Defense
         
- - 21 new (prominent/historical) characters: (archetypes & traits selected to try to reflect their nature) **ONLY 5 EVENTS YET**
+ - 26 new (prominent/historical) characters: (archetypes & traits selected to try to reflect their nature) **ONLY 5 EVENTS YET**
    - *Greece*: Alcibiades, Polybios, Antiphon, Demosthenes, **Archimedes**, **Aristomachos**
    - *Rome*: Dorotheos, Flavius Tribonianus, **Marcus Antonius**, Marcus Iunius Brutus, Marcus Furius Camillus, Lucius Sergius Catilina, Gaius Valerius Catullus, Gnaeus Cornelius Lentulus Batiatus, Eumachia, Marcus Tullius Cicero, **Mnester**
    - *Babylon*: Iddin-Marduk
-   - *Egypt*: Ankh-af-na-khonsu i
+   - *Egypt*: Sneferu, Cheops, Rahotep, Nofret, Nefermaat, Ankh-af-na-khonsu i
    - *Carthage*: **Hannibal**, Hamilcar, Mago, Hasrubal
  
 - ### Info
