@@ -83,6 +83,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters for 
 
 ## Notes
 You might want to start one higher difficulty level as usual.
+**Mod compatibility with all my mods**
 ~~- I mainly set up the string structure to make it easier for the upcoming changes.~~
 ~~- So, these values are not final and barely touched, mainly testing the waters here.~~
 
