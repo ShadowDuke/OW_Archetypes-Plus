@@ -44,13 +44,15 @@ Archetypes, studies, traits, one new attribute and 26 historical characters for 
         - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
            - +15 Training/Year & +20% Training in every City/Year <> Project Olympics: +0.5 Training & Improvement Barracks: +3 Training
         
-- 3 new traits:
+- 4 new traits:
    - **Broad-minded**
         - +1 Charisma & +1 Wisdom
    - **Funded education**
         - -1 Charisma, +1 Wisdom & +1 Discipline (cost: 120 gold)
    - **Famous Person**
         - +1 Fame
+   - **Pyramids Builder** (Only for a few new egyptian characters)
+        - +25 All Foreign Leader Opinions, +5 Stone/Year, All Cities: +3 Stone & -3 Food, Project Convoy: +50 Money & Stonecutte:r +3 Stone
         
 - 1 new attribute:
    - **Fame**
