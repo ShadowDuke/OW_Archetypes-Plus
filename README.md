@@ -1,5 +1,5 @@
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 26 historical characters for **Version: 0.1.40018**. (WIP)
+Archetypes, studies, traits, one new attribute and 26 historical characters for **Version: 0.1.40257**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
