@@ -4,14 +4,14 @@
 	<Entry>
 		<zType>RATING_FAME</zType>
 		<zColor>COLOR_RATING_FAME</zColor>
-		<zName>Fame</zName>
+		<zName>Bekanntheit</zName>
 		<zIconName>CultureIcon3</zIconName>
-		<zHelp>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leaders and Governors, twice as much.
-For Governors {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} and {YIELD_MONEY}.
-For Generals, Fame increases the Unit's Defense Strength.
+		<zHelp>Bekanntheit erhöht {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} und {YIELD_CULTURE} als Oberhaupt bekommt man doppelt so viel.
+Als Stadthalter erhöht sich {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} und {YIELD_MONEY}.
+Für Feldherren erhöht Charisma die Verteidgung der Einheit.
 		</zHelp>
 		<iDefenseModifier>3</iDefenseModifier>
-		<aiYieldRate>
+		<aiYieldLeaderRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
 				<iValue>10</iValue>
@@ -40,8 +40,8 @@ For Generals, Fame increases the Unit's Defense Strength.
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>-40</iValue>
 			</Pair>
-		</aiYieldRate>
-		<aiYieldModifier>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
 				<iValue>2</iValue>
@@ -62,6 +62,6 @@ For Generals, Fame increases the Unit's Defense Strength.
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>1</iValue>
 			</Pair>
-		</aiYieldModifier>
+		</aiYieldGovernorModifier>
 	</Entry>
 </Root>
