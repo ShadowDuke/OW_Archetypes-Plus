@@ -220,23 +220,6 @@
 		</aiRating>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_BEAUTIFUL</zType>
-		<Name>TEXT_TRAIT_BEAUTIFUL</Name>
-		<iAdjectiveDie>1</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
-		<Cognomen>COGNOMEN_BEAUTIFUL</Cognomen>
-		<aiRating>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>2</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiRating>
-	</Entry>
-	<Entry>
 		<zType>TRAIT_FAMOUS_PERSON</zType>
 		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
 		<aiRating>
