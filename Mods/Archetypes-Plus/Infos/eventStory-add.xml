@@ -722,6 +722,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zValue>
@@ -758,6 +762,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_WISDOM</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -796,6 +804,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_WISDOM</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_3_OPTION_0</zValue>
@@ -832,6 +844,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_LOW_DISCIPLINE</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -870,6 +886,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_INTELLIGENT</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_5_OPTION_0</zValue>
@@ -907,6 +927,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_COURAGE</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_1_OPTION_0</zValue>
@@ -942,6 +966,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_BOLD</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -980,6 +1008,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_LOW_CHARISMA</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_3_OPTION_0</zValue>
@@ -1016,6 +1048,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_LOW_DISCIPLINE</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_4_OPTION_0</zValue>
@@ -1051,6 +1087,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -1089,6 +1129,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_2_OPTION_0</zValue>
@@ -1125,6 +1169,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -1163,6 +1211,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_WISDOM</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_4_OPTION_0</zValue>
@@ -1199,6 +1251,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_WISDOM</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -1237,6 +1293,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_1_OPTION_0</zValue>
@@ -1273,6 +1333,10 @@
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
 			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_LOW_DISCIPLINE</Second>
+			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_2_OPTION_0</zValue>
@@ -1308,6 +1372,14 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_ADULT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_HIGH_CHARISMA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
