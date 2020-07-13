@@ -13,7 +13,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters for 
 
 - 2 new study types:
    - **Astronomy student**  (Education fee: "minimal" gold)
-     - +2 Legitimacy, +1 Fame, +1 Wisdom, -1 Courage & -1 Discipline - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
+     - +2 Legitimacy, +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
    - **Pythagoreanism student** (Education fee: "tiny" gold)
      - +2 Legitimacy, +1 Wisdom, +1 Charisma, +1 Discipline & -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
