@@ -365,6 +365,10 @@
         <iValue>10</iValue>
       </Pair>
       <Pair>
+			<zIndex>TRAIT_TOUGH</zIndex>
+			<iValue>10</iValue>
+		</Pair>
+		<Pair>
         <zIndex>TRAIT_BLOODTHIRSTY</zIndex>
         <iValue>10</iValue>
       </Pair>

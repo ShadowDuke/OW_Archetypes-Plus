@@ -21,4 +21,8 @@
 		<zType>TEXT_EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</zType>
 		<Translation>Champion Oberhaupt</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</zType>
+		<Translation>Pyramiden Erbauer</Translation>
+	</Entry>
 </Root>

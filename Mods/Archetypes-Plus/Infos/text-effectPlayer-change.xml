@@ -21,4 +21,12 @@
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Translation>Champion Oberhaupt</Translation>
 	</Entry>
+		<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
+		<Translation>Finanzierte Bildung</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
+		<Translation>Pyramiden Erbauer</Translation>
+	</Entry>
 </Root>
