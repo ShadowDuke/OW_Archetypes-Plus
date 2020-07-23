@@ -84,6 +84,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters for 
    - 5 completely new events for historical characters added (everyone have different triggers, so just play and find out or look at the event browser ^^)
    - Added a bunch of new events for trait probabilities
    - Added extra answer options to some vanilla events
+   - Added some character portraits
 
 ## Notes
 You might want to start one higher difficulty level as usual.
