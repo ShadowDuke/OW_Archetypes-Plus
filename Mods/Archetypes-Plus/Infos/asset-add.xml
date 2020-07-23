@@ -13,10 +13,6 @@
 		<zAsset>characters/Hannibal</zAsset>
 	</Entry>
 	<Entry>
-		<zType>ASSET_SPRITE_SHEET_LEONIDAS</zType>
-		<zAsset>characters/Leonidas</zAsset>
-	</Entry>
-	<Entry>
 		<zType>ASSET_SPRITE_SHEET_MAGO</zType>
 		<zAsset>characters/Mago</zAsset>
 	</Entry>
