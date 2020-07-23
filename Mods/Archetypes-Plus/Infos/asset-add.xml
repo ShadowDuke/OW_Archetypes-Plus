@@ -1,0 +1,31 @@
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CHEOPS</zType>
+		<zAsset>characters/Cheops</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_HAMILCAR</zType>
+		<zAsset>characters/Hamilcar</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_HANNIBAL</zType>
+		<zAsset>characters/Hannibal</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_LEONIDAS</zType>
+		<zAsset>characters/Leonidas</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_MAGO</zType>
+		<zAsset>characters/Mago</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_RAHOTEP</zType>
+		<zAsset>characters/Rahotep</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_NOFRET</zType>
+		<zAsset>characters/Nofret</zAsset>
+	</Entry>
+</Root>

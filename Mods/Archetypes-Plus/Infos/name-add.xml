@@ -4,109 +4,146 @@
 	<Entry>
 		<zType>NAME_ALCIBIADES</zType>
 		<zName>Alcibiades</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ALCIBIADES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_POLYBIOS</zType>
 		<zName>Polybios</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_POLYBIOS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTIPHON</zType>
 		<zName>Antiphon</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ANTIPHON</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DOROTHEOS</zType>
 		<zName>Dorotheos</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_DOROTHEOS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DEMOSTHENSES</zType>
 		<zName>Demosthenes</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_DEMOSTHENSES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_TRIBONIANUS</zType>
 		<zName>Flavius Tribonianus</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_10</PreferredPortrait>
 	</Entry>
 	<Entry>
-		<zType>NAME_ANTONIUS</zType>
+		<zType>NAME_MARK_ANTONY</zType>
 		<zName>Marcus Antonius</zName>
-	</Entry>
-	<Entry>
-		<zType>NAME_ARCHIMEDES</zType>
-		<zName>Archimedes</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_15</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_BRUTUS</zType>
 		<zName>Marcus Iunius Brutus</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_11</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CAMILLUS</zType>
 		<zName>Marcus Furius Camillus</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_09</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CATILINA</zType>
 		<zName>Lucius Sergius Catilina</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_07</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CATULLUS</zType>
 		<zName>Gaius Valerius Catullus</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_14</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_BATIATUS</zType>
 		<zName>Gnaeus Cornelius Lentulus Batiatus</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_04</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_IDDIN_MARDUK</zType>
 		<zName>Iddin-Marduk</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_12</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_EUMACHIA</zType>
 		<zName>Eumachia</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EUMACHIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CICERO</zType>
 		<zName>Marcus Tullius Cicero</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_CICERO</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANKH_AF_NA_KHONSU</zType>
 		<zName>Ankh-af-na-khonsu</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EGYPT_LEADER_MALE_04</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARISTOMACHOS</zType>
 		<zName>Aristomachos</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ARISTOMACHOS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_MNESTER</zType>
 		<zName>Mnester</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_MNESTER</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_GREECE_ARCHIMEDES</zType>
 		<zName>Archimedes</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_ARCHIMEDES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HANNIBAL</zType>
 		<zName>Hannibal</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HANNIBAL</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HAMILCAR</zType>
 		<zName>Hamilcar</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HAMILCAR</PreferredPortrait>
+	</Entry>
+	<Entry>
+		<zType>NAME_HASDRUBAL</zType>
+		<zName>Hasdrubal</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HASDRUBAL</PreferredPortrait>
+	</Entry>
+	<Entry>
+		<zType>NAME_MAGO</zType>
+		<zName>Mago</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_MAGO</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SNEFERU</zType>
 		<zName>Sneferu</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_SNEFERU</PreferredPortrait>
+	</Entry>
+	<Entry>
+		<zType>NAME_HETEPHERES</zType>
+		<zName>Hetepheres</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HETEPHERES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHEOPS</zType>
 		<zName>Cheops</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_CHEOPS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_RAHOTEP</zType>
 		<zName>Rahotep</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_RAHOTEP</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NOFRET</zType>
 		<zName>Nofret</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_NOFRET</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NEFERMAAT</zType>
 		<zName>Nefermaat</zName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_NEFERMAAT</PreferredPortrait>
 	</Entry>
 </Root>

@@ -230,15 +230,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_05_YOUTH</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_02_ADULT</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_02_SENIOR</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -256,11 +256,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_09_ADULT</zValue>
+        <zValue>Hannibal</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_09_SENIOR</zValue>
+        <zValue>Hannibal</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -278,11 +278,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_11_ADULT</zValue>
+        <zValue>Mago</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_11_SENIOR</zValue>
+        <zValue>Mago</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -318,7 +318,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_10_YOUTH</zValue>
+        <zValue>EGYPT_LEADER_MALE_12_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -366,11 +366,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_13_ADULT</zValue>
+        <zValue>Cheops</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_13_SENIOR</zValue>
+        <zValue>Cheops</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -388,11 +388,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_09_ADULT</zValue>
+        <zValue>Rahotep</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_09_SENIOR</zValue>
+        <zValue>Rahotep</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -410,11 +410,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_FEMALE_03_ADULT</zValue>
+        <zValue>Nofret</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_FEMALE_03_SENIOR</zValue>
+        <zValue>Nofret</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
