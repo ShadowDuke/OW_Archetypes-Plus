@@ -17,6 +17,10 @@
 		<zAsset>characters/Mago</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_MARK_ANTONY</zType>
+		<zAsset>characters/Mark_Antony</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_RAHOTEP</zType>
 		<zAsset>characters/Rahotep</zAsset>
 	</Entry>

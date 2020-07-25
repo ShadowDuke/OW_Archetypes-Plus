@@ -591,14 +591,14 @@
 		<zType>CHARACTER_MARK_ANTONY</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MARK_ANTONY</FirstName>
-		<iAge>28</iAge>
+		<iAge>44</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_SWIFT</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
-			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>

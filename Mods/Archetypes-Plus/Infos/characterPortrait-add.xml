@@ -308,6 +308,28 @@
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
+  <Entry>
+    <zType>CHARACTER_PORTRAIT_MARK_ANTONY</zType>
+    <Gender>GENDER_MALE</Gender>
+    <azAgeGroupSpriteNames>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+        <zValue>GENERIC_BABY_01</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_01_YOUTH</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+        <zValue>Mark_Antony</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+        <zValue>Mark_Antony</zValue>
+      </Pair>
+    </azAgeGroupSpriteNames>
+  </Entry>
    <Entry>
     <zType>CHARACTER_PORTRAIT_SNEFERU</zType>
     <Gender>GENDER_MALE</Gender>
