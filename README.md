@@ -3,7 +3,7 @@
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
 # Archetypes-Plus
-Archetypes, studies, traits, one new attribute and 26 historical characters for **Version: 0.1.41182**. (WIP)
+Archetypes, studies, traits, one new attribute and 26 historical characters for **Version: 0.1.41351**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
