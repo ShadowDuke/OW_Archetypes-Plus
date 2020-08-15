@@ -254,6 +254,7 @@
 		<Name>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
 		<zIconName>TRAIT_SKYEXPLORER</zIconName>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iBarbDie>1</iBarbDie>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>0</bGeneralPrereq>
@@ -275,6 +276,7 @@
 		<Name>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
 		<zIconName>TRAIT_CORRUPTIONIST</zIconName>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iBarbDie>1</iBarbDie>
 		<iWarModifier>15</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
@@ -320,6 +322,7 @@
 		<Name>TEXT_TRAIT_ARTIST_ARCHETYPE</Name>
 		<zIconName>TRAIT_ARTIST</zIconName>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iBarbDie>1</iBarbDie>
 		<iWarModifier>0</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
@@ -348,6 +351,7 @@
 		<Name>TEXT_TRAIT_MERCHANT_ARCHETYPE</Name>
 		<zIconName>TRAIT_MERCHANT</zIconName>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iBarbDie>1</iBarbDie>
 		<iWarModifier>0</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
@@ -382,6 +386,7 @@
 		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
 		<zIconName>TRAIT_CHAMPION</zIconName>
+		<iBarbDie>1</iBarbDie>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iWarModifier>20</iWarModifier>
 		<bArchetype>1</bArchetype>
@@ -410,7 +415,7 @@
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>
 		<Name>TEXT_TRAIT_BROADMINDED</Name>
-		<iAdjectiveDie>1</iAdjectiveDie>
+		<iAdjectiveDie>0</iAdjectiveDie>
 		<bAdjective>1</bAdjective>
 		<Cognomen>COGNOMEN_BROADMINDED</Cognomen>
 		<aiRating>
@@ -427,7 +432,7 @@
 	<Entry>
 		<zType>TRAIT_FUNDED</zType>
 		<Name>TEXT_TRAIT_FUNDED</Name>
-		<iAdjectiveDie>1</iAdjectiveDie>
+		<iAdjectiveDie>0</iAdjectiveDie>
 		<bAdjective>1</bAdjective>
 		<Cognomen>COGNOMEN_FUNDED</Cognomen>
 		<aiRating>
@@ -448,6 +453,8 @@
 	<Entry>
 		<zType>TRAIT_FAMOUS_PERSON</zType>
 		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
+		<iAdjectiveDie>0</iAdjectiveDie>
+		<bAdjective>1</bAdjective>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
@@ -458,7 +465,7 @@
 	<Entry>
 		<zType>TRAIT_PYRAMIDS_BUILDER</zType>
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
-		<iAdjectiveDie>1</iAdjectiveDie>
+		<iAdjectiveDie>0</iAdjectiveDie>
 		<bAdjective>1</bAdjective>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
