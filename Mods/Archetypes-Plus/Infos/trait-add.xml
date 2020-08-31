@@ -24,17 +24,6 @@
 		</aeTraitInvalid>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_TRAVELING</zType>
-		<Name>TEXT_TRAIT_TRAVELING</Name>
-		<aeTraitInvalid>
-			<zValue>TRAIT_STUDY_PHILOSOPHY</zValue>
-			<zValue>TRAIT_STUDY_COMMERCE</zValue>
-			<zValue>TRAIT_STUDY_RHETORIC</zValue>
-			<zValue>TRAIT_STUDY_TACTICS</zValue>
-			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>
-		</aeTraitInvalid>
-	</Entry>
-	<Entry>
 		<zType>TRAIT_HERO_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_HERO_ARCHETYPE</Name>
 		<zIconName>TRAIT_HERO</zIconName>
@@ -234,10 +223,9 @@
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bAgentPrereq>1</bAgentPrereq>
 		<bTeamAlliance>1</bTeamAlliance>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</LeaderEffectPlayer>
-		<GeneralEffectUnit>EFFECTUNIT_DIPLOMAT</GeneralEffectUnit>
 		<Cognomen>COGNOMEN_DIPLOMAT</Cognomen>
 		<aiRating>
 			<Pair>
@@ -247,6 +235,7 @@
 		</aiRating>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
+			<zValue>TRAIT_CRUEL</zValue>
 		</aeTraitInvalid>
 	</Entry>
 	<Entry>
@@ -386,8 +375,8 @@
 		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
 		<zIconName>TRAIT_CHAMPION</zIconName>
-		<iBarbDie>1</iBarbDie>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iBarbDie>1</iBarbDie>
 		<iWarModifier>20</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>

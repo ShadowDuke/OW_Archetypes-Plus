@@ -141,10 +141,6 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_CARELESS</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
 				<zIndex>TRAIT_EXTRAVAGANT</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -225,15 +221,7 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_CARELESS</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
 				<zIndex>TRAIT_EXTRAVAGANT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TRAVELING</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
