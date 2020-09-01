@@ -238,7 +238,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Hamilcar</zValue>
+        <zValue>Hamilcar_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -252,7 +252,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_12_YOUTH</zValue>
+        <zValue>Hannibal_young</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -260,7 +260,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Hannibal</zValue>
+        <zValue>Hannibal_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -414,7 +414,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Rahotep</zValue>
+        <zValue>Rahotep_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -436,7 +436,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Nofret</zValue>
+        <zValue>Nofret_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
