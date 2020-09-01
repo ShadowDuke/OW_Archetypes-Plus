@@ -17,7 +17,7 @@
 		<aiMaxRating>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
-				<iValue>-2</iValue>
+				<iValue>-1</iValue>
 			</Pair>
 		</aiMaxRating>
 	</Entry>

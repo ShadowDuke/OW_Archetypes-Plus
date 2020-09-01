@@ -11,15 +11,6 @@
 		</aiRatings>
 	</Entry>
 	<Entry>
-		<zType>BONUS_LOSE_FAME</zType>
-		<aiRatings>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>-1</iValue>
-			</Pair>
-		</aiRatings>
-	</Entry>
-	<Entry>
 		<zType>BONUS_REMOVE_STUDY_ASTRONOMY</zType>
 		<aeRemoveTraits>
 			<zValue>TRAIT_STUDY_ASTRONOMY</zValue>

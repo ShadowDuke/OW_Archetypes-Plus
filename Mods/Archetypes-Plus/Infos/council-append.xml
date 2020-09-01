@@ -1,0 +1,32 @@
+<Root>
+	<Entry>
+		<zType>COUNCIL_AMBASSADOR</zType>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_ARTIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_SPYMASTER</zType>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_CHAMPION_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
+	</Entry>
+</Root>
