@@ -125,7 +125,7 @@
 		<zType>CHARACTER_ATOSSA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATOSSA</FirstName>
-		<iAge>35</iAge>
+		<iAge>30</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
@@ -137,7 +137,7 @@
 		<zType>CHARACTER_CATO</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CATO</FirstName>
-		<iAge>45</iAge>
+		<iAge>40</iAge>
 		<iRating>3</iRating>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
@@ -150,7 +150,7 @@
 		<zType>CHARACTER_HIARBAS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HIARBAS</FirstName>
-		<iAge>40</iAge>
+		<iAge>35</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
@@ -163,7 +163,7 @@
 		<zType>CHARACTER_AUGUSTINE</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_AUGUSTINE</FirstName>
-		<iAge>60</iAge>
+		<iAge>50</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
@@ -444,7 +444,7 @@
 		<zType>CHARACTER_CIMON_THE_FOREIGNER</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CIMON_THE_FOREIGNER</FirstName>
-		<iAge>40</iAge>
+		<iAge>35</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_EXOTIC</zValue>
@@ -457,7 +457,7 @@
 		<zType>CHARACTER_CONFUCIUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CONFUCIUS</FirstName>
-		<iAge>50</iAge>
+		<iAge>40</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
@@ -470,7 +470,7 @@
 		<zType>CHARACTER_BOUDICEA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_BOUDICEA</FirstName>
-		<iAge>40</iAge>
+		<iAge>30</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -483,7 +483,7 @@
     <zType>CHARACTER_EPICTETUS</zType>
     <Gender>GENDER_MALE</Gender>
     <FirstName>NAME_EPICTETUS</FirstName>
-    <iAge>40</iAge>
+    <iAge>35</iAge>
     <iRating>2</iRating>
     <aeTraits>
       <zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
