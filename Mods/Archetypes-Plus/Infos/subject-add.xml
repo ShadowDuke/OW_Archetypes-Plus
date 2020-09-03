@@ -2,26 +2,6 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>SUBJECT_HIGH_FAME</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<aiMinRating>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>2</iValue>
-			</Pair>
-		</aiMinRating>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_LOW_FAME</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<aiMaxRating>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>-1</iValue>
-			</Pair>
-		</aiMaxRating>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_STUDY_ASTRONOMY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_STUDY_ASTRONOMY</TraitPrereq>

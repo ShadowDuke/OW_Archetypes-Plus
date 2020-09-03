@@ -3,7 +3,7 @@
 <Root>
 	<Entry>
 		<zType>EVENTPLAYER_GAIN_FAME</zType>
-		<iDie>1</iDie>
+		<iDie>0</iDie>
 		<Bonus>BONUS_GAIN_FAME</Bonus>
 	</Entry>
 </Root>
