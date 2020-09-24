@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<!-- Archetypes+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>EVENTSTORY_LEADER_ARCHETYPE</zType>
@@ -600,7 +599,6 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zValue>
 			<zValue>EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zValue>
-			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
 		<TriggerData>IMPROVEMENT_LIBRARY_2</TriggerData>
@@ -623,7 +621,6 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0</zValue>
 			<zValue>EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1</zValue>
-			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
 		<TriggerData>IMPROVEMENT_THEATER_1</TriggerData>
@@ -646,7 +643,6 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0</zValue>
 			<zValue>EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1</zValue>
-			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
 		<TriggerData>IMPROVEMENT_THEATER_1</TriggerData>
@@ -668,7 +664,6 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_MARK_ANTONY_OPTION_0</zValue>
 			<zValue>EVENTOPTION_MARK_ANTONY_OPTION_1</zValue>
-			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_IMPROVEMENT_FINISHED</Trigger>
 		<TriggerData>IMPROVEMENT_COURTHOUSE_1</TriggerData>
@@ -693,7 +688,6 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_HANNIBAL_OPTION_0</zValue>
 			<zValue>EVENTOPTION_HANNIBAL_OPTION_1</zValue>
-			<zValue>EVENTOPTION_GREAT_PERSON_NONE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
 		<iImageSubject>1</iImageSubject>
