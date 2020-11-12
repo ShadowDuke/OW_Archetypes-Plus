@@ -4,7 +4,6 @@
 		<zType>EVENTSTORY_LEADER_ARCHETYPE</zType>
 		<Name>TEXT_EVENTSTORY_LEADER_ARCHETYPE_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_LEADER_ARCHETYPE</Text>
-		<zEventAuthor>Leyla Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 		</aeSubjects>
@@ -34,7 +33,6 @@
 		<Text>TEXT_EVENTSTORY_HEIR_EDUCATION</Text>
 		<zBackgroundName>childandfather</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_SOLEMN_VICTORY</zAudioTrigger>
-		<zEventAuthor>Leyla Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_SUCCESSION_US</zValue>
 		</aeSubjects>
@@ -66,7 +64,6 @@
 		<zType>EVENTSTORY_DEAR_PARENT_ASTRONOMY</zType>
 		<Name>TEXT_EVENTSTORY_DEAR_PARENT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_DEAR_PARENT_ASTRONOMY</Text>
-		<zEventAuthor>Leyla Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -101,7 +98,6 @@
 		<zType>EVENTSTORY_TACTICS_TO_ASTRONOMY</zType>
 		<Name>TEXT_EVENTSTORY_CHANGE_STUDIES_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_TACTICS_TO_ASTRONOMY</Text>
-		<zEventAuthor>Leyla Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -128,7 +124,6 @@
 		<zType>EVENTSTORY_ASTRONOMY_TO_COMMERCE</zType>
 		<Name>TEXT_EVENTSTORY_CHANGE_STUDIES_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ASTRONOMY_TO_COMMERCE</Text>
-		<zEventAuthor>Leyla Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_HEIR_US</zValue>
 		</aeSubjects>
@@ -156,7 +151,6 @@
 		<zType>EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY</zType>
 		<Name>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY</Text>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -189,7 +183,6 @@
 		<zType>EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM</zType>
 		<Name>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM</Text>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -223,7 +216,6 @@
 		<zType>EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES</zType>
 		<Name>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES</Text>
-		<zEventAuthor>Soren Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -257,7 +249,6 @@
 		<zType>EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES</zType>
 		<Name>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES</Text>
-		<zEventAuthor>Soren Johnson</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -294,7 +285,6 @@
 		<zType>EVENTSTORY_GRADUATED_CHILD_RETURNS</zType>
 		<Name>TEXT_EVENTSTORY_GRADUATED_CHILD_RETURNS_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_GRADUATED_CHILD_RETURNS</Text>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -325,7 +315,6 @@
 		<zType>EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER</zType>
 		<Name>TEXT_EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER</Text>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -363,7 +352,6 @@
 		<Text>TEXT_EVENTSTORY_GRADUATION_A_CITY_CELEBRATES</Text>
 		<zBackgroundName>Birth</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CAPITAL_US</zValue>
@@ -397,7 +385,6 @@
 		<Text>TEXT_EVENTSTORY_STUDY_TIME_FOR_REJOICING</Text>
 		<zBackgroundName>Birth</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_WEDDING_BELLS</zAudioTrigger>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -434,7 +421,6 @@
 		<Name>TEXT_EVENTSTORY_CHARACTER_RULER_FOR_LIFE_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_CHARACTER_RULER_FOR_LIFE</Text>
 		<zBackgroundName>decree</zBackgroundName>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -467,7 +453,6 @@
 		<zType>EVENTSTORY_HEIR_OF_CORRUPTION</zType>
 		<Name>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION</Text>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_HEIR_US</zValue>
@@ -492,7 +477,6 @@
 		<Name>TEXT_EVENTSTORY_STUDY_GOLDEN_VOICE_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_STUDY_GOLDEN_VOICE</Text>
 		<zBackgroundName>poetess</zBackgroundName>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -528,7 +512,6 @@
 		<Name>TEXT_EVENTSTORY_STUDY_BEARDY_MAN_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_STUDY_BEARDY_MAN</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_SUDDEN_CONFRONTATION</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 		</aeSubjects>
@@ -560,7 +543,6 @@
 		<Name>TEXT_EVENTSTORY_STUDY_GOOD_NEWS_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_STUDY_GOOD_NEWS</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Andy Auseon</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -591,7 +573,6 @@
 		<Text>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES</Text>
 		<zEventURL><![CDATA[https://en.wikipedia.org/wiki/Archimedes]]></zEventURL>
 		<zAudioTrigger>AUDIO_UI_EVENT_OMINOUS_ENCOUNTER</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
 			<zValue>SUBJECT_TUTOR_GREECE_ARCHIMEDES</zValue>
@@ -613,7 +594,6 @@
 		<Text>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME</Text>
 		<zEventURL><![CDATA[https://en.wikipedia.org/wiki/Mnester]]></zEventURL>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_MNESTER</zValue>
@@ -635,7 +615,6 @@
 		<Name>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
 			<zValue>SUBJECT_ARISTOMACHOS</zValue>
@@ -656,7 +635,6 @@
 		<Name>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_MARK_ANTONY</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_OMINOUS_ENCOUNTER</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_MARK_ANTONY</zValue>
@@ -680,7 +658,6 @@
 		<Name>TEXT_EVENTSTORY_HANNIBAL_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_HANNIBAL</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_OMINOUS_ENCOUNTER</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
 			<zValue>SUBJECT_HANNIBAL</zValue>
@@ -701,11 +678,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -742,11 +718,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -783,11 +758,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -824,11 +798,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -865,11 +838,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -906,11 +878,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -946,11 +917,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -987,11 +957,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1027,11 +996,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1067,11 +1035,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_1</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1108,11 +1075,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_2</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1149,11 +1115,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_3</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1190,11 +1155,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_4</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1231,11 +1195,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_5</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1272,11 +1235,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1312,11 +1274,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1352,11 +1313,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -1396,11 +1356,10 @@
 		<Name>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_FESTIVITIES</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_CHARACTER_BARBARIAN_THEM</zValue>
+			<zValue>SUBJECT_CHARACTER_TRIBE_THEM</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
