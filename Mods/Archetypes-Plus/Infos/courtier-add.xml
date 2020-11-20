@@ -84,9 +84,6 @@
 				<iValue>5</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<aeCognomen>
-			<zValue>COGNOMEN_SKYEXPLORER</zValue>
-		</aeCognomen>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_ARTIST</zType>
@@ -176,9 +173,6 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<aeCognomen>
-			<zValue>COGNOMEN_ARTIST</zValue>
-		</aeCognomen>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_FAME</zType>
@@ -288,8 +282,5 @@
 				<iValue>15</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<aeCognomen>
-			<zValue>COGNOMEN_FAME</zValue>
-		</aeCognomen>
 	</Entry>
 </Root>
