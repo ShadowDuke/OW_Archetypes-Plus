@@ -273,7 +273,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_HANNIBAL_OPTION_1_CHARACTER</zType>
-		<MakeCourtier>COURTIER_GREAT_SOLDIER</MakeCourtier>
+		<MakeCourtier>COURTIER_SOLDIER</MakeCourtier>
 		<aeBonuses>
 			<zValue>BONUS_MONEY_LOSS_AVERAGE</zValue>
 			<zValue>BONUS_GAIN_DISCIPLINE_1</zValue>

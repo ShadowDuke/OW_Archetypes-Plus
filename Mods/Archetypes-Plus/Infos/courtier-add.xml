@@ -2,8 +2,8 @@
 <Root>
 	<Entry>
 		<zType>COURTIER_GREAT_SKYEXPLORER</zType>
-		<zName>Great Stargazer</zName>
-		<zIconName>COURTIER_GREAT_SCIENTIST</zIconName>
+		<zName>Stargazer</zName>
+		<zIconName>COURTIER_SCIENTIST</zIconName>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -87,8 +87,8 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_ARTIST</zType>
-		<zName>Great Artist</zName>
-		<zIconName>COURTIER_GREAT_ARTIST</zIconName>
+		<zName>Artist</zName>
+		<zIconName>COURTIER_ARTIST</zIconName>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -176,8 +176,8 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_FAME</zType>
-		<zName>Great Famous Person</zName>
-		<zIconName>COURTIER_GREAT_MINISTER</zIconName>
+		<zName>Famous Person</zName>
+		<zIconName>COURTIER_MINISTER</zIconName>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>

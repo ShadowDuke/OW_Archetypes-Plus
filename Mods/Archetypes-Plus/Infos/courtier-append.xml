@@ -1,7 +1,7 @@
 <!-- Archetypes+ (Revan) -->
 <Root>
 	<Entry>
-		<zType>COURTIER_GREAT_SOLDIER</zType>
+		<zType>COURTIER_SOLDIER</zType>
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
@@ -14,7 +14,7 @@
 		</aiArchetypeDie>
 	</Entry>
 	<Entry>
-		<zType>COURTIER_GREAT_MINISTER</zType>
+		<zType>COURTIER_MINISTER</zType>
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
@@ -27,7 +27,7 @@
 		</aiArchetypeDie>
 	</Entry>
 	<Entry>
-		<zType>COURTIER_GREAT_MERCHANT</zType>
+		<zType>COURTIER_MERCHANT</zType>
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_CORRUPTIONIST_ARCHETYPE</zIndex>
@@ -40,7 +40,7 @@
 		</aiArchetypeDie>
 	</Entry>
 	<Entry>
-		<zType>COURTIER_GREAT_SCIENTIST</zType>
+		<zType>COURTIER_SCIENTIST</zType>
 		<aiArchetypeDie>
 			<Pair>
 				<zIndex>TRAIT_SKYEXPLORER_ARCHETYPE</zIndex>
