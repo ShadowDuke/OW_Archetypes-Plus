@@ -104,7 +104,7 @@
 		<iAge>30</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
-			<zValue>TRAIT_HARDY</zValue>
+			<zValue>TRAIT_TOUGH</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
