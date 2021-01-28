@@ -42,7 +42,7 @@
 		<EffectPlayer>EFFECTPLAYER_TECH_DRAMA</EffectPlayer>
 		<EffectCity>EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</EffectCity>
 		<bStartMusic>1</bStartMusic>
-		<bRaiseImprovement>1</bRaiseImprovement>
+		<bUpgradeImprovement>1</bUpgradeImprovement>
 		<bMultipleWorkers>1</bMultipleWorkers>
 	</Entry>
 	<Entry>
