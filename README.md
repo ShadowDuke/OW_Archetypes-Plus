@@ -35,7 +35,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
         - *Individual probability chance of trait: Dealmaker, Corrupt, Debauched & Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
      - +1 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
-        - *As Leader*: Unlocks Drama, Start music, Can Build Improvements & Multiple Workers can build Improvements 
+        - *As Leader*: Unlocks Drama, Start music, Can upgrade Improvements & Multiple Workers can build Improvements 
            - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Poet: Apprentice +1 Culture, Master +2 Culture, Elder: +3 Culture & Project Festival_1-4: +0.5 Culture each
         - *Individual probability chance of trait*: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic
    - **Merchant** - *Cognomen: The Merchant* 
