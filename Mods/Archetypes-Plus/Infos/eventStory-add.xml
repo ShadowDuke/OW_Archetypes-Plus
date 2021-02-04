@@ -706,12 +706,12 @@
 		<iProb>10</iProb>
 		<iRepeatTurns>10</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zType>
@@ -744,14 +744,14 @@
 		<iMinTurns>9</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>5</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zType>
@@ -784,14 +784,14 @@
 		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
@@ -824,14 +824,14 @@
 		<iMinTurns>8</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zType>
@@ -864,14 +864,14 @@
 		<iMinTurns>10</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zType>
@@ -904,13 +904,13 @@
 		<iMinTurns>10</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zType>
@@ -944,13 +944,13 @@
 		<iMinTurns>9</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zType>
@@ -983,13 +983,13 @@
 		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zType>
@@ -1022,13 +1022,13 @@
 		<iMinTurns>13</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>4</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zType>
@@ -1061,14 +1061,14 @@
 		<iMinTurns>13</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>13</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zType>
@@ -1101,14 +1101,14 @@
 		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zType>
@@ -1141,14 +1141,14 @@
 		<iMinTurns>15</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zType>
@@ -1181,14 +1181,14 @@
 		<iMinTurns>11</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>13</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zType>
@@ -1221,14 +1221,14 @@
 		<iMinTurns>10</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zType>
@@ -1261,13 +1261,13 @@
 		<iMinTurns>7</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>20</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zType>
@@ -1300,13 +1300,13 @@
 		<iMinTurns>10</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zType>
@@ -1343,13 +1343,13 @@
 		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zType>
@@ -1378,12 +1378,12 @@
 		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>18</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>-1</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
-		<aeEventStoryNoRepeat>
+		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zValue>
-		</aeEventStoryNoRepeat>
+		</aeEventStoryRepeatTurns>
 	</Entry>
 </Root>
