@@ -182,7 +182,6 @@
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_INSPIRING</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
@@ -253,7 +252,6 @@
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_SUPERSTITIOUS</zValue>
 			<zValue>TRAIT_PROUD</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
@@ -282,7 +280,6 @@
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_HUMBLE</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
@@ -395,7 +392,6 @@
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_ENGINEER</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
@@ -422,7 +418,6 @@
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
 			<zValue>TRAIT_BOLD</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
@@ -449,7 +444,6 @@
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_EXOTIC</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_COWARDLY</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>

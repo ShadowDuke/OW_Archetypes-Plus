@@ -50,7 +50,6 @@
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 		</aeTraits>
 	</Entry>
@@ -216,7 +215,6 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ARTIST_ARCHETYPE</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_FOOLISH</zValue>
 			<zValue>TRAIT_BEAUTIFUL</zValue>
 		</aeTraits>
