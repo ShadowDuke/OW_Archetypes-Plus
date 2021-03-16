@@ -647,7 +647,6 @@
 		<TriggerData>IMPROVEMENT_COURTHOUSE_1</TriggerData>
 		<iImageSubject>1</iImageSubject>
 		<iImageExtra>0</iImageExtra>
-		<TechPrereq>TECH_RHETORIC</TechPrereq>
 		<LawPrereq>LAW_CENTRALIZATION</LawPrereq>
 		<iWeight>1</iWeight>
 		<iProb>30</iProb>
@@ -668,7 +667,6 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
 		<iImageSubject>1</iImageSubject>
-		<TechPrereq>TECH_MILITARY_DRILL</TechPrereq>
 		<iWeight>1</iWeight>
 		<iProb>50</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
