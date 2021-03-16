@@ -90,6 +90,7 @@
 			<zValue>TRAIT_SWIFT</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
