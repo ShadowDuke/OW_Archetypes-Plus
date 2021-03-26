@@ -8,7 +8,7 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
-			<zValue>TRAIT_HONEST</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 		</aeTraits>
@@ -35,7 +35,7 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
-			<zValue>TRAIT_HONEST</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
 			<zValue>TRAIT_PROUD</zValue>
@@ -161,7 +161,7 @@
 			<zValue>TRAIT_MERCHANT_ARCHETYPE</zValue>
 			<zValue>TRAIT_INFAMOUS</zValue>
 			<zValue>TRAIT_SLIGHTED</zValue>
-			<zValue>TRAIT_DISHONEST</zValue>
+			<zValue>TRAIT_CORRUPT</zValue>
 			<zValue>TRAIT_DELVER</zValue>
 		</aeTraits>
 	</Entry>
@@ -216,7 +216,7 @@
 		<aeTraits>
 			<zValue>TRAIT_ARTIST_ARCHETYPE</zValue>
 			<zValue>TRAIT_FOOLISH</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -227,7 +227,6 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ARTIST_ARCHETYPE</zValue>
-			<zValue>TRAIT_HERDER</zValue>
 			<zValue>TRAIT_HERBALIST</zValue>
 			<zValue>TRAIT_FIERCE</zValue>
 		</aeTraits>
@@ -296,7 +295,6 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
-			<zValue>TRAIT_DRILLMASTER</zValue>
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 			<zValue>TRAIT_FAMOUS</zValue>
@@ -311,7 +309,7 @@
 		<iAge>10</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
-			<zValue>TRAIT_HONEST</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>

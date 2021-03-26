@@ -196,7 +196,7 @@
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
 			<zValue>TRAIT_HUMBLE</zValue>
-			<zValue>TRAIT_FORESTER</zValue>
+			<zValue>TRAIT_NATURALIST</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
@@ -225,7 +225,7 @@
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
 			<zValue>TRAIT_HERBALIST</zValue>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
@@ -294,7 +294,6 @@
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
 			<zValue>TRAIT_DIVINE</zValue>
 			<zValue>TRAIT_CUNNING</zValue>
-			<zValue>TRAIT_SMELTER</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
@@ -307,7 +306,7 @@
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_ROBUST</zValue>
-			<zValue>TRAIT_ANGLER</zValue>
+			<zValue>TRAIT_PATHFINDER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
@@ -404,7 +403,7 @@
 		<aeTraits>
 			<zValue>TRAIT_ELOQUENT</zValue>
 			<zValue>TRAIT_COWARDLY</zValue>
-			<zValue>TRAIT_HEARTBROKEN</zValue>
+			<zValue>TRAIT_BITTER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>

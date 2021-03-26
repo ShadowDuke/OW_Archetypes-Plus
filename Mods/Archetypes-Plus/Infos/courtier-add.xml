@@ -22,10 +22,6 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_DRILLMASTER</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
 				<zIndex>TRAIT_ELOQUENT</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -131,7 +127,7 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_ANGLER</zIndex>
+				<zIndex>TRAIT_PATHFINDER</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
@@ -220,7 +216,7 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_BEAUTIFUL</zIndex>
+				<zIndex>TRAIT_EXOTIC</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
