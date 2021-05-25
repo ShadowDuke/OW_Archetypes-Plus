@@ -4,6 +4,7 @@
 		<zType>CHARACTER_ALCIBIADES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ALCIBIADES</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ALCIBIADES</PreferredPortrait>
 		<iAge>31</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -17,6 +18,7 @@
 		<zType>CHARACTER_POLYBIOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_POLYBIOS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_POLYBIOS</PreferredPortrait>
 		<iAge>28</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -31,6 +33,7 @@
 		<zType>CHARACTER_ANTIPHON</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANTIPHON</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ANTIPHON</PreferredPortrait>
 		<iAge>31</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -45,6 +48,7 @@
 		<zType>CHARACTER_DOROTHEOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DOROTHEOS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_DOROTHEOS</PreferredPortrait>
 		<iAge>42</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -57,6 +61,7 @@
 		<zType>CHARACTER_DEMOSTHENSES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DEMOSTHENSES</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_DEMOSTHENSES</PreferredPortrait>
 		<iAge>34</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -70,6 +75,7 @@
 		<zType>CHARACTER_TRIBONIANUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TRIBONIANUS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_10</PreferredPortrait>
 		<iAge>36</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -83,6 +89,7 @@
 		<zType>CHARACTER_MARK_ANTONY</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MARK_ANTONY</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_MARK_ANTONY</PreferredPortrait>
 		<iAge>44</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -98,6 +105,7 @@
 		<zType>CHARACTER_BRUTUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_BRUTUS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_11</PreferredPortrait>
 		<iAge>26</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -113,6 +121,7 @@
 		<zType>CHARACTER_CAMILLUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CAMILLUS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_09</PreferredPortrait>
 		<iAge>25</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -127,6 +136,7 @@
 		<zType>CHARACTER_CATILINA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CATILINA</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_07</PreferredPortrait>
 		<iAge>29</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -141,6 +151,7 @@
 		<zType>CHARACTER_CATULLUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CATULLUS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_14</PreferredPortrait>
 		<iAge>30</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -155,6 +166,7 @@
 		<zType>CHARACTER_BATIATUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_BATIATUS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_04</PreferredPortrait>
 		<iAge>28</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -169,6 +181,7 @@
 		<zType>CHARACTER_IDDIN_MARDUK</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_IDDIN_MARDUK</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_12</PreferredPortrait>
 		<iAge>32</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
@@ -182,6 +195,7 @@
 		<zType>CHARACTER_EUMACHIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_EUMACHIA</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EUMACHIA</PreferredPortrait>
 		<iAge>24</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -196,6 +210,7 @@
 		<zType>CHARACTER_CICERO</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CICERO</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_CICERO</PreferredPortrait>
 		<iAge>31</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -211,6 +226,7 @@
 		<zType>CHARACTER_ANKH_AF_NA_KHONSU</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANKH_AF_NA_KHONSU</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EGYPT_LEADER_MALE_04</PreferredPortrait>
 		<iAge>24</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -223,6 +239,7 @@
 		<zType>CHARACTER_ARISTOMACHOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ARISTOMACHOS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ARISTOMACHOS</PreferredPortrait>
 		<iAge>30</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -235,6 +252,7 @@
 		<zType>CHARACTER_MNESTER</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MNESTER</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_MNESTER</PreferredPortrait>
 		<iAge>27</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -248,6 +266,7 @@
 		<zType>CHARACTER_TUTOR_GREECE_ARCHIMEDES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TUTOR_GREECE_ARCHIMEDES</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_ARCHIMEDES</PreferredPortrait>
 		<iAge>37</iAge>
 		<iRating>2</iRating>
 		<aeTraits>
@@ -263,6 +282,7 @@
 		<zType>CHARACTER_HAMILCAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HAMILCAR</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HAMILCAR</PreferredPortrait>
 		<iAge>36</iAge>
 		<iRating>1</iRating>
 		<aeTraits>
@@ -278,6 +298,7 @@
 		<zType>CHARACTER_HASDRUBAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HASDRUBAL</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HASDRUBAL</PreferredPortrait>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<iAge>18</iAge>
 		<iRating>1</iRating>
@@ -290,6 +311,7 @@
 		<zType>CHARACTER_HANNIBAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HANNIBAL</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HANNIBAL</PreferredPortrait>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<iAge>13</iAge>
 		<iRating>1</iRating>
@@ -305,6 +327,7 @@
 		<zType>CHARACTER_MAGO</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MAGO</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_MAGO</PreferredPortrait>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<iAge>10</iAge>
 		<iRating>1</iRating>
@@ -316,6 +339,7 @@
 		<zType>CHARACTER_SNEFERU</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SNEFERU</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_SNEFERU</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Spouse>CHARACTER_HETEPHERES</Spouse>
 		<iAge>37</iAge>
@@ -331,6 +355,7 @@
 		<zType>CHARACTER_HETEPHERES</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HETEPHERES</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_HETEPHERES</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<iAge>36</iAge>
 		<aeTraits>
@@ -342,6 +367,7 @@
 		<zType>CHARACTER_CHEOPS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CHEOPS</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_CHEOPS</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<iAge>18</iAge>
@@ -355,6 +381,7 @@
 		<zType>CHARACTER_RAHOTEP</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_RAHOTEP</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_RAHOTEP</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<Spouse>CHARACTER_NOFRET</Spouse>
@@ -368,6 +395,7 @@
 		<zType>CHARACTER_NOFRET</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_NOFRET</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_NOFRET</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<iAge>21</iAge>
 		<aeTraits>
@@ -379,6 +407,7 @@
 		<zType>CHARACTER_NEFERMAAT</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_NEFERMAAT</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_NEFERMAAT</PreferredPortrait>
 		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<iAge>19</iAge>

@@ -2,7 +2,7 @@
 <Root>
 	<Entry>
 		<zType>COLOR_RATING_FAME</zType>
-		<zName>Fame</zName>
+		<Name>TEXT_COLOR_RATING_FAME</Name>
 		<ColorClass>COLORCLASS_RATINGS</ColorClass>
 		<zHexValue>#e2dfbc</zHexValue>
 	</Entry>

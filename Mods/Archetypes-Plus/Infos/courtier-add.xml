@@ -2,7 +2,7 @@
 <Root>
 	<Entry>
 		<zType>COURTIER_GREAT_SKYEXPLORER</zType>
-		<zName>Stargazer</zName>
+		<Name>TEXT_COURTIER_SKYEXPLORER</Name>
 		<zIconName>COURTIER_SCIENTIST</zIconName>
 		<aiRatingBase>
 			<Pair>
@@ -83,7 +83,7 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_ARTIST</zType>
-		<zName>Artist</zName>
+		<Name>TEXT_COURTIER_ARTIST</Name>
 		<zIconName>COURTIER_ARTIST</zIconName>
 		<aiRatingBase>
 			<Pair>
@@ -172,7 +172,7 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_GREAT_FAME</zType>
-		<zName>Famous Person</zName>
+		<Name>TEXT_COURTIER_GREAT_FAME</Name>
 		<zIconName>COURTIER_MINISTER</zIconName>
 		<aiRatingBase>
 			<Pair>

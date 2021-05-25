@@ -79,12 +79,12 @@
 		<EffectCity>EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</EffectCity>
 		<iXPIdleTurn>5</iXPIdleTurn>
 		<iXPModifier>5</iXPModifier>
-		<aiUnitMilitaryKillYield>
+		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
 				<iValue>10</iValue>
 			</Pair>
-		</aiUnitMilitaryKillYield>
+		</aiMilitaryKillYield>
 		<aiWarYield>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>

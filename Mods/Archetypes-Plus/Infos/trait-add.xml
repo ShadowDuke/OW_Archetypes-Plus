@@ -392,7 +392,6 @@
 		<zType>TRAIT_BROADMINDED</zType>
 		<Name>TEXT_TRAIT_BROADMINDED</Name>
 		<iAdjectiveDie>0</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -408,7 +407,6 @@
 		<zType>TRAIT_FUNDED</zType>
 		<Name>TEXT_TRAIT_FUNDED</Name>
 		<iAdjectiveDie>0</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -428,7 +426,6 @@
 		<zType>TRAIT_FAMOUS_PERSON</zType>
 		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
 		<iAdjectiveDie>0</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
@@ -440,7 +437,6 @@
 		<zType>TRAIT_PYRAMIDS_BUILDER</zType>
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
 		<iAdjectiveDie>0</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
 			<Pair>

@@ -2,38 +2,34 @@
 <Root>
 	<Entry>
 		<zType>COGNOMEN_SKYEXPLORER</zType>
-		<zName>The Stargazer</zName>
+		<Name>TEXT_COGNOMEN_SKYEXPLORER</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_CORRUPTIONIST</zType>
-		<zName>The Corruptionist</zName>
+		<Name>TEXT_COGNOMEN_CORRUPTIONIST</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_ARTIST</zType>
-		<zName>The Artist</zName>
+		<Name>TEXT_COGNOMEN_ARTIST</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_BROADMINDED</zType>
-		<zName>The Broad-Minded</zName>
+		<Name>TEXT_COGNOMEN_BROADMINDED</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_FUNDED</zType>
-		<zName>The Financed</zName>
+		<Name>TEXT_COGNOMEN_FUNDED</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_FAME</zType>
-		<zName>The Famous</zName>
-	</Entry>
-	<Entry>
-		<zType>COGNOMEN_ARTIST</zType>
-		<zName>The Artist</zName>
+		<Name>TEXT_COGNOMEN_FAME</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_MERCHANT</zType>
-		<zName>The Merchant</zName>
+		<Name>TEXT_COGNOMEN_MERCHANT</Name>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_CHAMPION</zType>
-		<zName>The Champion</zName>
+		<Name>TEXT_COGNOMEN_CHAMPION</Name>
 	</Entry>
 </Root>
