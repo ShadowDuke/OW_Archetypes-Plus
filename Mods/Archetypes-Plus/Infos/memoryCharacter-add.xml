@@ -2,7 +2,7 @@
 <Root>
 	<Entry>
 		<zType>MEMORYCHARACTER_STUDY_ASTRONOMY_PUNISH</zType>
-		<zText>Punished while Studying Astronomy</zText>
+		<Text>TEXT_MEMORYCHARACTER_STUDY_ASTRONOMY_PUNISH</Text>
 		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
 	</Entry>
 </Root>
