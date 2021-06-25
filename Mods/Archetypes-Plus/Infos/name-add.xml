@@ -2,118 +2,118 @@
 <Root>
 	<Entry>
 		<zType>NAME_ALCIBIADES</zType>
-		<zName>Alcibiades</zName>
+		<Name>TEXT_NAME_Alcibiades</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_POLYBIOS</zType>
-		<zName>Polybios</zName>
+		<Name>TEXT_NAME_Polybios</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTIPHON</zType>
-		<zName>Antiphon</zName>
+		<Name>TEXT_NAME_Antiphon</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_DOROTHEOS</zType>
-		<zName>Dorotheos</zName>
+		<Name>TEXT_NAME_Dorotheos</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_DEMOSTHENSES</zType>
-		<zName>Demosthenes</zName>
+		<Name>TEXT_NAME_Demosthenes</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_TRIBONIANUS</zType>
-		<zName>Flavius Tribonianus</zName>
+		<Name>TEXT_NAME_Flavius_Tribonianus</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MARK_ANTONY</zType>
-		<zName>Marcus Antonius</zName>
+		<Name>TEXT_NAME_Marcus_Antonius</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_BRUTUS</zType>
-		<zName>Marcus Iunius Brutus</zName>
+		<Name>TEXT_NAME_Marcus_Iunius_Brutus</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CAMILLUS</zType>
-		<zName>Marcus Furius Camillus</zName>
+		<Name>TEXT_NAME_Marcus_Furius_Camillus</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CATILINA</zType>
-		<zName>Lucius Sergius Catilina</zName>
+		<Name>TEXT_NAME_Lucius_Sergius_Catilina</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CATULLUS</zType>
-		<zName>Gaius Valerius Catullus</zName>
+		<Name>TEXT_NAME_Gaius_Valerius_Catullus</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_BATIATUS</zType>
-		<zName>Gnaeus Cornelius Lentulus Batiatus</zName>
+		<Name>TEXT_NAME_Gnaeus_Cornelius_Lentulus_Batiatus</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_IDDIN_MARDUK</zType>
-		<zName>Iddin-Marduk</zName>
+		<Name>TEXT_NAME_Iddin_Marduk</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_EUMACHIA</zType>
-		<zName>Eumachia</zName>
+		<Name>TEXT_NAME_Eumachia</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CICERO</zType>
-		<zName>Marcus Tullius Cicero</zName>
+		<Name>TEXT_NAME_Marcus_Tullius_Cicero</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANKH_AF_NA_KHONSU</zType>
-		<zName>Ankh-af-na-khonsu</zName>
+		<Name>TEXT_NAME_Ankh_af_na_khonsu</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARISTOMACHOS</zType>
-		<zName>Aristomachos</zName>
+		<Name>TEXT_NAME_Aristomachos</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MNESTER</zType>
-		<zName>Mnester</zName>
+		<Name>TEXT_NAME_Mnester</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_GREECE_ARCHIMEDES</zType>
-		<zName>Archimedes</zName>
+		<Name>TEXT_NAME_Archimedes</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_HANNIBAL</zType>
-		<zName>Hannibal</zName>
+		<Name>TEXT_NAME_Hannibal</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_HAMILCAR</zType>
-		<zName>Hamilcar</zName>
+		<Name>TEXT_NAME_Hamilcar</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_HASDRUBAL</zType>
-		<zName>Hasdrubal</zName>
+		<Name>TEXT_NAME_Hasdrubal</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAGO</zType>
-		<zName>Mago</zName>
+		<Name>TEXT_NAME_Mago</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_SNEFERU</zType>
-		<zName>Sneferu</zName>
+		<Name>TEXT_NAME_Sneferu</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_HETEPHERES</zType>
-		<zName>Hetepheres</zName>
+		<Name>TEXT_NAME_Hetepheres</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHEOPS</zType>
-		<zName>Cheops</zName>
+		<Name>TEXT_NAME_Cheops</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_RAHOTEP</zType>
-		<zName>Rahotep</zName>
+		<Name>TEXT_NAME_Rahotep</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_NOFRET</zType>
-		<zName>Nofret</zName>
+		<Name>TEXT_NAME_Nofret</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_NEFERMAAT</zType>
-		<zName>Nefermaat</zName>
+		<Name>TEXT_NAME_Nefermaat</Name>
 	</Entry>
 </Root>

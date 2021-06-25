@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>TEXT_NAME_Alcibiades</zType>
+		<English>Alcibiades</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Polybios</zType>
+		<English>Polybios</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Antiphon</zType>
+		<English>Antiphon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Dorotheos</zType>
+		<English>Dorotheos</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Demosthenes</zType>
+		<English>Demosthenes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Flavius_Tribonianus</zType>
+		<English>Flavius Tribonianus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Marcus_Antonius</zType>
+		<English>Marcus Antonius</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Marcus_Iunius_Brutus</zType>
+		<English>Marcus Iunius Brutus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Marcus_Furius_Camillus</zType>
+		<English>Marcus Furius Camillus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Lucius_Sergius_Catilina</zType>
+		<English>Lucius Sergius Catilina</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Gaius_Valerius_Catullus</zType>
+		<English>Gaius Valerius Catullus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Gnaeus_Cornelius_Lentulus_Batiatus</zType>
+		<English>Gnaeus Cornelius Lentulus Batiatus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Iddin_Marduk</zType>
+		<English>Iddin-Marduk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Eumachia</zType>
+		<English>Eumachia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Marcus_Tullius_Cicero</zType>
+		<English>Marcus Tullius Cicero</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Ankh_af_na_khonsu</zType>
+		<English>Ankh-af-na-khonsu</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Aristomachos</zType>
+		<English>Aristomachos</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Mnester</zType>
+		<English>Mnester</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Archimedes</zType>
+		<English>Archimedes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Hannibal</zType>
+		<English>Hannibal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Hamilcar</zType>
+		<English>Hamilcar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Hasdrubal</zType>
+		<English>Hasdrubal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Mago</zType>
+		<English>Mago</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Sneferu</zType>
+		<English>Sneferu</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Hetepheres</zType>
+		<English>Hetepheres</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Cheops</zType>
+		<English>Cheops</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Rahotep</zType>
+		<English>Rahotep</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Nofret</zType>
+		<English>Alcibiades</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_Nefermaat</zType>
+		<English>Alcibiades</English>
+	</Entry>
+</Root>

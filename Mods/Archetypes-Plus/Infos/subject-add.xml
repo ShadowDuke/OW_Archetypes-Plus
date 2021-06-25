@@ -106,35 +106,35 @@
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEADER_SKYEXPLORER</zType>
-		<zName>Sky Explorer Leader</zName>
+		<Name>TEXT_SUBJECT_LEADER_SKYEXPLORER</Name>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SKYEXPLORER_ARCHETYPE</TraitPrereq>
 		<bLeader>1</bLeader>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEADER_CORRUPTIONIST</zType>
-		<zName>Corruptionist Leader</zName>
+		<Name>TEXT_SUBJECT_LEADER_CORRUPTIONIST</Name>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_CORRUPTIONIST_ARCHETYPE</TraitPrereq>
 		<bLeader>1</bLeader>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEADER_ARTIST</zType>
-		<zName>Artist Leader</zName>
+		<Name>TEXT_SUBJECT_LEADER_ARTIST</Name>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_ARTIST_ARCHETYPE</TraitPrereq>
 		<bLeader>1</bLeader>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEADER_MERCHANT</zType>
-		<zName>Merchant Leader</zName>
+		<Name>TEXT_SUBJECT_LEADER_MERCHANT</Name>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_MERCHANT_ARCHETYPE</TraitPrereq>
 		<bLeader>1</bLeader>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEADER_CHAMPION</zType>
-		<zName>CHampion Leader</zName>
+		<Name>TEXT_SUBJECT_LEADER_CHAMPION</Name>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_CHAMPION_ARCHETYPE</TraitPrereq>
 		<bLeader>1</bLeader>
