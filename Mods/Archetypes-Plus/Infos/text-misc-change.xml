@@ -1,0 +1,86 @@
+<!-- Archetypes+ (Revan) -->
+
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_SKYEXPLORER</zType>
+		<Translation>Der Himmelsgucker</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_CORRUPTIONIST</zType>
+		<Translation>Der Bestechliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_ARTIST</zType>
+		<Translation>der Künstler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_BROADMINDED</zType>
+		<Translation>Der Großzügige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_FUNDED</zType>
+		<Translation>Der Finanzierte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_FAME</zType>
+		<Translation>Der Berühmte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_MERCHANT</zType>
+		<Translation>Der Händler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COGNOMEN_CHAMPION</zType>
+		<Translation>Der Champion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SKYEXPLORER</zType>
+		<Translation>Der Himmelsgucker</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_ARTIST</zType>
+		<Translation>der Künster</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_GREAT_FAME</zType>
+		<Translation>eine Berühmte Person</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_RATING_FAME</zType>
+		<Translation>Ruhm</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_FAME</zType>
+		<Translation>Ruhm</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_FAME_HELP</zType>
+		<Translation>Ruhm erhöht {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} und {YIELD_CULTURE} als Oberhaupt oppelt so viel.
+Als Stadthalter sind {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} und {YIELD_MONEY} erhöht.
+Für Feldherren erhöht Ruhm die Verteidigungsstärke einer Einheit.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_LEADER_SKYEXPLORER</zType>
+		<Translation>Himmelsforscher Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_LEADER_CORRUPTIONIST</zType>
+		<Translation>Bestechliches Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_LEADER_ARTIST</zType>
+		<Translation>Künstler Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_LEADER_MERCHANT</zType>
+		<Translation>Händler Oberhaupt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_LEADER_CHAMPION</zType>
+		<Translation>Champion Oberhaupt</Translation>
+	</Entry>
+</Root>

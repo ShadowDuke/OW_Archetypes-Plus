@@ -30,7 +30,7 @@
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>-50</iValue>
 			</Pair>
-		</aiYieldRate>
+		</aiYieldRate>			
 		<aeTradeYield>
 			<zValue>YIELD_ORDERS</zValue>
 		</aeTradeYield>
@@ -70,7 +70,7 @@
 				<zIndex>YIELD_IRON</zIndex>
 				<iValue>20</iValue>
 			</Pair>
-		</aiYieldRate>
+		</aiYieldRate>	
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
@@ -109,7 +109,7 @@
 		<SourceTrait>TRAIT_PYRAMIDS_BUILDER</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</EffectCity>
 		<iLeaderOpinionChange>25</iLeaderOpinionChange>
-		<aiYieldRate>
+	<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
 				<iValue>50</iValue>
