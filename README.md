@@ -56,7 +56,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
    - **Famous Person**
         - +1 Fame
    - **Pyramids Builder** (Only for a few new egyptian characters)
-        - +25 All Foreign Leader Opinions, +5 Stone/Year, All Cities: +3 Stone & -3 Food, Project Convoy: +50 Money & Stonecutte:r +3 Stone
+        - +25 All Foreign Leader Opinions, +5 Stone/Year, All Cities: +3 Stone & -3 Food, Project Caravan: +50 Money & Stonecutte:r +3 Stone
         
 - 1 new attribute:
    - **Fame**
