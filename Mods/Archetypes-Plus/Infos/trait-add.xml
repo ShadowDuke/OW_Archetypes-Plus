@@ -397,8 +397,9 @@
 		<zType>TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
 		<zIconName>TRAIT_SKYEXPLORER</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>0</bGeneralPrereq>
@@ -418,8 +419,10 @@
 		<zType>TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
 		<zIconName>TRAIT_CORRUPTIONIST</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
 		<iWarModifier>15</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
@@ -463,9 +466,10 @@
 		<zType>TRAIT_ARTIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ARTIST_ARCHETYPE</Name>
 		<zIconName>TRAIT_ARTIST</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iWarModifier>0</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iPeaceModifier>25</iPeaceModifier>
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</LeaderEffectPlayer>
@@ -491,9 +495,11 @@
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_MERCHANT_ARCHETYPE</Name>
 		<zIconName>TRAIT_MERCHANT</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
-		<iWarModifier>0</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iWarModifier>10</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<bGovernorPrereq>1</bGovernorPrereq>
@@ -526,8 +532,9 @@
 		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
 		<zIconName>TRAIT_CHAMPION</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
 		<iWarModifier>20</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
@@ -554,7 +561,13 @@
 	<Entry>
 		<zType>TRAIT_BROADMINDED</zType>
 		<Name>TEXT_TRAIT_BROADMINDED</Name>
+		<iMinAge>11</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iPeaceModifier>25</iPeaceModifier>
+		<iTruceModifier>25</iTruceModifier>
+		<iWarModifier>25</iWarModifier>
+		<bStrength>1</bStrength>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -569,7 +582,9 @@
 	<Entry>
 		<zType>TRAIT_FUNDED</zType>
 		<Name>TEXT_TRAIT_FUNDED</Name>
+		<iMinAge>8</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
+		<iOpinionSame>40</iOpinionSame>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -588,7 +603,13 @@
 	<Entry>
 		<zType>TRAIT_FAMOUS_PERSON</zType>
 		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
+		<iMinAge>14</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionProximity>-25</iOpinionProximity>
+		<iTruceModifier>25</iTruceModifier>
+		<bStrength>1</bStrength>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
@@ -599,7 +620,9 @@
 	<Entry>
 		<zType>TRAIT_PYRAMIDS_BUILDER</zType>
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
+		<iMinAge>20</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
+		<iOpinionSame>40</iOpinionSame>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
 			<Pair>
