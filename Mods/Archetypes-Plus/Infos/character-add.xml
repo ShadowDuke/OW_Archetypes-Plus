@@ -340,7 +340,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SNEFERU</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_SNEFERU</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Spouse>CHARACTER_HETEPHERES</Spouse>
 		<iAge>37</iAge>
 		<aeTraits>
@@ -356,7 +356,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HETEPHERES</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_HETEPHERES</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<iAge>36</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -368,7 +368,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CHEOPS</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_CHEOPS</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<iAge>18</iAge>
 		<aeTraits>
@@ -382,7 +382,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_RAHOTEP</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_RAHOTEP</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<Spouse>CHARACTER_NOFRET</Spouse>
 		<iAge>18</iAge>
@@ -396,7 +396,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_NOFRET</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_NOFRET</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<iAge>21</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
@@ -408,7 +408,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_NEFERMAAT</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_NEFERMAAT</PreferredPortrait>
-<!--	<PlayerNation>NATION_EGYPT</PlayerNation>	-->
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<iAge>19</iAge>
 		<aeTraits>

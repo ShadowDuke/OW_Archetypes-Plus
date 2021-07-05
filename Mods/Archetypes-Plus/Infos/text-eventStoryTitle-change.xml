@@ -38,6 +38,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
-		<Translation>Du hast ein Merkmal erlangt</Translation>
+		<Translation>{CHARACTER-0} hat ein Merkmal erlangt</Translation>
 	</Entry>
 </Root>

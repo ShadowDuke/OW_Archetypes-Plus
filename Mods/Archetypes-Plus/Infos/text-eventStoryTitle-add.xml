@@ -42,6 +42,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
-		<English>You gained a trait</English>
+		<English>{CHARACTER-0} gained a trait</English>
 	</Entry>
 </Root>

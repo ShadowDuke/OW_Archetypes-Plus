@@ -81,78 +81,78 @@ What are you going to do?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
-		<English>People like beeing around you.</English>
+		<English>People like beeing around {CHARACTER-0}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zType>
-		<English>You came up with an extraordinary idea.</English>
+		<English>{CHARACTER-0} came up with an extraordinary idea.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zType>
-		<English>You saw something strange passing the sky.</English>
+		<English>{CHARACTER-0} saw something strange passing the sky.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
-		<English>People are disturbing your work.</English>
+		<English>People are disturbing {CHARACTER-0}'s work.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
-		<English>People are disturbing your work.</English>
+		<English>People are disturbing {CHARACTER-0}'s work.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zType>
-		<English>You spent a lot of time studying new things.</English>
+		<English>{CHARACTER-0} spent a lot of time studying new things.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zType>
-		<English>You bribed your way to make a good deal.</English>
+		<English>{CHARACTER-0} bribed your way to make a good deal.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zType>
-		<English>You bribed a lot of people.</English>
+		<English>{CHARACTER-0} bribed a lot of people.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zType>
-		<English>You bribed someone for an "unusual" request.</English>
+		<English>{CHARACTER-0} bribed someone for an "unusual" request.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zType>
-		<English>You cant get enough...</English>
+		<English>{CHARACTER-0} cant get enough...</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zType>
-		<English>You are very romantic, expressing it in things at your art.</English>
+		<English>{CHARACTER-0} are very romantic, expressing it in things at your art.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zType>
-		<English>You have a new pet friend.</English>
+		<English>{CHARACTER-0} have a new pet friend.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zType>
-		<English>Your origin is from foreign lands.</English>
+		<English>{CHARACTER-0}'s origin is from foreign lands.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zType>
-		<English>Over the time you learned what things you can harvest in the forests.</English>
+		<English>Over the time {CHARACTER-0} learned what things you can harvest in the forests.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zType>
-		<English>The library is your second home.</English>
+		<English>The library is {CHARACTER-0}'s second home.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zType>
-		<English>You are just talented in your business.</English>
+		<English>{CHARACTER-0} are just talented in {G0:his:her} business.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zType>
-		<English>You always want more and more..</English>
+		<English>{CHARACTER-0} always want more and more..</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zType>
-		<English>After so many travels you started to act more like a foreigner.</English>
+		<English>After so many travels {CHARACTER-0} started to act more like a foreigner.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zType>
-		<English>On one of your travels you got yourself a pet-monkey.</English>
+		<English>On one of {CHARACTER-0}'s travels {G0:he:she} obtained a pet-monkey.</English>
 	</Entry>
 </Root>
