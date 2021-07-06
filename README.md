@@ -17,7 +17,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
 
 - 2 new study types:
    - **Astronomy student**  (Education fee: "minimal" gold)
-     - +2 Legitimacy, +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
+     - +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
    - **Pythagoreanism student** (Education fee: "tiny" gold)
      - +1 Wisdom, +1 Charisma & +1 Discipline - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
@@ -34,7 +34,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
            - +25 Money/Year, -5 Civics/Year & -10% Money in every City/Year <> Project Treasurey_1: +3 Money, _2: +6 Money, _3 +12 Money, _4: +24 Money *if law is active*: Tyranny: +1 Discontent
         - *Individual probability chance of trait: Dealmaker, Corrupt, Debauched & Greedy* <> [Chance to die: Long 0% - Standard 5% - Realistic 10%]
    - **Artist** - *Cognomen: The Artist* 
-     - +1 Wisdom, +1 Charisma & +1 Fame - Can be a Governor or an Ambassador
+     - +1 Wisdom & +1 Charisma - Can be a Governor or an Ambassador
         - *As Leader*: Unlocks Drama, Start music, Can upgrade Improvements & Multiple Workers can build Improvements 
            - +1 Culture per Culture Level in every City/Year & +15% Culture in every City/Year <> Poet: Apprentice +1 Culture, Master +2 Culture, Elder: +3 Culture & Project Festival_1-4: +0.5 Culture each
         - *Individual probability chance of trait*: Educated, Romantic, Herbalist, Pet Fish Owner & Exotic
@@ -44,7 +44,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
            - +1 Food/Year, +2 Stone/Year, +2 Iron/Year, +2 Wood/Year & +10% Money in every City/Year <> Shopkeeper: Apprentice +3 Money, Master +7 Money, Elder: +15 Money & *if law is active*: Monetary Reform: +10 Money
         - *Individual probability chance of trait*: Dealmaker, Exotic, Pet Monkey Owner & Greedy <> [+10% Chance to get ill]
    - **Champion** - *Cognomen: The Champion* 
-     - +2 Courage, +1 Wisdom & +1 Fame - Can be a Governor, a General, an Ambassador or a Spymaster
+     - +2 Courage & +1 Wisdom - Can be a Governor, a General, an Ambassador or a Spymaster
         - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
            - +15 Training/Year & +20% Training in every City/Year <> Project Olympics: +0.5 Training & Improvement Barracks: +3 Training
         
