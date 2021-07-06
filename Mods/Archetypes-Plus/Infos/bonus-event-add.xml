@@ -2,7 +2,6 @@
 <Root>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<iLegitimacy>2</iLegitimacy>
 		<aiRatings>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -22,7 +21,6 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<iLegitimacy>2</iLegitimacy>
 		<aiRatings>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -35,10 +33,6 @@
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
 				<iValue>1</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_COURAGE</zIndex>
-				<iValue>-1</iValue>
 			</Pair>
 		</aiRatings>
 		<aeAddTraits>

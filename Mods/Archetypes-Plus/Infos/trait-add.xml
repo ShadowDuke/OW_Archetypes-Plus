@@ -482,10 +482,6 @@
 				<zIndex>RATING_CHARISMA</zIndex>
 				<iValue>1</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
-				<iValue>1</iValue>
-			</Pair>
 		</aiRating>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
@@ -547,10 +543,6 @@
 			</Pair>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_FAME</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
