@@ -28,7 +28,6 @@
 		<zType>ASSET_SPRITE_SHEET_NOFRET</zType>
 		<zAsset>characters/Nofret</zAsset>
 	</Entry>
-
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_SKYEXPLORER</zType>
 		<zAsset>traits/TRAIT_SKYEXPLORER</zAsset>
@@ -73,5 +72,4 @@
 		<zType>ASSET_SPRITE_SHEET_FAME</zType>
 		<zAsset>ratings/RATING_FAME</zAsset>
 	</Entry>
-
 </Root>

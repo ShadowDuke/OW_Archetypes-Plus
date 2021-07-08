@@ -12,7 +12,6 @@
 			<zValue>ASSET_SPRITE_SHEET_RAHOTEP</zValue>
         </aeSpriteSheets>
 	</Entry>
-
 	<Entry>
 		<zType>SPRITE_GROUP_TRAIT_ICONS</zType>
 		<aeSpriteSheets>
@@ -39,5 +38,4 @@
 			<zValue>ASSET_SPRITE_SHEET_FAME</zValue>
         </aeSpriteSheets>
     </Entry>											
-
 </Root>

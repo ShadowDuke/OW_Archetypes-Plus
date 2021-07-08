@@ -396,7 +396,7 @@
 	<Entry>
 		<zType>TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
-		<zIconName>TRAIT_DIPLOMAT</zIconName>
+		<zIconName>TRAIT_SKYEXPLORER</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
@@ -434,7 +434,7 @@
 	<Entry>
 		<zType>TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
-		<zIconName>TRAIT_TACTICIAN</zIconName>
+		<zIconName>TRAIT_CORRUPTIONIST</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
@@ -501,7 +501,7 @@
 	<Entry>
 		<zType>TRAIT_ARTIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ARTIST_ARCHETYPE</Name>
-		<zIconName>TRAIT_BUILDER</zIconName>
+		<zIconName>TRAIT_ARTIST</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
@@ -542,7 +542,7 @@
 	<Entry>
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_MERCHANT_ARCHETYPE</Name>
-		<zIconName>TRAIT_JUDGE</zIconName>
+		<zIconName>TRAIT_MERCHANT</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
@@ -595,7 +595,7 @@
 	<Entry>
 		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
-		<zIconName>TRAIT_HERO</zIconName>
+		<zIconName>TRAIT_CHAMPION</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
