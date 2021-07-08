@@ -28,4 +28,50 @@
 		<zType>ASSET_SPRITE_SHEET_NOFRET</zType>
 		<zAsset>characters/Nofret</zAsset>
 	</Entry>
+
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_SKYEXPLORER</zType>
+		<zAsset>traits/TRAIT_SKYEXPLORER</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CORRUPTIONIST</zType>
+		<zAsset>traits/TRAIT_CORRUPTIONIST</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ARTIST</zType>
+		<zAsset>traits/TRAIT_ARTIST</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_MERCHANT</zType>
+		<zAsset>traits/TRAIT_MERCHANT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CHAMPION</zType>
+		<zAsset>traits/TRAIT_CHAMPION</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_SKYEXPLORER_SMALL</zType>
+		<zAsset>traits/TRAIT_SKYEXPLORER_SMALL</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CORRUPTIONIST_SMALL</zType>
+		<zAsset>traits/TRAIT_CORRUPTIONIST_SMALL</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ARTIST_SMALL</zType>
+		<zAsset>traits/TRAIT_ARTIST_SMALL</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_MERCHANT_SMALL</zType>
+		<zAsset>traits/TRAIT_MERCHANT_SMALL</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CHAMPION_SMALL</zType>
+		<zAsset>traits/TRAIT_CHAMPION_SMALL</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_FAME</zType>
+		<zAsset>ratings/RATING_FAME</zAsset>
+	</Entry>
+
 </Root>

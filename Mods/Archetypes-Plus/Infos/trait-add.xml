@@ -396,7 +396,7 @@
 	<Entry>
 		<zType>TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</Name>
-		<zIconName>TRAIT_SKYEXPLORER</zIconName>
+		<zIconName>TRAIT_DIPLOMAT</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
@@ -408,9 +408,25 @@
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>3</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_SCHOLAR_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_ICONOGRAPHY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_EXPLORATION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -418,7 +434,7 @@
 	<Entry>
 		<zType>TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</Name>
-		<zIconName>TRAIT_CORRUPTIONIST</zIconName>
+		<zIconName>TRAIT_TACTICIAN</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
@@ -442,6 +458,26 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_SCHEMER_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_SERFDOM</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_COIN_DEBASEMENT</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_TRADE_LEAGUE</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
@@ -465,7 +501,7 @@
 	<Entry>
 		<zType>TRAIT_ARTIST_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ARTIST_ARCHETYPE</Name>
-		<zIconName>TRAIT_ARTIST</zIconName>
+		<zIconName>TRAIT_BUILDER</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
@@ -483,6 +519,22 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_MERCHANT_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_CALLIGRAPHY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_FREEDOM</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -490,7 +542,7 @@
 	<Entry>
 		<zType>TRAIT_MERCHANT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_MERCHANT_ARCHETYPE</Name>
-		<zIconName>TRAIT_MERCHANT</zIconName>
+		<zIconName>TRAIT_JUDGE</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
@@ -514,12 +566,28 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_ARTIST_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
 		<aiTraitProb>
 			<Pair>
 				<zIndex>TRAIT_ILL</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 		</aiTraitProb>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_TRADE_LEAGUE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_MONETARY_REFORM</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -527,7 +595,7 @@
 	<Entry>
 		<zType>TRAIT_CHAMPION_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_CHAMPION_ARCHETYPE</Name>
-		<zIconName>TRAIT_CHAMPION</zIconName>
+		<zIconName>TRAIT_HERO</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iOpinionSame>40</iOpinionSame>
@@ -546,6 +614,22 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_HERO_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_ELITES</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_PROFESSIONAL_ARMY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>

@@ -1,0 +1,43 @@
+<!-- Archetypes+ (Revan) -->
+<Root>
+    <Entry>
+        <zType>SPRITE_GROUP_CHARACTER_PORTRAITS</zType>
+        <aeSpriteSheets>
+			<zValue>ASSET_SPRITE_SHEET_CHEOPS</zValue>
+			<zValue>ASSET_SPRITE_SHEET_HAMILCAR</zValue>
+			<zValue>ASSET_SPRITE_SHEET_HANNIBAL</zValue>
+			<zValue>ASSET_SPRITE_SHEET_MAGO</zValue>
+			<zValue>ASSET_SPRITE_SHEET_MARK_ANTONY</zValue>
+			<zValue>ASSET_SPRITE_SHEET_NOFRET</zValue>
+			<zValue>ASSET_SPRITE_SHEET_RAHOTEP</zValue>
+        </aeSpriteSheets>
+	</Entry>
+
+	<Entry>
+		<zType>SPRITE_GROUP_TRAIT_ICONS</zType>
+		<aeSpriteSheets>
+			<zValue>ASSET_SPRITE_SHEET_SKYEXPLORER</zValue>
+			<zValue>ASSET_SPRITE_SHEET_CORRUPTIONIST</zValue>
+			<zValue>ASSET_SPRITE_SHEET_ARTIST</zValue>
+			<zValue>ASSET_SPRITE_SHEET_MERCHANT</zValue>
+			<zValue>ASSET_SPRITE_SHEET_CHAMPION</zValue>
+		</aeSpriteSheets>
+	</Entry>
+	<Entry>
+		<zType>SPRITE_GROUP_TRAIT_ICONS_SMALL</zType>
+		<aeSpriteSheets>
+			<zValue>ASSET_SPRITE_SHEET_SKYEXPLORER_SMALL</zValue>
+			<zValue>ASSET_SPRITE_SHEET_CORRUPTIONIST_SMALL</zValue>
+			<zValue>ASSET_SPRITE_SHEET_ARTIST_SMALL</zValue>
+			<zValue>ASSET_SPRITE_SHEET_MERCHANT_SMALL</zValue>
+			<zValue>ASSET_SPRITE_SHEET_CHAMPION_SMALL</zValue>
+		</aeSpriteSheets>
+	</Entry>
+	<Entry>
+        <zType>SPRITE_GROUP_RATING_ICONS</zType>
+        <aeSpriteSheets>
+			<zValue>ASSET_SPRITE_SHEET_FAME</zValue>
+        </aeSpriteSheets>
+    </Entry>											
+
+</Root>
