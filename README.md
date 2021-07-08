@@ -24,7 +24,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
 - 5 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
-     - +3 Wisdom - Can be a Governor
+     - +2 Wisdom - Can be a Governor
         - *As Leader*: -10% Wonder Costs, Can Redraw Techs & +1 Tech Card Hand Size
            - +5 Science/Year & +5% Science in every City/Year <> Elder Specialists: +1 Science & *if law is active*: Iconography: +2 Orders & Calligraphy: +1 Science
         - *Individual probability chance of trait*: Educated, Superstitious, Uncouth, Affable & Witty
