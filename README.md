@@ -20,7 +20,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
      - +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
         - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
    - **Pythagoreanism student** (Education fee: "tiny" gold)
-     - +1 Wisdom, +1 Charisma & +1 Discipline - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
+     - +1 Wisdom - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
         - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
 - 5 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
