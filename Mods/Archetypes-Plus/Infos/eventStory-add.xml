@@ -648,7 +648,7 @@
 		<iImageSubject>1</iImageSubject>
 		<iImageExtra>0</iImageExtra>
 		<LawPrereq>LAW_CENTRALIZATION</LawPrereq>
-		<iWeight>1</iWeight>
+		<iWeight>2</iWeight>
 		<iProb>30</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -667,7 +667,7 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
 		<iImageSubject>1</iImageSubject>
-		<iWeight>1</iWeight>
+		<iWeight>2</iWeight>
 		<iProb>50</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
@@ -699,11 +699,12 @@
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>13</iMinTurns>
+		<iMinTurns>15</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>10</iRepeatTurns>
+		<iRepeatTurns>30</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -739,11 +740,12 @@
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_2_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>9</iMinTurns>
+		<iMinTurns>11</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>5</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>22</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -779,11 +781,12 @@
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_3_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>12</iMinTurns>
+		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>28</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
@@ -819,11 +822,12 @@
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_4_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>8</iMinTurns>
+		<iMinTurns>11</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>22</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
@@ -859,11 +863,12 @@
 			<zValue>EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_5_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>10</iMinTurns>
+		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>13</iProb>
+		<iRepeatTurns>24</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zValue>
@@ -899,11 +904,12 @@
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_1_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>10</iMinTurns>
+		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>13</iProb>
+		<iRepeatTurns>24</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
@@ -939,11 +945,12 @@
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<LawPrereq>LAW_TYRANNY</LawPrereq>
-		<iMinTurns>9</iMinTurns>
+		<iMinTurns>11</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>13</iProb>
+		<iRepeatTurns>22</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
@@ -978,11 +985,12 @@
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_3_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>14</iMinTurns>
+		<iMinTurns>16</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>32</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
@@ -1017,11 +1025,12 @@
 			<zValue>EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_4_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>13</iMinTurns>
+		<iMinTurns>15</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>4</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>30</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zValue>
@@ -1056,11 +1065,12 @@
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_1_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>13</iMinTurns>
+		<iMinTurns>15</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>13</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>12</iProb>
+		<iRepeatTurns>30</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -1096,11 +1106,12 @@
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_2_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>12</iMinTurns>
+		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>28</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -1136,11 +1147,12 @@
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_3_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>15</iMinTurns>
+		<iMinTurns>17</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>8</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>34</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
@@ -1176,11 +1188,12 @@
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_4_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>11</iMinTurns>
+		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>13</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>15</iProb>
+		<iRepeatTurns>28</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
@@ -1216,11 +1229,12 @@
 			<zValue>EVENTOPTION_ARTIST_GOT_A_TRAIT_5_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>10</iMinTurns>
+		<iMinTurns>13</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>26</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zValue>
@@ -1256,11 +1270,12 @@
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_1_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>7</iMinTurns>
+		<iMinTurns>11</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>20</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>15</iProb>
+		<iRepeatTurns>22</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
@@ -1295,11 +1310,12 @@
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_2_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>10</iMinTurns>
+		<iMinTurns>12</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>10</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>24</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
@@ -1338,11 +1354,12 @@
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_3_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>12</iMinTurns>
+		<iMinTurns>14</iMinTurns>
 		<iWeight>1</iWeight>
 		<iProb>15</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iRepeatTurns>28</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
@@ -1373,11 +1390,12 @@
 			<zValue>EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>14</iMinTurns>
+		<iMinTurns>16</iMinTurns>
 		<iWeight>1</iWeight>
-		<iProb>18</iProb>
-		<iRepeatTurns>-1</iRepeatTurns>
+		<iProb>15</iProb>
+		<iRepeatTurns>30</iRepeatTurns>
 		<bHidePrereqs>1</bHidePrereqs>
+		<bHidden>1</bHidden>
 		<aeEventStoryRepeatTurns>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zValue>
 			<zValue>EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zValue>
