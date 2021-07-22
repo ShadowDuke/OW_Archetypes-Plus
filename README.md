@@ -15,13 +15,6 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
 
 ## Content
 
-- 2 new study types:
-   - **Astronomy student**  (Education fee: "minimal" gold)
-     - +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
-        - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
-   - **Pythagoreanism student** (Education fee: "tiny" gold)
-     - +1 Wisdom - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
-        - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
 - 5 new archetypes:
    - **Sky Explorer** - *Cognomen: The Stargazer*
      - +2 Wisdom - Can be a Governor
@@ -47,7 +40,15 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
      - +2 Courage & +1 Wisdom - Can be a Governor, a General, an Ambassador or a Spymaster
         - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
            - +15 Training/Year & +20% Training in every City/Year <> Project Olympics: +0.5 Training & Improvement Barracks: +3 Training
-        
+
+- 2 new study types:
+   - **Astronomy student**  (Education fee: "minimal" gold)
+     - +1 Wisdom, -1 Courage - Can lead to: Sky Explorer, Scholar, Corruptionist, Hero or Artist
+        - on completion an event will trigger where you can choose from two traits: Educated (+2 Wisdom) and Broad-minded.
+   - **Pythagoreanism student** (Education fee: "tiny" gold)
+     - +1 Wisdom - Can lead to: Sky Explorer, Scholar, Corruptionist, Judge, Diplomat, Orator, Builder, Hero, Artist, Merchant or Champion
+        - on completion an event will trigger where you can choose from three traits: Affable (+2 Wisdom), Eloquent (+2 Civics when governor) and Engineer (General +50% attack across river from units).
+
 - 4 new traits:
    - **Broad-minded**
         - +1 Charisma & +1 Wisdom
