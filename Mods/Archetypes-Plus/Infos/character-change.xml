@@ -402,7 +402,7 @@
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ELOQUENT</zValue>
-			<zValue>TRAIT_COWARDLY</zValue>
+			<zValue>TRAIT_TIMID</zValue>
 			<zValue>TRAIT_BITTER</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
@@ -443,7 +443,7 @@
 		<iRating>2</iRating>
 		<aeTraits>
 			<zValue>TRAIT_EXOTIC</zValue>
-			<zValue>TRAIT_COWARDLY</zValue>
+			<zValue>TRAIT_TIMID</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
