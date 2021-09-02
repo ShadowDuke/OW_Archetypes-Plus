@@ -296,7 +296,7 @@
 		</aiEventOptionProb>
 	</Entry>
 	<Entry>
-		<zType>EVENTOPTION_STUDY_RHETORIC_ARCHETYPES</zType>
+		<zType>EVENTOPTION_STUDY_POLITICS_ARCHETYPES</zType>
 		<aiEventOptionProb>
 			<Pair>
 				<zIndex>EVENTOPTION_ARCHETYPE_HERO</zIndex>

@@ -50,7 +50,7 @@
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_STUDY_TACTICS</zValue>
-			<zValue>EVENTOPTION_STUDY_RHETORIC</zValue>
+			<zValue>EVENTOPTION_STUDY_POLITICS</zValue>
 			<zValue>EVENTOPTION_STUDY_COMMERCE</zValue>
 			<zValue>EVENTOPTION_STUDY_PHILOSOPHY</zValue>
 			<zValue>EVENTOPTION_STUDY_ASTRONOMY</zValue>
@@ -292,7 +292,7 @@
 		<SubjectExtras>
 			<Pair>
 				<First>0</First>
-				<Second>SUBJECT_STUDY_RHETORIC</Second>
+				<Second>SUBJECT_STUDY_POLITICS</Second>
 			</Pair>
 			<Pair>
 				<First>0</First>
@@ -300,7 +300,7 @@
 			</Pair>
 		</SubjectExtras>
 		<aeBonuses>
-			<zValue>BONUS_REMOVE_STUDY_RHETORIC</zValue>
+			<zValue>BONUS_REMOVE_STUDY_POLITICS</zValue>
 			<zValue>NONE</zValue>
 		</aeBonuses>
 		<aeOptions>
@@ -321,7 +321,7 @@
 		<SubjectExtras>
 			<Pair>
 				<First>0</First>
-				<Second>SUBJECT_STUDY_RHETORIC</Second>
+				<Second>SUBJECT_STUDY_POLITICS</Second>
 			</Pair>
 			<Pair>
 				<First>0</First>
@@ -333,7 +333,7 @@
 			</Pair>
 		</SubjectExtras>
 		<aeBonuses>
-			<zValue>BONUS_REMOVE_STUDY_RHETORIC</zValue>
+			<zValue>BONUS_REMOVE_STUDY_POLITICS</zValue>
 		</aeBonuses>
 		<aeOptions>
 			<zValue>EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_0</zValue>
@@ -483,7 +483,7 @@
 		<SubjectExtras>
 			<Pair>
 				<First>0</First>
-				<Second>SUBJECT_STUDY_RHETORIC</Second>
+				<Second>SUBJECT_STUDY_POLITICS</Second>
 			</Pair>
 			<Pair>
 				<First>0</First>
