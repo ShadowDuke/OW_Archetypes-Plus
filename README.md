@@ -38,7 +38,7 @@ Archetypes, studies, traits, one new attribute and 26 historical characters. (WI
         - *Individual probability chance of trait*: Dealmaker, Exotic, Pet Monkey Owner & Greedy <> [+10% Chance to get ill]
    - **Champion** - *Cognomen: The Champion* 
      - +2 Courage & +1 Wisdom - Can be a Governor, a General, an Ambassador or a Spymaster
-        - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, +10 Training for every killed unit, Can Hurry City Production with Training & -20 Training for each war
+        - *As Leader*: +5 Xp/Year for idle units, +5 XP for All Units during Combat, Can Hurry City Production with Training & -20 Training for each war
            - +15 Training/Year & +20% Training in every City/Year <> Project Olympics: +0.5 Training & Improvement Barracks: +3 Training
 
 - 2 new study types:
