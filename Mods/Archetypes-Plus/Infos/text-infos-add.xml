@@ -1,7 +1,7 @@
 <!-- Archetypes+ (Revan) -->
 <Root>
 	<Entry>
-        <zType>TEXT_LANGUAGE_GERMAN_TRANSLATION</zType>
+        <zType>TEXT_LANGUAGE_GERMAN</zType>
         <en-US>German</en-US>
     </Entry>
 	<Entry>
