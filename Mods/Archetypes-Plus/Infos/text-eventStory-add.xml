@@ -2,157 +2,157 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES</zType>
-		<English><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of astronomy, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
+		<en-US><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of astronomy, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
 
-What role best suits {CHARACTER-SHORT-0}? ]]></English>
+What role best suits {CHARACTER-SHORT-0}? ]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES</zType>
-		<English><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of pythagoreanism, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
+		<en-US><![CDATA[Now that {CHARACTER-0} has completed <masculine_CHARACTER-0>his<feminine>her<end> study of pythagoreanism, how shall <masculine_CHARACTER-0>he<feminine>she<end> contribute to the court? 
 
-What role best suits {CHARACTER-SHORT-0}? ]]></English>
+What role best suits {CHARACTER-SHORT-0}? ]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEAR_PARENT_ASTRONOMY</zType>
-		<English><![CDATA[We have received an update from your <masculine_CHARACTER-0>son<feminine>daughter<end> in training. <masculine_CHARACTER-0>He<feminine>She<end> wishes to study with high masters of astronomy, whose teachings are essential to inquisitive nature of humankind. However, this access comes at a price.
+		<en-US><![CDATA[We have received an update from your <masculine_CHARACTER-0>son<feminine>daughter<end> in training. <masculine_CHARACTER-0>He<feminine>She<end> wishes to study with high masters of astronomy, whose teachings are essential to inquisitive nature of humankind. However, this access comes at a price.
 
-Shall we send the necessary funds to {CHARACTER-SHORT-0}?]]></English>
+Shall we send the necessary funds to {CHARACTER-SHORT-0}?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TACTICS_TO_ASTRONOMY</zType>
-		<English><![CDATA[We have heard reports that {CHARACTER-0} struggles with <masculine_CHARACTER-0>his<feminine>her<end> tactics training. Perhaps we should explore educating <masculine_CHARACTER-0>him<feminine>her<end> in astronomy instead.
+		<en-US><![CDATA[We have heard reports that {CHARACTER-0} struggles with <masculine_CHARACTER-0>his<feminine>her<end> tactics training. Perhaps we should explore educating <masculine_CHARACTER-0>him<feminine>her<end> in astronomy instead.
 
-What shall we do?]]></English>
+What shall we do?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASTRONOMY_TO_COMMERCE</zType>
-		<English><![CDATA[News has reached us that your heir, {CHARACTER-SHORT-0}, ignores the lessons of <masculine_CHARACTER-0>his<feminine>her<end> astronomy masters. The court wishes to invest wisely in {CHARACTER-SHORT-0}, but perhaps astronomy is not <masculine_CHARACTER-0>his<feminine>her<end> calling.
+		<en-US><![CDATA[News has reached us that your heir, {CHARACTER-SHORT-0}, ignores the lessons of <masculine_CHARACTER-0>his<feminine>her<end> astronomy masters. The court wishes to invest wisely in {CHARACTER-SHORT-0}, but perhaps astronomy is not <masculine_CHARACTER-0>his<feminine>her<end> calling.
 
-How shall we proceed?]]></English>
+How shall we proceed?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY</zType>
-		<English><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> astronomy studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
+		<en-US><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> astronomy studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
 
-What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></English>
+What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM</zType>
-		<English><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> pythagoreanism studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
+		<en-US><![CDATA[{CHARACTER-SHORT-0}, the young heir, has returned from <masculine_CHARACTER-0>his<feminine>her<end> pythagoreanism studies, but <masculine_CHARACTER-0>he<feminine>she<end> would like to retain a tutor for additional training.
 
-What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></English>
+What shall be the focus of <masculine_CHARACTER-0>his<feminine>her<end> continuing education?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_BEARDY_MAN</zType>
-		<English><![CDATA[Studies have ended sooner and {CHARACTER-0} decided to roam through the city. <masculine_CHARACTER-0>He<feminine>She<end> stumbled across this old beardy looking man sitting on the ground. Suddenly something was catching <masculine_CHARACTER-0>his<feminine>her<end> eyes. It was a book from Plato, a rare examplare <masculine_CHARACTER-0>he<feminine>she<end> was always eager to set eyes on. <masculine_CHARACTER-0>He<feminine>She<end> asked if <masculine_CHARACTER-0>he<feminine>she<end> can have a look at the book.
+		<en-US><![CDATA[Studies have ended sooner and {CHARACTER-0} decided to roam through the city. <masculine_CHARACTER-0>He<feminine>She<end> stumbled across this old beardy looking man sitting on the ground. Suddenly something was catching <masculine_CHARACTER-0>his<feminine>her<end> eyes. It was a book from Plato, a rare examplare <masculine_CHARACTER-0>he<feminine>she<end> was always eager to set eyes on. <masculine_CHARACTER-0>He<feminine>She<end> asked if <masculine_CHARACTER-0>he<feminine>she<end> can have a look at the book.
 The man told <masculine_CHARACTER-0>him<feminine>her<end> how he has lost his wife and child and this book is the only thing he could save from his burning home.
 		
-What shall we do?]]></English>
+What shall we do?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES</zType>
-		<English><![CDATA[You notice Archimedes, the great mathematician, physicist, engineer, inventor, and astronomer in {CITY-0}, making a lot of progress in his fields, shaping {CITY-0} to a flourishing City. He is famous for his inventions and discoveries. 
+		<en-US><![CDATA[You notice Archimedes, the great mathematician, physicist, engineer, inventor, and astronomer in {CITY-0}, making a lot of progress in his fields, shaping {CITY-0} to a flourishing City. He is famous for his inventions and discoveries. 
 
-Should we support his home {CITY-0}, or should we reward such efforts and assign him to court?]]></English>
+Should we support his home {CITY-0}, or should we reward such efforts and assign him to court?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME</zType>
-		<English><![CDATA[After visiting a theater play you are introcuded to a popular patomime called Mnester.
+		<en-US><![CDATA[After visiting a theater play you are introcuded to a popular patomime called Mnester.
 
-Shall we ask him if he wants to join the court?]]></English>
+Shall we ask him if he wants to join the court?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR</zType>
-		<English><![CDATA[You are visiting {CITY-0} and a local friend introcudes you to {CHARACTER-1}. You love the art you see and consider to give him the opportunity to show his work.
+		<en-US><![CDATA[You are visiting {CITY-0} and a local friend introcudes you to {CHARACTER-1}. You love the art you see and consider to give him the opportunity to show his work.
 
-Do you want to support {CHARACTER-1} or run an exhibition in {CITY-0}?]]></English>
+Do you want to support {CHARACTER-1} or run an exhibition in {CITY-0}?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MARK_ANTONY</zType>
-		<English><![CDATA[One day in court you take notice of a famous person. {CHARACTER-1} seems to take more interest in politics and you consider your next step.
+		<en-US><![CDATA[One day in court you take notice of a famous person. {CHARACTER-1} seems to take more interest in politics and you consider your next step.
 
-You considered your options and..]]></English>
+You considered your options and..]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL</zType>
-		<English><![CDATA[The famous Hannibal invites you to {CITY-0} to talk about the future of our nation. Pretty soon you realized he wants to take part in efforts to become the greatest nation.
+		<en-US><![CDATA[The famous Hannibal invites you to {CITY-0} to talk about the future of our nation. Pretty soon you realized he wants to take part in efforts to become the greatest nation.
 
-What are you going to do?]]></English>
+What are you going to do?]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_1</zType>
-		<English>People like beeing around {CHARACTER-0}.</English>
+		<en-US>People like beeing around {CHARACTER-0}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_2</zType>
-		<English>{CHARACTER-0} came up with an extraordinary idea.</English>
+		<en-US>{CHARACTER-0} came up with an extraordinary idea.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_3</zType>
-		<English>{CHARACTER-0} saw something strange passing the sky.</English>
+		<en-US>{CHARACTER-0} saw something strange passing the sky.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
-		<English>People are disturbing {CHARACTER-0}'s work.</English>
+		<en-US>People are disturbing {CHARACTER-0}'s work.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_4</zType>
-		<English>People are disturbing {CHARACTER-0}'s work.</English>
+		<en-US>People are disturbing {CHARACTER-0}'s work.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SKYEXPLORER_GOT_A_TRAIT_5</zType>
-		<English>{CHARACTER-0} spent a lot of time studying new things.</English>
+		<en-US>{CHARACTER-0} spent a lot of time studying new things.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_1</zType>
-		<English>{CHARACTER-0} bribed your way to make a good deal.</English>
+		<en-US>{CHARACTER-0} bribed your way to make a good deal.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_2</zType>
-		<English>{CHARACTER-0} bribed a lot of people.</English>
+		<en-US>{CHARACTER-0} bribed a lot of people.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_3</zType>
-		<English>{CHARACTER-0} bribed someone for an "unusual" request.</English>
+		<en-US>{CHARACTER-0} bribed someone for an "unusual" request.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTIONIST_GOT_A_TRAIT_4</zType>
-		<English>{CHARACTER-0} cant get enough...</English>
+		<en-US>{CHARACTER-0} cant get enough...</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_1</zType>
-		<English>{CHARACTER-0} are very romantic, expressing it in things at your art.</English>
+		<en-US>{CHARACTER-0} are very romantic, expressing it in things at your art.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_2</zType>
-		<English>{CHARACTER-0} have a new pet friend.</English>
+		<en-US>{CHARACTER-0} have a new pet friend.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_3</zType>
-		<English>{CHARACTER-0}'s origin is from foreign lands.</English>
+		<en-US>{CHARACTER-0}'s origin is from foreign lands.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_4</zType>
-		<English>Over the time {CHARACTER-0} learned what things you can harvest in the forests.</English>
+		<en-US>Over the time {CHARACTER-0} learned what things you can harvest in the forests.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARTIST_GOT_A_TRAIT_5</zType>
-		<English>The library is {CHARACTER-0}'s second home.</English>
+		<en-US>The library is {CHARACTER-0}'s second home.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_1</zType>
-		<English>{CHARACTER-0} are just talented in {G0:his:her} business.</English>
+		<en-US>{CHARACTER-0} are just talented in {G0:his:her} business.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_2</zType>
-		<English>{CHARACTER-0} always want more and more..</English>
+		<en-US>{CHARACTER-0} always want more and more..</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_3</zType>
-		<English>After so many travels {CHARACTER-0} started to act more like a foreigner.</English>
+		<en-US>After so many travels {CHARACTER-0} started to act more like a foreigner.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCHANT_GOT_A_TRAIT_4</zType>
-		<English>On one of {CHARACTER-0}'s travels {G0:he:she} obtained a pet-monkey.</English>
+		<en-US>On one of {CHARACTER-0}'s travels {G0:he:she} obtained a pet-monkey.</en-US>
 	</Entry>
 </Root>

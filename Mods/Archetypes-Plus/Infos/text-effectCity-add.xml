@@ -2,26 +2,26 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</zType>
-		<English>Sky Explorer Leader</English>
+		<en-US>Sky Explorer Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPTIONIST_ARCHETYPE_ALL</zType>
-		<English>Corruptionist Leader</English>
+		<en-US>Corruptionist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
-		<English>Artist Leader</English>
+		<en-US>Artist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
-		<English>Merchant Leader</English>
+		<en-US>Merchant Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</zType>
-		<English>Champion Leader</English>
+		<en-US>Champion Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<en-US>Pyramids Builder</en-US>
 	</Entry>
 </Root>

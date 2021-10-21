@@ -2,286 +2,286 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TACTICS_HELP</zType>
-		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_POLITICS_HELP</zType>
-		<English>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE) and link(TRAIT_CORRUPTIONIST_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_COMMERCE_HELP</zType>
-		<English>Can lead to link(TRAIT_MERCHANT_ARCHETYPE) link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_MERCHANT_ARCHETYPE) link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY_HELP</zType>
-		<English>Can lead to link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE) and  link(TRAIT_ARTIST_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_SKYEXPLORER_ARCHETYPE), or maybe link(TRAIT_CORRUPTIONIST_ARCHETYPE) and  link(TRAIT_ARTIST_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
-		<English>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE) and link(TRAIT_ARTIST_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), or maybe link(TRAIT_HERO_ARCHETYPE) and link(TRAIT_ARTIST_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
-		<English>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</English>
+		<en-US>Can lead to link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or maybe link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE) and link(TRAIT_CHAMPION_ARCHETYPE)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<English>Sky Explorer, an inquisitive oserver of the skies.</English>
+		<en-US>Sky Explorer, an inquisitive oserver of the skies.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
-		<English>An all throughout corrupt politician, has no scruple.</English>
+		<en-US>An all throughout corrupt politician, has no scruple.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</zType>
-		<English>Someone who has a vareity of knowledge of all certain things considered art.</English>
+		<en-US>Someone who has a vareity of knowledge of all certain things considered art.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
-		<English>Someone who knows how to make good trade deals.</English>
+		<en-US>Someone who knows how to make good trade deals.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</zType>
-		<English>One who can have done several things to be awarded the title of a Champion.</English>
+		<en-US>One who can have done several things to be awarded the title of a Champion.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study astronomy.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study astronomy.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study pythagoreanism.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will study pythagoreanism.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_4</zType>
-		<English>We are wiser than anything on Earth.</English>
+		<en-US>We are wiser than anything on Earth.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_3</zType>
-		<English><![CDATA[Its your heir, pursue him in your favour!]]></English>
+		<en-US><![CDATA[Its your heir, pursue him in your favour!]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_2</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> is a natural sage.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> is a natural sage.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_2</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should continue <masculine_CHARACTER-0>his<feminine>her<end> pursuit of sageness.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_2</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will look up to the stars now.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> will look up to the stars now.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_NO</zType>
-		<English><![CDATA[There is no need for further study]]></English>
+		<en-US><![CDATA[There is no need for further study]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEAR_PARENT_ASTRONOMY_YES</zType>
-		<English><![CDATA[You will become a great astronomer.]]></English>
+		<en-US><![CDATA[You will become a great astronomer.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_NO</zType>
-		<English><![CDATA[Leave <masculine_CHARACTER-0>him<feminine>her<end>, but hire a better tutor.]]></English>
+		<en-US><![CDATA[Leave <masculine_CHARACTER-0>him<feminine>her<end>, but hire a better tutor.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TACTICS_TO_ASTRONOMY_YES</zType>
-		<English><![CDATA[Switch disciplines to astronomy.]]></English>
+		<en-US><![CDATA[Switch disciplines to astronomy.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_PUNISH</zType>
-		<English><![CDATA[Discipline the heir by removing <masculine_CHARACTER-0>his<feminine>her<end> allowance.]]></English>
+		<en-US><![CDATA[Discipline the heir by removing <masculine_CHARACTER-0>his<feminine>her<end> allowance.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_CHANGE</zType>
-		<English><![CDATA[Switch the heir's studies to commerce.]]></English>
+		<en-US><![CDATA[Switch the heir's studies to commerce.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASTRONOMY_TO_COMMERCE_TUTOR</zType>
-		<English><![CDATA[The tutor is the problem, not the heir.]]></English>
+		<en-US><![CDATA[The tutor is the problem, not the heir.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_0</zType>
-		<English>How to spread knowledge to others.</English>
+		<en-US>How to spread knowledge to others.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_OPTION_1</zType>
-		<English>How to turn inward in self disovery.</English>
+		<en-US>How to turn inward in self disovery.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_0</zType>
-		<English>They are hard working people.</English>
+		<en-US>They are hard working people.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_1</zType>
-		<English>They are known for their proper handling.</English>
+		<en-US>They are known for their proper handling.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_OPTION_2</zType>
-		<English>They are the best when it comes to building things.</English>
+		<en-US>They are the best when it comes to building things.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_0</zType>
-		<English>You had a look at the book.</English>
+		<en-US>You had a look at the book.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_BEARDY_MAN_OPTION_1</zType>
-		<English>You were heartbroken for this man's situation.</English>
+		<en-US>You were heartbroken for this man's situation.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_2</zType>
-		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></English>
+		<en-US><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> should get a more funded education.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_0</zType>
-		<English><![CDATA[Let him return to his home and support him.]]></English>
+		<en-US><![CDATA[Let him return to his home and support him.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_GREAT_ARCHIMEDES_OPTION_1</zType>
-		<English><![CDATA[Recruit Archimedes at court.]]></English>
+		<en-US><![CDATA[Recruit Archimedes at court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_0</zType>
-		<English><![CDATA[The play was good but i dont want him at court.]]></English>
+		<en-US><![CDATA[The play was good but i dont want him at court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MNESTER_THE_PANTOMIME_OPTION_1</zType>
-		<English><![CDATA[Welcome him at court.]]></English>
+		<en-US><![CDATA[Welcome him at court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_0</zType>
-		<English><![CDATA[Run an exhibition for his paintings and sculptures.]]></English>
+		<en-US><![CDATA[Run an exhibition for his paintings and sculptures.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARISTOMACHOS_THE_SCULPTOR_OPTION_1</zType>
-		<English><![CDATA[Welcome him at court.]]></English>
+		<en-US><![CDATA[Welcome him at court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MARK_ANTONY_OPTION_0</zType>
-		<English><![CDATA[..decide to debate about current events.]]></English>
+		<en-US><![CDATA[..decide to debate about current events.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MARK_ANTONY_OPTION_1</zType>
-		<English><![CDATA[..ask him if he wants to join the court.]]></English>
+		<en-US><![CDATA[..ask him if he wants to join the court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNIBAL_OPTION_0</zType>
-		<English><![CDATA[Order him to educate your warriors in {CITY-0}.]]></English>
+		<en-US><![CDATA[Order him to educate your warriors in {CITY-0}.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNIBAL_OPTION_1</zType>
-		<English><![CDATA[We need people like him at court.]]></English>
+		<en-US><![CDATA[We need people like him at court.]]></en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_1_OPTION_0</zType>
-		<English>Thats nice to hear.</English>
+		<en-US>Thats nice to hear.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_2_OPTION_0</zType>
-		<English>I worked very hard.</English>
+		<en-US>I worked very hard.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_3_OPTION_0</zType>
-		<English>It was an enlightening experience.</English>
+		<en-US>It was an enlightening experience.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_4_OPTION_0</zType>
-		<English>Shoo! Leave me alone you troublemakers.</English>
+		<en-US>Shoo! Leave me alone you troublemakers.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SKYEXPLORER_GOT_A_TRAIT_5_OPTION_0</zType>
-		<English>I really do.</English>
+		<en-US>I really do.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_1_OPTION_0</zType>
-		<English>Yes, i did.</English>
+		<en-US>Yes, i did.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_2_OPTION_0</zType>
-		<English>Comme on! Is not everyone corrupt?</English>
+		<en-US>Comme on! Is not everyone corrupt?</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_3_OPTION_0</zType>
-		<English>Sorry, i dont want to talk about it.</English>
+		<en-US>Sorry, i dont want to talk about it.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CORRUPTIONIST_GOT_A_TRAIT_4_OPTION_0</zType>
-		<English>Is this a bad thing?</English>
+		<en-US>Is this a bad thing?</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_1_OPTION_0</zType>
-		<English>Im really romantic.</English>
+		<en-US>Im really romantic.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_2_OPTION_0</zType>
-		<English>Its a fish.</English>
+		<en-US>Its a fish.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_3_OPTION_0</zType>
-		<English>The women love it.</English>
+		<en-US>The women love it.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_4_OPTION_0</zType>
-		<English>I have experience in vegetables.</English>
+		<en-US>I have experience in vegetables.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARTIST_GOT_A_TRAIT_5_OPTION_0</zType>
-		<English>I am learning a lot.</English>
+		<en-US>I am learning a lot.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_1_OPTION_0</zType>
-		<English>I can make good deals.</English>
+		<en-US>I can make good deals.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_2_OPTION_0</zType>
-		<English>I take what i get,.. and more.</English>
+		<en-US>I take what i get,.. and more.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_3_OPTION_0</zType>
-		<English>The women find it interesting.</English>
+		<en-US>The women find it interesting.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MERCHANT_GOT_A_TRAIT_4_OPTION_0</zType>
-		<English>He is cute, is he not?</English>
+		<en-US>He is cute, is he not?</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></Translation>
+		<de-DE><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Astronomie lernen.]]></de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></Translation>
+		<de-DE><![CDATA[<masculine_CHARACTER-0>Er<feminine>Sie<end> wird Pythagoreismus lernen.]]></de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_ASTRONOMY_HELP</zType>
-		<Translation>Kann zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), oder eventuell link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_ARTIST_ARCHETYPE) führen</Translation>
+		<de-DE>Kann zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), oder eventuell link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_ARTIST_ARCHETYPE) führen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_PYTHAGOREANISM_HELP</zType>
-		<Translation>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_CHAMPION_ARCHETYPE) führen</Translation>
+		<de-DE>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder eventuell zu link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE) und link(TRAIT_CHAMPION_ARCHETYPE) führen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_SKYEXPLORER</zType>
-		<Translation>Himmel Beobachter, ein neugieriger Beobachter des Himmels.</Translation>
+		<de-DE>Himmel Beobachter, ein neugieriger Beobachter des Himmels.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CORRUPTIONIST</zType>
-		<Translation>Ein durch und durch korrupter Politiker, kennt keine Skrupel.</Translation>
+		<de-DE>Ein durch und durch korrupter Politiker, kennt keine Skrupel.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_ARTIST</zType>
-		<Translation>Einer der sich mit diversen Arten der Kunst auskennt.</Translation>
+		<de-DE>Einer der sich mit diversen Arten der Kunst auskennt.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_MERCHANT</zType>
-		<Translation>Einer der weiß wie man vernünftig handelt.</Translation>
+		<de-DE>Einer der weiß wie man vernünftig handelt.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ARCHETYPE_CHAMPION</zType>
-		<Translation>Einer, der einige Sachen gemacht haben könnte, um den Titel Champion innezuhaben.</Translation>
+		<de-DE>Einer, der einige Sachen gemacht haben könnte, um den Titel Champion innezuhaben.</de-DE>
 	</Entry>
 </Root>

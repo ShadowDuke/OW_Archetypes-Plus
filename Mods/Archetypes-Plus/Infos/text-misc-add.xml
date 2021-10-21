@@ -3,84 +3,84 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_SKYEXPLORER</zType>
-		<English>The Stargazer</English>
+		<en-US>The Stargazer</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_CORRUPTIONIST</zType>
-		<English>The Corruptionist</English>
+		<en-US>The Corruptionist</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_ARTIST</zType>
-		<English>The Artist</English>
+		<en-US>The Artist</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_BROADMINDED</zType>
-		<English>The Broad-Minded</English>
+		<en-US>The Broad-Minded</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_FUNDED</zType>
-		<English>The Financed</English>
+		<en-US>The Financed</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_FAME</zType>
-		<English>The Famous</English>
+		<en-US>The Famous</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_MERCHANT</zType>
-		<English>The Merchant</English>
+		<en-US>The Merchant</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_CHAMPION</zType>
-		<English>The Champion</English>
+		<en-US>The Champion</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_SKYEXPLORER</zType>
-		<English>Stargazer</English>
+		<en-US>Stargazer</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_ARTIST</zType>
-		<English>Artist</English>
+		<en-US>Artist</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_GREAT_FAME</zType>
-		<English>Famous Person</English>
+		<en-US>Famous Person</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_RATING_FAME</zType>
-		<English>Fame</English>
+		<en-US>Fame</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME</zType>
-		<English>Fame</English>
+		<en-US>Fame</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME_HELP</zType>
-		<English>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
+		<en-US>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
 As Governor {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} and {YIELD_MONEY} is increased.
-For Generals Fame increases the defense Strenght of a Unit.</English>
+For Generals Fame increases the defense Strenght of a Unit.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_SKYEXPLORER</zType>
-		<English>Sky Explorer Leader</English>
+		<en-US>Sky Explorer Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_CORRUPTIONIST</zType>
-		<English>Corruptionist Leader</English>
+		<en-US>Corruptionist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ARTIST</zType>
-		<English>Artist Leader</English>
+		<en-US>Artist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_MERCHANT</zType>
-		<English>Merchant Leader</English>
+		<en-US>Merchant Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_CHAMPION</zType>
-		<English>Champion Leader</English>
+		<en-US>Champion Leader</en-US>
 	</Entry>
 </Root>

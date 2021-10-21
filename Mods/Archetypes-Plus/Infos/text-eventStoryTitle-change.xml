@@ -2,42 +2,42 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES_TITLE</zType>
-		<Translation>Lernte Astronomie</Translation>
+		<de-DE>Lernte Astronomie</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES_TITLE</zType>
-		<Translation>Lernte Pythagoreismus</Translation>
+		<de-DE>Lernte Pythagoreismus</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_TITLE</zType>
-		<Translation>Ausbildung abgeschlossen</Translation>
+		<de-DE>Ausbildung abgeschlossen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_TITLE</zType>
-		<Translation>Ausbildung abgeschlossen</Translation>
+		<de-DE>Ausbildung abgeschlossen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_BEARDY_MAN_TITLE</zType>
-		<Translation>Alter bärtiger Mann</Translation>
+		<de-DE>Alter bärtiger Mann</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME_TITLE</zType>
-		<Translation>Die Pantomime</Translation>
+		<de-DE>Die Pantomime</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</zType>
-		<Translation>Der Bildhauer</Translation>
+		<de-DE>Der Bildhauer</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</zType>
-		<Translation>Ein wahrer Held</Translation>
+		<de-DE>Ein wahrer Held</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_TITLE</zType>
-		<Translation>Zukunft des Reiches</Translation>
+		<de-DE>Zukunft des Reiches</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
-		<Translation>{CHARACTER-0} hat ein Merkmal erlangt</Translation>
+		<de-DE>{CHARACTER-0} hat ein Merkmal erlangt</de-DE>
 	</Entry>
 </Root>

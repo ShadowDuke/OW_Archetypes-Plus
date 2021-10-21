@@ -2,30 +2,30 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<English>Sky Explorer Leader</English>
+		<en-US>Sky Explorer Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<English>Corruptionist Leader</English>
+		<en-US>Corruptionist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Artist Leader</English>
+		<en-US>Artist Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<English>Merchant Leader</English>
+		<en-US>Merchant Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<English>Champion Leader</English>
+		<en-US>Champion Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
-		<English>Funded Education</English>
+		<en-US>Funded Education</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<en-US>Pyramids Builder</en-US>
 	</Entry>
 </Root>

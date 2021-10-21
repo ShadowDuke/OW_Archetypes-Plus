@@ -2,30 +2,30 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<Translation>Himmelsforscher Oberhaupt</Translation>
+		<de-DE>Himmelsforscher Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<Translation>Bestechliches Oberhaupt</Translation>
+		<de-DE>Bestechliches Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ARTIST_ARCHETYPE</zType>
-		<Translation>Künstler Oberhaupt</Translation>
+		<de-DE>Künstler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<Translation>Händler Oberhaupt</Translation>
+		<de-DE>Händler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<Translation>Champion Oberhaupt</Translation>
+		<de-DE>Champion Oberhaupt</de-DE>
 	</Entry>
 		<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_FUNDED</zType>
-		<Translation>Finanzierte Bildung</Translation>
+		<de-DE>Finanzierte Bildung</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
-		<Translation>Pyramiden Erbauer</Translation>
+		<de-DE>Pyramiden Erbauer</de-DE>
 	</Entry>
 </Root>

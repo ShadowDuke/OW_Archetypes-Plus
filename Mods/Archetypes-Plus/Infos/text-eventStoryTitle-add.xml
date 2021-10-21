@@ -2,46 +2,46 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASTRONOMY_ARCHETYPES_TITLE</zType>
-		<English>Astronomy Studies</English>
+		<en-US>Astronomy Studies</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_PYTHAGOREANISM_ARCHETYPES_TITLE</zType>
-		<English>Pythagoreanism Studies</English>
+		<en-US>Pythagoreanism Studies</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_ASTRONOMY_TITLE</zType>
-		<English>Studies Complete</English>
+		<en-US>Studies Complete</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PYTHAGOREANISM_TITLE</zType>
-		<English>Studies Complete</English>
+		<en-US>Studies Complete</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_BEARDY_MAN_TITLE</zType>
-		<English>Old beardy man </English>
+		<en-US>Old beardy man </en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GREAT_ARCHIMEDES_TITLE</zType>
-		<English>Archimedes</English>
+		<en-US>Archimedes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MNESTER_THE_PANTOMIME_TITLE</zType>
-		<English>The Pantomime</English>
+		<en-US>The Pantomime</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ARISTOMACHOS_THE_SCULPTOR_TITLE</zType>
-		<English>The Sculptor</English>
+		<en-US>The Sculptor</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MARK_ANTONY_TITLE</zType>
-		<English>A true Hero</English>
+		<en-US>A true Hero</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_TITLE</zType>
-		<English>Future of our nation</English>
+		<en-US>Future of our nation</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOT_A_TRAIT_TITLE</zType>
-		<English>{CHARACTER-0} gained a trait</English>
+		<en-US>{CHARACTER-0} gained a trait</en-US>
 	</Entry>
 </Root>

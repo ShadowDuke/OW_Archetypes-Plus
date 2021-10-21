@@ -2,26 +2,26 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SKYEXPLORER_ARCHETYPE_ALL</zType>
-		<Translation>Himmelsforscher Oberhaupt</Translation>
+		<de-DE>Himmelsforscher Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPTIONIST_ARCHETYPE_ALL</zType>
-		<Translation>Bestechliches Oberhaupt</Translation>
+		<de-DE>Bestechliches Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ARTIST_ARCHETYPE_ALL</zType>
-		<Translation>Künstler Oberhaupt</Translation>
+		<de-DE>Künstler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MERCHANT_ARCHETYPE_ALL</zType>
-		<Translation>Händler Oberhaupt</Translation>
+		<de-DE>Händler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CHAMPION_ARCHETYPE_ALL</zType>
-		<Translation>Champion Oberhaupt</Translation>
+		<de-DE>Champion Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</zType>
-		<Translation>Pyramiden Erbauer</Translation>
+		<de-DE>Pyramiden Erbauer</de-DE>
 	</Entry>
 </Root>

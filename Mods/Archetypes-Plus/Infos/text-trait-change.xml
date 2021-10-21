@@ -2,42 +2,42 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_ASTRONOMY</zType>
-		<Translation>Schüler der Astronomie</Translation>
+		<de-DE>Schüler der Astronomie</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PYTHAGOREANISM</zType>
-		<Translation>Schüler des Pythagoreismus</Translation>
+		<de-DE>Schüler des Pythagoreismus</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<Translation>Himmelsforscher</Translation>
+		<de-DE>Himmelsforscher</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<Translation>Bestechlich</Translation>
+		<de-DE>Bestechlich</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
-		<Translation>Künstler</Translation>
+		<de-DE>Künstler</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<Translation>Händler</Translation>
+		<de-DE>Händler</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<Translation>Champion</Translation>
+		<de-DE>Champion</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
-		<Translation>Aufgeschlossen</Translation>
+		<de-DE>Aufgeschlossen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FUNDED</zType>
-		<Translation>Finanzierte Bildung</Translation>
+		<de-DE>Finanzierte Bildung</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<Translation>Berühmte Person</Translation>
+		<de-DE>Berühmte Person</de-DE>
 	</Entry>
 </Root>

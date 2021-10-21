@@ -2,46 +2,46 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_ASTRONOMY</zType>
-		<English>Astronomy Student</English>
+		<en-US>Astronomy Student</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PYTHAGOREANISM</zType>
-		<English>Pythagoreanism Student</English>
+		<en-US>Pythagoreanism Student</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
-		<English>Sky Explorer</English>
+		<en-US>Sky Explorer</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
-		<English>Corruptionist</English>
+		<en-US>Corruptionist</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
-		<English>Artist</English>
+		<en-US>Artist</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
-		<English>Merchant</English>
+		<en-US>Merchant</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
-		<English>Champion</English>
+		<en-US>Champion</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
-		<English>Broad-minded</English>
+		<en-US>Broad-minded</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FUNDED</zType>
-		<English>Funded</English>
+		<en-US>Funded</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<English>Famous Person</English>
+		<en-US>Famous Person</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<en-US>Pyramids Builder</en-US>
 	</Entry>
 </Root>

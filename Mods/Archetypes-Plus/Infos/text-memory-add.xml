@@ -1,10 +1,10 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_STUDY_ASTRONOMY_PUNISH</zType>
-		<English>Punished while Studying Astronomy</English>
+		<en-US>Punished while Studying Astronomy</en-US>
 	</Entry>
 </Root>

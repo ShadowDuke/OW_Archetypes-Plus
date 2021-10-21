@@ -3,118 +3,118 @@
 <Root>
 	<Entry>
 		<zType>TEXT_NAME_Alcibiades</zType>
-		<English>Alcibiades</English>
+		<en-US>Alcibiades</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Polybios</zType>
-		<English>Polybios</English>
+		<en-US>Polybios</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Antiphon</zType>
-		<English>Antiphon</English>
+		<en-US>Antiphon</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Dorotheos</zType>
-		<English>Dorotheos</English>
+		<en-US>Dorotheos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Demosthenes</zType>
-		<English>Demosthenes</English>
+		<en-US>Demosthenes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Flavius_Tribonianus</zType>
-		<English>Flavius Tribonianus</English>
+		<en-US>Flavius Tribonianus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Marcus_Antonius</zType>
-		<English>Marcus Antonius</English>
+		<en-US>Marcus Antonius</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Marcus_Iunius_Brutus</zType>
-		<English>Marcus Iunius Brutus</English>
+		<en-US>Marcus Iunius Brutus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Marcus_Furius_Camillus</zType>
-		<English>Marcus Furius Camillus</English>
+		<en-US>Marcus Furius Camillus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Lucius_Sergius_Catilina</zType>
-		<English>Lucius Sergius Catilina</English>
+		<en-US>Lucius Sergius Catilina</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Gaius_Valerius_Catullus</zType>
-		<English>Gaius Valerius Catullus</English>
+		<en-US>Gaius Valerius Catullus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Gnaeus_Cornelius_Lentulus_Batiatus</zType>
-		<English>Gnaeus Cornelius Lentulus Batiatus</English>
+		<en-US>Gnaeus Cornelius Lentulus Batiatus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Iddin_Marduk</zType>
-		<English>Iddin-Marduk</English>
+		<en-US>Iddin-Marduk</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Eumachia</zType>
-		<English>Eumachia</English>
+		<en-US>Eumachia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Marcus_Tullius_Cicero</zType>
-		<English>Marcus Tullius Cicero</English>
+		<en-US>Marcus Tullius Cicero</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Ankh_af_na_khonsu</zType>
-		<English>Ankh-af-na-khonsu</English>
+		<en-US>Ankh-af-na-khonsu</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Aristomachos</zType>
-		<English>Aristomachos</English>
+		<en-US>Aristomachos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Mnester</zType>
-		<English>Mnester</English>
+		<en-US>Mnester</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Archimedes</zType>
-		<English>Archimedes</English>
+		<en-US>Archimedes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hannibal</zType>
-		<English>Hannibal</English>
+		<en-US>Hannibal</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hamilcar</zType>
-		<English>Hamilcar</English>
+		<en-US>Hamilcar</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hasdrubal</zType>
-		<English>Hasdrubal</English>
+		<en-US>Hasdrubal</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Mago</zType>
-		<English>Mago</English>
+		<en-US>Mago</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Sneferu</zType>
-		<English>Sneferu</English>
+		<en-US>Sneferu</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hetepheres</zType>
-		<English>Hetepheres</English>
+		<en-US>Hetepheres</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Cheops</zType>
-		<English>Cheops</English>
+		<en-US>Cheops</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Rahotep</zType>
-		<English>Rahotep</English>
+		<en-US>Rahotep</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Nofret</zType>
-		<English>Nofret</English>
+		<en-US>Nofret</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Nefermaat</zType>
-		<English>Nefermaat</English>
+		<en-US>Nefermaat</en-US>
 	</Entry>
 </Root>

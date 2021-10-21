@@ -3,84 +3,84 @@
 <Root>
 	<Entry>
 		<zType/>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_SKYEXPLORER</zType>
-		<Translation>Der Himmelsgucker</Translation>
+		<de-DE>Der Himmelsgucker</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_CORRUPTIONIST</zType>
-		<Translation>Der Bestechliche</Translation>
+		<de-DE>Der Bestechliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_ARTIST</zType>
-		<Translation>der Künstler</Translation>
+		<de-DE>der Künstler</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_BROADMINDED</zType>
-		<Translation>Der Aufgeschlossene</Translation>
+		<de-DE>Der Aufgeschlossene</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_FUNDED</zType>
-		<Translation>Der Finanzierte</Translation>
+		<de-DE>Der Finanzierte</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_FAME</zType>
-		<Translation>Der Berühmte</Translation>
+		<de-DE>Der Berühmte</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_MERCHANT</zType>
-		<Translation>Der Händler</Translation>
+		<de-DE>Der Händler</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COGNOMEN_CHAMPION</zType>
-		<Translation>Der Champion</Translation>
+		<de-DE>Der Champion</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_SKYEXPLORER</zType>
-		<Translation>Der Himmelsgucker</Translation>
+		<de-DE>Der Himmelsgucker</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_ARTIST</zType>
-		<Translation>der Künster</Translation>
+		<de-DE>der Künster</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COURTIER_GREAT_FAME</zType>
-		<Translation>eine Berühmte Person</Translation>
+		<de-DE>eine Berühmte Person</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_RATING_FAME</zType>
-		<Translation>Ruhm</Translation>
+		<de-DE>Ruhm</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME</zType>
-		<Translation>Ruhm</Translation>
+		<de-DE>Ruhm</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME_HELP</zType>
-		<Translation>Ruhm erhöht {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} und {YIELD_CULTURE} als Oberhaupt oppelt so viel.
+		<de-DE>Ruhm erhöht {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} und {YIELD_CULTURE} als Oberhaupt oppelt so viel.
 Als Stadthalter sind {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} und {YIELD_MONEY} erhöht.
-Für Feldherren erhöht Ruhm die Verteidigungsstärke einer Einheit.</Translation>
+Für Feldherren erhöht Ruhm die Verteidigungsstärke einer Einheit.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_SKYEXPLORER</zType>
-		<Translation>Himmelsforscher Oberhaupt</Translation>
+		<de-DE>Himmelsforscher Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_CORRUPTIONIST</zType>
-		<Translation>Bestechliches Oberhaupt</Translation>
+		<de-DE>Bestechliches Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ARTIST</zType>
-		<Translation>Künstler Oberhaupt</Translation>
+		<de-DE>Künstler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_MERCHANT</zType>
-		<Translation>Händler Oberhaupt</Translation>
+		<de-DE>Händler Oberhaupt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_CHAMPION</zType>
-		<Translation>Champion Oberhaupt</Translation>
+		<de-DE>Champion Oberhaupt</de-DE>
 	</Entry>
 </Root>
