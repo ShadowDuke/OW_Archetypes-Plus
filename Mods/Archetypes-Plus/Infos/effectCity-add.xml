@@ -57,28 +57,28 @@
 				<zIndex>EFFECTCITY_PROJECT_TREASURY_1</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>30</iValue>
+					<iValue>20</iValue>
 				</SubPair>
 			</Pair>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY_2</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>60</iValue>
+					<iValue>40</iValue>
 				</SubPair>
 			</Pair>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY_3</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>120</iValue>
+					<iValue>80</iValue>
 				</SubPair>
 			</Pair>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY_4</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>240</iValue>
+					<iValue>160</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>

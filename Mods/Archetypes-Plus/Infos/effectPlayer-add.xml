@@ -11,7 +11,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>50</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
