@@ -27,6 +27,12 @@
 	<Entry>
 		<zType>TRAIT_HERO_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_HERO_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_HERO_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_HERO</zIconName>
 		<iMinAge>12</iMinAge>
@@ -67,6 +73,12 @@
 	<Entry>
 		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_COMMANDER_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_COMMANDER_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_COMMANDER</zIconName>
 		<iMinAge>12</iMinAge>
@@ -110,6 +122,12 @@
 	<Entry>
 		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_TACTICIAN_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_TACTICIAN_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_TACTICIAN</zIconName>
 		<iMinAge>12</iMinAge>
@@ -153,6 +171,12 @@
 	<Entry>
 		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ZEALOT_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_ZEALOT_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_ZEALOT</zIconName>
 		<iMinAge>12</iMinAge>
@@ -196,6 +220,12 @@
 	<Entry>
 		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SCHEMER_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_SCHEMER_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_SCHEMER</zIconName>
 		<iMinAge>12</iMinAge>
@@ -242,6 +272,12 @@
 	<Entry>
 		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ORATOR_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_ORATOR_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_ORATOR</zIconName>
 		<iMinAge>12</iMinAge>
@@ -282,6 +318,12 @@
 	<Entry>
 		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_JUDGE_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_JUDGE_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_JUDGE</zIconName>
 		<iMinAge>12</iMinAge>
@@ -323,6 +365,12 @@
 	<Entry>
 		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SCHOLAR_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_SCHOLAR_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_SCHOLAR</zIconName>
 		<iMinAge>12</iMinAge>
@@ -360,6 +408,12 @@
 	<Entry>
 		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Nickname>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_DIPLOMAT</zIconName>
 		<iMinAge>12</iMinAge>

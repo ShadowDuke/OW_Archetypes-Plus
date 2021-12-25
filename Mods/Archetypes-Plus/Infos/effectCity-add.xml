@@ -179,7 +179,7 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>20</iValue>
+				<iValue>15</iValue>
 			</Pair>
 		</aiYieldModifier>
 		<aaiEffectCityYieldRate>
