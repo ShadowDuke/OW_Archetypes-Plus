@@ -35,7 +35,7 @@
 		<iAge>20</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
+			<zValue>TRAIT_DEALMAKER</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
@@ -155,7 +155,7 @@
 		<iRating>1</iRating>
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
+			<zValue>TRAIT_DEALMAKER</zValue>
 			<zValue>TRAIT_INTOLERANT</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
@@ -293,7 +293,7 @@
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
 			<zValue>TRAIT_DIVINE</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
+			<zValue>TRAIT_DEALMAKER</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
