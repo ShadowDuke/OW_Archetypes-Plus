@@ -3,11 +3,13 @@
 	<Entry>
 		<zType>TRAIT_STUDY_ASTRONOMY</zType>
 		<Name>TEXT_TRAIT_STUDY_ASTRONOMY</Name>
+		<Description>TEXT_TRAIT_STUDY_ASTRONOMY_DESCRIPTION</Description>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_STUDY_PYTHAGOREANISM</zType>
 		<Name>TEXT_TRAIT_STUDY_PYTHAGOREANISM</Name>
+		<Description>TEXT_TRAIT_STUDY_PYTHAGOREANISM_DESCRIPTION</Description>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
