@@ -55,29 +55,29 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_ADD_GREAT_SKYEXPLORER</zType>
-		<AddCourtierForce>
+		<AddCourtier>
 			<Pair>
 				<zIndex>COURTIER_GREAT_SKYEXPLORER</zIndex>
-				<zValue>NONE</zValue>
+				<zValue/>
 			</Pair>
-		</AddCourtierForce>
+		</AddCourtier>
 	</Entry>
 	<Entry>
 		<zType>BONUS_ADD_GREAT_ARTIST</zType>
-		<AddCourtierForce>
+		<AddCourtier>
 			<Pair>
 				<zIndex>COURTIER_GREAT_ARTIST</zIndex>
-				<zValue>NONE</zValue>
+				<zValue/>
 			</Pair>
-		</AddCourtierForce>
+		</AddCourtier>
 	</Entry>
 	<Entry>
 		<zType>BONUS_ADD_GREAT_FAME</zType>
-		<AddCourtierForce>
+		<AddCourtier>
 			<Pair>
 				<zIndex>COURTIER_GREAT_FAME</zIndex>
-				<zValue>NONE</zValue>
+				<zValue/>
 			</Pair>
-		</AddCourtierForce>
+		</AddCourtier>
 	</Entry>
 </Root>
