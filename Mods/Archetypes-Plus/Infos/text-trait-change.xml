@@ -17,24 +17,156 @@
 		<de-DE>Kann zu link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), oder vielleicht link(TRAIT_SKYEXPLORER_ARCHETYPE), link(TRAIT_CORRUPTIONIST_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ARTIST_ARCHETYPE), link(TRAIT_MERCHANT_ARCHETYPE) und link(TRAIT_CHAMPION_ARCHETYPE) führen</de-DE>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_HERO_ARCHETYPE_F</zType>
+		<de-DE>Heldin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Heldin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_F</zType>
+		<de-DE>Feldherrin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Feldherrin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_F</zType>
+		<de-DE>Taktikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Taktikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_F</zType>
+		<de-DE>Fanatikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Fanatikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_F</zType>
+		<de-DE>Intrigantin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Intrigantin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE_F</zType>
+		<de-DE>Rednerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Rednerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE_F</zType>
+		<de-DE>Richterin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Richterin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_F</zType>
+		<de-DE>Gelehrte</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Gelehrte</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_F</zType>
+		<de-DE>Diplomatin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Diplomatin</de-DE>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE</zType>
 		<de-DE>Himmelsforscher</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE_F</zType>
+		<de-DE>Himmelsforscherin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE_NICKNAME</zType>
+		<de-DE>der Himmelsforscher</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SKYEXPLORER_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Himmelsforscherin</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE</zType>
 		<de-DE>Bestechlich</de-DE>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE_F</zType>
+		<de-DE>Bestechliche</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE_NICKNAME</zType>
+		<de-DE>der Bestechliche</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CORRUPTIONIST_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Bestechliche</de-DE>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE</zType>
 		<de-DE>Künstler</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE_F</zType>
+		<de-DE>Künsterlin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE_NICKNAME</zType>
+		<de-DE>der Künstler</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ARTIST_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Künsterlin</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE</zType>
 		<de-DE>Händler</de-DE>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE_F</zType>
+		<de-DE>Händlerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE_NICKNAME</zType>
+		<de-DE>der Händler</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MERCHANT_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Händlerin</de-DE>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE</zType>
 		<de-DE>Champion</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE_F</zType>
+		<de-DE>Champion</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE_NICKNAME</zType>
+		<de-DE>ein Champion</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CHAMPION_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>ein Champion</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BROADMINDED</zType>
