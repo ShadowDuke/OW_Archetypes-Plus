@@ -45,8 +45,8 @@
 		<zIconName>TRAIT_HERO</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>2</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>3</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionProximity>-40</iOpinionProximity>
 		<iTruceModifier>-50</iTruceModifier>
 		<iWarModifier>50</iWarModifier>
