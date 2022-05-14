@@ -1,20 +1,44 @@
-<!-- Archetypes+ (Revan) -->
+<!-- Archetypes+ (© Revan ©) -->
+
 <Root>
 	<Entry>
 		<zType>TRAIT_STUDY_ASTRONOMY</zType>
 		<Name>TEXT_TRAIT_STUDY_ASTRONOMY</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_STUDY_ASTRONOMY_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Description>TEXT_TRAIT_STUDY_ASTRONOMY_DESCRIPTION</Description>
+		<bDisplay>1</bDisplay>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_STUDY_PYTHAGOREANISM</zType>
 		<Name>TEXT_TRAIT_STUDY_PYTHAGOREANISM</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_STUDY_PYTHAGOREANISM_F</Second>
+			</Pair>
+		</GenderedNames>
 		<Description>TEXT_TRAIT_STUDY_PYTHAGOREANISM_DESCRIPTION</Description>
+		<bDisplay>1</bDisplay>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_EXPLORING</zType>
 		<Name>TEXT_TRAIT_EXPLORING</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_EXPLORING_F</Second>
+			</Pair>
+		</GenderedNames>
+		<bDisplay>1</bDisplay>
+		<bNoEvents>1</bNoEvents>
+		<bNoMissions>1</bNoMissions>
 		<bNoMarry>1</bNoMarry>
 		<bNoBirth>1</bNoBirth>
 		<bNoJob>1</bNoJob>
